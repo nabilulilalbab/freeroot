@@ -1,0 +1,13 @@
+{
+  "setupTasks": ["mkdir -p ./user-workspace"],  
+  "tasks": {
+    "vscode-server": {
+      "name": "VSCode Server",
+      "command": "/home/.openvscode-server/bin/openvscode-server --host 0.0.0.0 --port 1025 --without-connection-token --disable-workspace-trust --default-folder /project/sandbox/user-workspace",
+      "runAtStart": true,
+      "preview": {
+        "port": 1025
+      }
+    }
+  }
+}
