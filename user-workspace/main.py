@@ -19,7 +19,7 @@ while True:
     print(f"Status Code: {response.status_code}")
     print(response.text[:500])  # Menampilkan 500 karakter pertama dari halaman
 
-    # Menunggu antara 10 hingga 15 menit (600 hingga 900 detik)
-    wait_time = random.randint(600, 900)
+    # Menunggu antara 3 hingga 5 menit (180 hingga 300 detik)
+    wait_time = random.randint(180, 300)
     print(f"Waiting for {wait_time} seconds...")
     time.sleep(wait_time)  # Tidur untuk interval acak
