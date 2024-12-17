@@ -3,7 +3,7 @@ import time
 import random
 
 # URL yang ingin dikunjungi
-url = 'https://www.example.com'
+url = 'https://khlj77.csb.app/'
 
 # Header dengan User-Agent untuk meniru browser manusia
 headers = {
