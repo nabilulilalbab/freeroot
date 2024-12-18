@@ -1,3 +1,4 @@
+
 #!/bin/bash
 while true; do
   curl -s https://<your-vscode-url> > /dev/null
