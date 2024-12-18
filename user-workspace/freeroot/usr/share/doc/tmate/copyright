@@ -1,0 +1,315 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: tmate
+Upstream-Contact: Nicolas Viennot <nicolas@viennot.com>
+Source: https://github.com/nviennot/tmate
+
+Files: *
+Copyright: 2007-2016, Nicolas Viennot <nicolas@viennot.com>
+License: Expat
+
+Files: cmd-rename-window.c
+       resize.c
+       osdep-dragonfly.c
+       xterm-keys.c
+       server-client.c
+       cmd-rotate-window.c
+       tmux.c
+       cmd-find-window.c
+       cmd-rename-session.c
+       cmd-list-keys.c
+       cmd-refresh-client.c
+       array.h
+       paste.c
+       cmd-switch-client.c
+       mode-key.c
+       client.c
+       osdep-openbsd.c
+       cmd-respawn-window.c
+       cmd-choose-client.c
+       format.c
+       key-bindings.c
+       tty-acs.c
+       cmd-kill-pane.c
+       screen-redraw.c
+       tty-term.c
+       cmd-lock-server.c
+       cmd-list.c
+       osdep-netbsd.c
+       osdep-linux.c
+       osdep-aix.c
+       cmd-show-options.c
+       window-choose.c
+       cmd-list-buffers.c
+       log.c
+       session.c
+       cmd-set-environment.c
+       tty-keys.c
+       xmalloc.c
+       cmd-new-session.c
+       cmd-swap-pane.c
+       tmux.h
+       arguments.c
+       cmd-attach-session.c
+       cmd-kill-session.c
+       cfg.c
+       options.c
+       cmd-new-window.c
+       cmd-list-sessions.c
+       cmd-show-messages.c
+       cmd-select-pane.c
+       colour.c
+       compat/forkpty-sunos.c
+       compat/forkpty-hpux.c
+       compat/forkpty-aix.c
+       compat/asprintf.c
+       cmd-display-panes.c
+       key-string.c
+       screen.c
+       cmd-set-option.c
+       window.c
+       cmd-kill-server.c
+       options-table.c
+       input-keys.c
+       cmd-clear-history.c
+       cmd-unbind-key.c
+       server-fn.c
+       cmd-set-buffer.c
+       grid.c
+       cmd-move-window.c
+       cmd-string.c
+       cmd.c
+       status.c
+       window-clock.c
+       cmd-pipe-pane.c
+       layout.c
+       server.c
+       cmd-queue.c
+       cmd-send-keys.c
+       cmd-list-clients.c
+       cmd-detach-client.c
+       osdep-hpux.c
+       cmd-bind-key.c
+       cmd-select-layout.c
+       grid-view.c
+       tmux.1
+       tty.c
+       cmd-show-environment.c
+       cmd-paste-buffer.c
+       layout-set.c
+       cmd-select-window.c
+       cmd-break-pane.c
+       names.c
+       layout-custom.c
+       window-copy.c
+       utf8.c
+       cmd-command-prompt.c
+       input.c
+       cmd-list-panes.c
+       cmd-list-windows.c
+       cmd-copy-mode.c
+       compat.h
+       cmd-resize-pane.c
+       cmd-choose-buffer.c
+       osdep-freebsd.c
+       cmd-kill-window.c
+       osdep-unknown.c
+       screen-write.c
+       environ.c
+       cmd-split-window.c
+       job.c
+       cmd-swap-window.c
+       alerts.c
+       proc.c
+       cmd-find.c
+Copyright: 2004-2015, Nicholas Marriott <nicm@users.sourceforge.net>
+License: ISC
+
+Files: osdep-darwin.c
+       attributes.c
+Copyright: 2009, Joshua Elsasser <josh@elsasser.org>
+License: ISC
+
+Files: cmd-load-buffer.c
+       cmd-display-message.c
+       cmd-save-buffer.c
+       cmd-source-file.c
+       cmd-confirm-before.c
+Copyright: 2009, Tiago Cunha <me@tiagocunha.org>
+License: ISC
+
+Files: compat/closefrom.c
+       compat/strlcat.c
+       compat/strlcpy.c
+Copyright: 1998-2005, Todd C. Miller <Todd.Miller@courtesan.com>
+License: ISC
+
+Files: compat/strtonum.c
+Copyright: 2004, Ted Unangst
+           2004, Todd C. Miller <Todd.Miller@courtesan.com>
+License: ISC
+
+Files: cmd-respawn-pane.c
+Copyright: 2008, Nicholas Marriott <nicm@users.sourceforge.net>
+           2011, Marcel P. Partap <mpartap@gmx.net>
+License: ISC
+
+Files: control-notify.c
+       cmd-join-pane.c
+       control.c
+Copyright: 2012, Nicholas Marriott <nicm@users.sourceforge.net>
+           2012, George Nachman <tmux@georgester.com>
+License: ISC
+
+Files: signal.c
+Copyright: 2007, Nicholas Marriott <nicm@users.sourceforge.net>
+           2010, Romain Francoise <rfrancoise@debian.org>
+License: ISC
+
+Files: cmd-wait-for.c
+Copyright: 2013, Nicholas Marriott <nicm@users.sourceforge.net>
+           2013, Thiago de Arruda <tpadilha84@gmail.com>
+License: ISC
+
+Files: cmd-run-shell.c
+       cmd-if-shell.c
+       style.c
+Copyright: 2009-2014, Tiago Cunha <me@tiagocunha.org>
+           2007-2009, Nicholas Marriott <nicm@openbsd.org>
+License: ISC
+
+Files: compat/setenv.c
+Copyright: 2010, Dagobert Michelsen
+           2010, Nicholas Marriott <nicm@users.sourceforge.net>
+License: ISC
+
+Files: compat/vis.c
+       compat/strcasestr.c
+       compat/bitstring.h
+       compat/unvis.c
+       compat/strsep.c
+       compat/vis.h
+       compat/getopt.c
+       compat/queue.h
+       compat/daemon.c
+Copyright: 1987-1994, The Regents of the University of California
+License: BSD-3  
+
+Files: compat/imsg-buffer.c
+       compat/imsg.c
+Copyright: 2003-2004, Henning Brauer <henning@openbsd.org>
+License: BSD-2
+
+Files: compat/imsg.h
+Copyright: 2006-2007, Pierre-Yves Ritschard <pyr@openbsd.org>
+           2006-2008, Reyk Floeter <reyk@openbsd.org>
+           2003-2004, Henning Brauer <henning@openbsd.org>
+License: BSD-2
+
+Files: compat/tree.h
+Copyright: 2002, Niels Provos <provos@citi.umich.edu>
+License: BSD-2
+
+Files: logo/*
+Copyright: 2015, Jason Long <jason@jasonlong.me>
+License: ISC
+
+Files: cmd-set-hook.c
+       hooks.c
+Copyright: 2012, Thomas Adam <thomas@xteddy.org>
+License: ISC
+
+Files: cmd-capture-pane.c
+Copyright: 2009, Jonathan Alvarado <radobobo@users.sourceforge.net>
+License: ISC
+
+Files: compat/reallocarray.c
+Copyright: 2008, Otto Moerbeek <otto@drijf.net>
+License: ISC
+
+Files: compat/fgetln.c
+Copyright: 2015, Joerg Jung <jung@openbsd.org>
+License: ISC
+
+Files: debian/*
+Copyright: 2015-2019, Lucas Kanashiro <kanashiro@debian.org>
+License: Expat
+
+License: BSD-2
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions
+ are met:
+ .
+ 1. Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+ 2. Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in the
+    documentation and/or other materials provided with the distribution.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
+ IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+ IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+ INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+ NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+License: BSD-3  
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions
+ are met:
+ .
+ 1. Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+ 2. Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in the 
+    documentation and/or other materials provided with the distribution.
+ 3. Neither the name of the University nor the names of its contributors
+    may be used to endorse or promote products derived from this software
+    without specific prior written permission.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND 
+ ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
+ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE
+ FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+ OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+ LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY 
+ OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ SUCH DAMAGE.
+
+License: Expat
+ Permission is hereby granted, free of charge, to any person obtaining a copy of
+ this software and associated documentation files (the "Software"), to deal in
+ the Software without restriction, including without limitation the rights to
+ use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+ of the Software, and to permit persons to whom the Software is furnished to do
+ so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in all
+ copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE.
+
+License: ISC
+ Permission to use, copy, modify, and distribute this software for any 
+ purpose with or without fee is hereby granted, provided that the above
+ copyright notice and this permission notice appear in all copies.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+ WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+ MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR 
+ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+ WHATSOEVER RESULTING FROM LOSS OF MIND, USE, DATA OR PROFITS, WHETHER
+ IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
+ OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.

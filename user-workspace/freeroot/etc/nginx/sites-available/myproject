@@ -1,0 +1,19 @@
+server {
+   listen 80;
+   server_name learnsosmed.kortekslol.my.id;
+
+   access_log /var/log/nginx/learnsomed.log;
+
+   location /static/ {
+       alias /opt/myproject/myproject/learnsosmed/staticfiles;
+   }
+
+
+   location / {
+       proxy_pass http://192.168.10.206:8000;
+       proxy_set_header X-Forwarded-Host $server_name;
+       proxy_set_header X-Real-IP $remote_addr;
+       add_header P3P 'CP="ALLDSP COR PSAa PSDa OURNOR ONL UNI COM NAV"';
+   }
+}
+

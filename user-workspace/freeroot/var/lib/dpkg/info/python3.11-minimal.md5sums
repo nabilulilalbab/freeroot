@@ -1,0 +1,7 @@
+e9335e77a7fb63768116b24c7504db77  usr/bin/python3.11
+3dd49551104e3151d1123afed8a7bd26  usr/share/binfmts/python3.11
+a77a8e658c854b002d038df31e70e508  usr/share/doc/python3.11-minimal/README.Debian.gz
+70167226efc011697d13cc0d98727870  usr/share/doc/python3.11-minimal/changelog.Debian.gz
+d8c47e21fcd8f5a22f90828d568b0084  usr/share/doc/python3.11-minimal/copyright
+c10f44c0cd6c3dcea32aac7ada17a182  usr/share/lintian/overrides/python3.11-minimal
+d883a022f66214643420a27ce33acc4c  usr/share/man/man1/python3.11.1.gz

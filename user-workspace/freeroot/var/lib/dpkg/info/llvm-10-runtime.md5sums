@@ -1,0 +1,6 @@
+e497ca285ebf38618a5ab13533212f5b  usr/lib/llvm-10/bin/lli
+f1ec5b33065be835982ce49103ff8b9f  usr/lib/llvm-10/bin/lli-child-target
+7715325766e52ada72ea557cd7c8ebff  usr/share/binfmts/llvm-10-runtime.binfmt
+58e9c022801e118e225247276f1341bc  usr/share/doc/llvm-10-runtime/copyright
+c77ac91f2fcb112696203c28e4671862  usr/share/lintian/overrides/llvm-10-runtime
+9ee2478eb3fc30235638049044af4845  usr/share/man/man1/lli-10.1.gz

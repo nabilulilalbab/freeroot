@@ -1,0 +1,275 @@
+2024-12-18 04:01:41,117 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-18 04:01:41,117 INFO Included extra file "/etc/supervisor/conf.d/celery.conf" during parsing
+2024-12-18 04:01:41,117 INFO Included extra file "/etc/supervisor/conf.d/gunicorn.conf" during parsing
+2024-12-18 04:01:41,117 INFO Included extra file "/etc/supervisor/conf.d/redis.conf" during parsing
+2024-12-18 04:01:41,121 INFO RPC interface 'supervisor' initialized
+2024-12-18 04:01:41,121 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-12-18 04:01:41,123 INFO daemonizing the supervisord process
+2024-12-18 04:01:41,126 INFO supervisord started with pid 29007
+2024-12-18 04:01:42,130 INFO spawned: 'celery' with pid 29053
+2024-12-18 04:01:42,134 INFO spawned: 'gunicorn' with pid 29054
+2024-12-18 04:01:42,138 INFO spawned: 'redis' with pid 29055
+2024-12-18 04:01:42,186 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:01:43,168 INFO success: celery entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:01:43,169 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:01:44,170 INFO spawned: 'redis' with pid 29082
+2024-12-18 04:01:44,171 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:01:44,177 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-18 04:01:44,177 INFO Included extra file "/etc/supervisor/conf.d/celery.conf" during parsing
+2024-12-18 04:01:44,177 INFO Included extra file "/etc/supervisor/conf.d/gunicorn.conf" during parsing
+2024-12-18 04:01:44,177 INFO Included extra file "/etc/supervisor/conf.d/redis.conf" during parsing
+2024-12-18 04:01:44,180 INFO spawned: 'celery' with pid 29084
+2024-12-18 04:01:44,180 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:01:44,585 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:01:45,589 INFO spawned: 'celery' with pid 29140
+2024-12-18 04:01:46,054 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:01:47,057 INFO spawned: 'redis' with pid 29156
+2024-12-18 04:01:47,074 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:01:48,079 INFO spawned: 'celery' with pid 29159
+2024-12-18 04:01:48,595 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:01:50,599 INFO spawned: 'redis' with pid 29189
+2024-12-18 04:01:50,614 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:01:50,614 INFO gave up: redis entered FATAL state, too many start retries too quickly
+2024-12-18 04:01:51,618 INFO spawned: 'celery' with pid 29192
+2024-12-18 04:01:52,183 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:01:53,185 INFO gave up: celery entered FATAL state, too many start retries too quickly
+2024-12-18 04:02:39,146 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-18 04:02:39,146 INFO Included extra file "/etc/supervisor/conf.d/celery.conf" during parsing
+2024-12-18 04:02:39,146 INFO Included extra file "/etc/supervisor/conf.d/gunicorn.conf" during parsing
+2024-12-18 04:02:39,146 INFO Included extra file "/etc/supervisor/conf.d/redis.conf" during parsing
+2024-12-18 04:02:39,150 INFO RPC interface 'supervisor' initialized
+2024-12-18 04:02:39,150 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-12-18 04:02:39,151 INFO daemonizing the supervisord process
+2024-12-18 04:02:39,152 INFO supervisord started with pid 29687
+2024-12-18 04:02:40,155 INFO spawned: 'celery' with pid 29747
+2024-12-18 04:02:40,157 INFO spawned: 'gunicorn' with pid 29748
+2024-12-18 04:02:40,159 INFO spawned: 'redis' with pid 29749
+2024-12-18 04:02:40,199 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:02:40,657 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:02:41,311 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:02:41,313 INFO spawned: 'redis' with pid 29768
+2024-12-18 04:02:41,328 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:02:42,314 INFO spawned: 'celery' with pid 29785
+2024-12-18 04:02:42,815 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:02:44,316 INFO spawned: 'redis' with pid 29816
+2024-12-18 04:02:44,329 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:02:45,048 INFO spawned: 'celery' with pid 29824
+2024-12-18 04:02:45,335 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:02:45,426 INFO spawned: 'gunicorn' with pid 29869
+2024-12-18 04:02:45,477 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:02:46,518 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:02:47,521 INFO spawned: 'redis' with pid 29899
+2024-12-18 04:02:47,539 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:02:48,521 INFO spawned: 'celery' with pid 29902
+2024-12-18 04:02:48,521 INFO gave up: redis entered FATAL state, too many start retries too quickly
+2024-12-18 04:02:48,963 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:02:49,520 INFO gave up: celery entered FATAL state, too many start retries too quickly
+2024-12-18 04:02:50,541 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:02:51,543 INFO spawned: 'gunicorn' with pid 29933
+2024-12-18 04:02:52,634 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:02:56,660 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:02:57,663 INFO spawned: 'gunicorn' with pid 29940
+2024-12-18 04:02:58,836 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:03:03,914 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:03:04,919 INFO spawned: 'gunicorn' with pid 29949
+2024-12-18 04:03:06,097 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:03:10,122 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:03:11,125 INFO spawned: 'gunicorn' with pid 29956
+2024-12-18 04:03:12,281 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:03:16,308 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:03:17,312 INFO spawned: 'gunicorn' with pid 29963
+2024-12-18 04:03:18,478 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:03:29,520 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:03:30,542 INFO spawned: 'gunicorn' with pid 29970
+2024-12-18 04:03:32,259 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:03:36,286 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:03:37,290 INFO spawned: 'gunicorn' with pid 30035
+2024-12-18 04:03:38,467 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:03:42,495 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:03:43,499 INFO spawned: 'gunicorn' with pid 30069
+2024-12-18 04:03:44,674 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:03:48,700 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:03:48,702 INFO spawned: 'gunicorn' with pid 30075
+2024-12-18 04:03:49,851 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:03:53,877 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:03:54,880 INFO spawned: 'gunicorn' with pid 30083
+2024-12-18 04:03:56,062 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:04:00,087 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:04:01,091 INFO spawned: 'gunicorn' with pid 30090
+2024-12-18 04:04:02,396 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:04:06,421 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:04:07,424 INFO spawned: 'gunicorn' with pid 30213
+2024-12-18 04:04:08,577 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:04:12,592 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:04:13,595 INFO spawned: 'gunicorn' with pid 30247
+2024-12-18 04:04:14,751 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:04:18,768 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:04:19,770 INFO spawned: 'gunicorn' with pid 30367
+2024-12-18 04:04:20,880 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:04:24,906 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:04:25,909 INFO spawned: 'gunicorn' with pid 30415
+2024-12-18 04:04:27,089 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:04:31,113 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:04:32,116 INFO spawned: 'gunicorn' with pid 30470
+2024-12-18 04:04:33,277 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:04:33,436 INFO spawned: 'redis' with pid 30492
+2024-12-18 04:04:33,448 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:04:35,282 INFO spawned: 'redis' with pid 30577
+2024-12-18 04:04:35,298 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:04:37,309 INFO spawned: 'redis' with pid 30581
+2024-12-18 04:04:37,309 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:04:37,328 INFO spawned: 'gunicorn' with pid 30583
+2024-12-18 04:04:37,329 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:04:38,489 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:04:40,493 INFO spawned: 'redis' with pid 30614
+2024-12-18 04:04:40,512 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:04:41,492 INFO gave up: redis entered FATAL state, too many start retries too quickly
+2024-12-18 04:04:42,514 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:04:43,518 INFO spawned: 'gunicorn' with pid 30619
+2024-12-18 04:04:44,701 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:04:48,724 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:04:49,728 INFO spawned: 'gunicorn' with pid 30626
+2024-12-18 04:04:50,888 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:04:54,914 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:04:55,918 INFO spawned: 'gunicorn' with pid 30634
+2024-12-18 04:04:57,105 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:05:01,132 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:05:02,135 INFO spawned: 'gunicorn' with pid 30641
+2024-12-18 04:05:03,277 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:05:07,302 INFO exited: gunicorn (exit status 1; not expected)
+2024-12-18 04:05:08,305 INFO spawned: 'gunicorn' with pid 30651
+2024-12-18 04:05:09,484 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:07:01,170 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-18 04:07:01,170 INFO Included extra file "/etc/supervisor/conf.d/celery.conf" during parsing
+2024-12-18 04:07:01,170 INFO Included extra file "/etc/supervisor/conf.d/gunicorn.conf" during parsing
+2024-12-18 04:07:01,170 INFO Included extra file "/etc/supervisor/conf.d/redis.conf" during parsing
+2024-12-18 04:07:01,481 INFO RPC interface 'supervisor' initialized
+2024-12-18 04:07:01,481 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-12-18 04:07:01,484 INFO daemonizing the supervisord process
+2024-12-18 04:07:01,485 INFO supervisord started with pid 31311
+2024-12-18 04:07:02,489 INFO spawned: 'celery' with pid 31352
+2024-12-18 04:07:02,491 INFO spawned: 'gunicorn' with pid 31353
+2024-12-18 04:07:02,504 INFO spawned: 'redis' with pid 31354
+2024-12-18 04:07:02,538 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:07:03,715 INFO success: celery entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:07:03,716 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:07:03,717 INFO spawned: 'redis' with pid 31366
+2024-12-18 04:07:03,725 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:07:03,762 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:07:04,765 INFO spawned: 'celery' with pid 31369
+2024-12-18 04:07:05,199 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:07:06,203 INFO spawned: 'celery' with pid 31381
+2024-12-18 04:07:06,205 INFO spawned: 'redis' with pid 31382
+2024-12-18 04:07:06,657 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:07:06,699 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:07:08,703 INFO spawned: 'celery' with pid 31404
+2024-12-18 04:07:09,207 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:07:10,210 INFO spawned: 'redis' with pid 31407
+2024-12-18 04:07:10,225 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:07:11,227 INFO gave up: redis entered FATAL state, too many start retries too quickly
+2024-12-18 04:07:12,229 INFO spawned: 'celery' with pid 31411
+2024-12-18 04:07:12,661 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:07:13,662 INFO gave up: celery entered FATAL state, too many start retries too quickly
+2024-12-18 04:10:40,444 INFO spawned: 'redis' with pid 852
+2024-12-18 04:10:41,484 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:10:41,487 INFO exited: redis (exit status 0; expected)
+2024-12-18 04:10:41,496 INFO spawned: 'redis' with pid 867
+2024-12-18 04:10:41,514 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:10:42,517 INFO spawned: 'redis' with pid 908
+2024-12-18 04:10:42,531 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:10:44,536 INFO spawned: 'redis' with pid 912
+2024-12-18 04:10:44,550 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:10:47,556 INFO spawned: 'redis' with pid 929
+2024-12-18 04:10:47,571 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:10:48,571 INFO gave up: redis entered FATAL state, too many start retries too quickly
+2024-12-18 04:10:51,273 INFO spawned: 'redis' with pid 996
+2024-12-18 04:10:51,280 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:10:52,283 INFO spawned: 'redis' with pid 1011
+2024-12-18 04:10:52,289 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:10:54,296 INFO spawned: 'redis' with pid 1053
+2024-12-18 04:10:54,312 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:10:57,317 INFO spawned: 'redis' with pid 1070
+2024-12-18 04:10:57,333 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:10:58,335 INFO gave up: redis entered FATAL state, too many start retries too quickly
+2024-12-18 04:18:31,746 INFO spawned: 'redis' with pid 3713
+2024-12-18 04:18:31,764 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:18:32,768 INFO spawned: 'redis' with pid 3733
+2024-12-18 04:18:32,790 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:18:34,797 INFO spawned: 'redis' with pid 3750
+2024-12-18 04:18:34,810 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:18:37,344 INFO spawned: 'redis' with pid 3770
+2024-12-18 04:18:38,351 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:18:38,352 INFO exited: redis (exit status 0; expected)
+2024-12-18 04:18:38,354 INFO spawned: 'redis' with pid 3796
+2024-12-18 04:18:38,375 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:18:39,378 INFO spawned: 'redis' with pid 3810
+2024-12-18 04:18:40,391 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:18:40,391 INFO exited: redis (exit status 0; expected)
+2024-12-18 04:18:41,395 INFO spawned: 'redis' with pid 3814
+2024-12-18 04:18:41,410 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:18:42,414 INFO spawned: 'redis' with pid 3829
+2024-12-18 04:18:42,430 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:18:44,434 INFO spawned: 'redis' with pid 3843
+2024-12-18 04:18:44,448 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:18:47,454 INFO spawned: 'redis' with pid 3848
+2024-12-18 04:18:47,470 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:18:48,472 INFO gave up: redis entered FATAL state, too many start retries too quickly
+2024-12-18 04:19:09,784 INFO spawned: 'redis' with pid 3874
+2024-12-18 04:19:09,791 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:19:10,794 INFO spawned: 'redis' with pid 3877
+2024-12-18 04:19:10,810 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:19:12,817 INFO spawned: 'redis' with pid 3906
+2024-12-18 04:19:12,830 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:19:15,836 INFO spawned: 'redis' with pid 3923
+2024-12-18 04:19:15,852 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:19:16,853 INFO gave up: redis entered FATAL state, too many start retries too quickly
+2024-12-18 04:22:29,064 INFO spawned: 'redis' with pid 5736
+2024-12-18 04:22:29,117 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:22:30,122 INFO spawned: 'redis' with pid 5788
+2024-12-18 04:22:31,137 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:22:31,138 INFO exited: redis (exit status 0; expected)
+2024-12-18 04:22:32,140 INFO spawned: 'redis' with pid 5805
+2024-12-18 04:22:33,155 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:22:33,155 INFO exited: redis (exit status 0; expected)
+2024-12-18 04:22:34,159 INFO spawned: 'redis' with pid 5823
+2024-12-18 04:22:34,172 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:22:35,177 INFO spawned: 'redis' with pid 5896
+2024-12-18 04:22:35,192 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:22:35,928 INFO spawned: 'celery' with pid 5904
+2024-12-18 04:22:36,930 INFO success: celery entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:22:37,044 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:22:37,046 INFO spawned: 'celery' with pid 5951
+2024-12-18 04:22:37,547 INFO spawned: 'redis' with pid 5952
+2024-12-18 04:22:37,566 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:22:37,587 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:22:38,591 INFO spawned: 'celery' with pid 5970
+2024-12-18 04:22:39,136 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:22:41,141 INFO spawned: 'celery' with pid 6001
+2024-12-18 04:22:41,144 INFO spawned: 'redis' with pid 6002
+2024-12-18 04:22:41,164 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:22:41,624 INFO gave up: redis entered FATAL state, too many start retries too quickly
+2024-12-18 04:22:41,667 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:22:44,674 INFO spawned: 'celery' with pid 6093
+2024-12-18 04:22:45,105 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:22:46,105 INFO gave up: celery entered FATAL state, too many start retries too quickly
+2024-12-18 04:28:57,880 INFO spawned: 'redis' with pid 8472
+2024-12-18 04:28:57,934 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:28:58,078 INFO spawned: 'celery' with pid 8492
+2024-12-18 04:28:59,079 INFO success: celery entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-18 04:28:59,085 INFO spawned: 'redis' with pid 8511
+2024-12-18 04:28:59,102 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:28:59,303 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:29:00,306 INFO spawned: 'celery' with pid 8542
+2024-12-18 04:29:00,885 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:29:01,889 INFO spawned: 'celery' with pid 8544
+2024-12-18 04:29:01,892 INFO spawned: 'redis' with pid 8545
+2024-12-18 04:29:01,913 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:29:02,600 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:29:04,604 INFO spawned: 'celery' with pid 8577
+2024-12-18 04:29:05,071 INFO spawned: 'redis' with pid 8578
+2024-12-18 04:29:05,086 INFO exited: redis (exit status 0; not expected)
+2024-12-18 04:29:05,115 INFO gave up: redis entered FATAL state, too many start retries too quickly
+2024-12-18 04:29:05,116 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:29:08,121 INFO spawned: 'celery' with pid 8583
+2024-12-18 04:29:08,576 INFO exited: celery (exit status 2; not expected)
+2024-12-18 04:29:09,578 INFO gave up: celery entered FATAL state, too many start retries too quickly

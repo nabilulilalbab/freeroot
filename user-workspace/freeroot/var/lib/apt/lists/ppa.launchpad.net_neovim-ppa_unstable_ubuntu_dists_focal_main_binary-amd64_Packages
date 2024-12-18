@@ -1,0 +1,53 @@
+Package: neovim
+Priority: optional
+Section: editors
+Installed-Size: 9263
+Maintainer: Florian Walch <florian+launchpad@fwalch.com>
+Architecture: amd64
+Version: 0.10.0~ubuntu1+git202401272103-2cd76a758-971e32c87-6850187d2~ubuntu20.04.1
+Replaces: neovim-runtime (<< 0.8.0~~)
+Provides: editor, vim
+Depends: neovim-runtime (= 0.10.0~ubuntu1+git202401272103-2cd76a758-971e32c87-6850187d2~ubuntu20.04.1), libc6 (>= 2.29), libluajit-5.1-2 (>= 2.0.4+dfsg)
+Breaks: neovim-runtime (<< 0.8.0~~)
+Filename: pool/main/n/neovim/neovim_0.10.0~ubuntu1+git202401272103-2cd76a758-971e32c87-6850187d2~ubuntu20.04.1_amd64.deb
+Size: 2259972
+MD5sum: 25e8bf7b44e19fb05ef7a2fea511ae81
+SHA1: c0c41d341581345ee6658c1c93ef9ccee60f1caf
+SHA256: 977877bd6603624a090e29703fadcf886ba369b959d2509df992603d115d70cb
+Description: Fork of Vim aiming to improve user experience, plugins, and GUIs.
+Description-md5: 98f18732940c0d376bfc0392a564f6fa
+
+Package: neovim-runtime
+Source: neovim
+Priority: optional
+Section: editors
+Installed-Size: 24094
+Maintainer: Florian Walch <florian+launchpad@fwalch.com>
+Architecture: all
+Version: 0.10.0~ubuntu1+git202401272103-2cd76a758-971e32c87-6850187d2~ubuntu20.04.1
+Filename: pool/main/n/neovim/neovim-runtime_0.10.0~ubuntu1+git202401272103-2cd76a758-971e32c87-6850187d2~ubuntu20.04.1_all.deb
+Size: 4510288
+MD5sum: 3e009c695595de7ad30f6015af69b589
+SHA1: e2a58869a4ab5ef1da229e570ae6ff712c58a670
+SHA256: 38ea26f63c52ee9a0dd3afefac3e6f25518203fc1d59528d250f603f425f14a6
+Description: Fork of Vim aiming to improve user experience, plugins, and GUIs. (runtime files)
+Description-md5: b165f3ab66556886bd22284da0bb6151
+Multi-Arch: foreign
+
+Package: neovim-runtime
+Source: neovim
+Priority: optional
+Section: editors
+Installed-Size: 24087
+Maintainer: Florian Walch <florian+launchpad@fwalch.com>
+Architecture: all
+Version: 0.10.0~ubuntu1+git202401232107-8b2365369-c60402a16-0c0ea1f52~ubuntu20.04.1
+Filename: pool/main/n/neovim/neovim-runtime_0.10.0~ubuntu1+git202401232107-8b2365369-c60402a16-0c0ea1f52~ubuntu20.04.1_all.deb
+Size: 4509816
+MD5sum: bbdaeeb0dd9f5a46efcee34379f1b79e
+SHA1: 2ebd923049ef45eff1880d912da414cd61479d6d
+SHA256: be21605debf9ce00e304b736797179e77e1592c032b0ed31ca490dde0814ba87
+Description: Fork of Vim aiming to improve user experience, plugins, and GUIs. (runtime files)
+Description-md5: b165f3ab66556886bd22284da0bb6151
+Multi-Arch: foreign
+

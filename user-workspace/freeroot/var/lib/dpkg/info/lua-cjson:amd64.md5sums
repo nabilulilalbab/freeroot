@@ -1,0 +1,5 @@
+8c16b8e89c9fee8d2f358c3e713555b4  usr/lib/x86_64-linux-gnu/liblua5.1-cjson.so.0.0.0
+8d8e97f54347a5b282f7d382c4c79571  usr/lib/x86_64-linux-gnu/liblua5.2-cjson.so.0.0.0
+58f57c3e3e76357408b0283fefe78afd  usr/share/doc/lua-cjson/changelog.Debian.gz
+03fb781443304aaebaee9726332530dd  usr/share/doc/lua-cjson/copyright
+f7bc5cace4d090cccbaa969d51212720  usr/share/lua/5.1/cjson/util.lua

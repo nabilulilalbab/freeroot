@@ -1,0 +1,14 @@
+Package: neovim
+Description-md5: 98f18732940c0d376bfc0392a564f6fa
+Description-en: Fork of Vim aiming to improve user experience, plugins, and GUIs.
+ This package is the nightly build from the neovim unstable PPA.
+
+Package: neovim-dbgsym
+Description-md5: cc5396d9cabff99ef5a2a018fec90535
+Description-en: debug symbols for neovim
+
+Package: neovim-runtime
+Description-md5: b165f3ab66556886bd22284da0bb6151
+Description-en: Fork of Vim aiming to improve user experience, plugins, and GUIs. (runtime files)
+ This package is the nightly build from the neovim unstable PPA.
+

@@ -1,0 +1,2897 @@
+Package: idle-python3.10
+Source: python3.10
+Priority: optional
+Section: python
+Installed-Size: 1378
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.10.16-1+focal1
+Depends: python3.10, python3.10-tk, libjs-mathjax
+Enhances: python3.10
+Filename: pool/main/p/python3.10/idle-python3.10_3.10.16-1+focal1_all.deb
+Size: 396200
+MD5sum: f3504d7d5b27b538f3bad016c63e5809
+SHA1: 5c2fb100d57bd76bbfc83f16213659145983801a
+SHA256: d9ee00a88c39f61b42c28c164a5d555dd93ca4cf3bca908d3f024fc5ec0c6257
+Description: IDE for Python (v3.10) using Tkinter
+Description-md5: 19baeddcecf5e905c316f15d7eff3486
+
+Package: idle-python3.11
+Source: python3.11
+Priority: optional
+Section: python
+Installed-Size: 1387
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.11.11-1+focal1
+Depends: python3.11, python3.11-tk, libjs-mathjax
+Enhances: python3.11
+Filename: pool/main/p/python3.11/idle-python3.11_3.11.11-1+focal1_all.deb
+Size: 398104
+MD5sum: ab1fa00889368b9f435aa28a0b99a0ce
+SHA1: ccfc8d57c68d7e369ae467c553eb7177e13e006c
+SHA256: 39601b63c1baf6e11300ca18b289656fb2722253f7b6a935884c69332a0dc2cc
+Description: IDE for Python (v3.11) using Tkinter
+Description-md5: 57a60fed811a55649354f3eb48ae78ff
+
+Package: idle-python3.12
+Source: python3.12
+Priority: optional
+Section: python
+Installed-Size: 1389
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.12.8-1+focal1
+Depends: python3.12, python3.12-tk, libjs-mathjax
+Enhances: python3.12
+Filename: pool/main/p/python3.12/idle-python3.12_3.12.8-1+focal1_all.deb
+Size: 399392
+MD5sum: 985313f3b955c4117df1b0f0a47eee96
+SHA1: 9cbf61f062a1b6c50a98217b5e127fb98785792d
+SHA256: e4cf1f04359c92b6142c12e4ebd1186541dd924721acc1a33423e5e7abf6b1e7
+Description: IDE for Python (v3.12) using Tkinter
+Description-md5: 4a4668eb66afcf983d1db1098428dd56
+
+Package: idle-python3.13
+Source: python3.13
+Priority: optional
+Section: python
+Installed-Size: 1405
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.13.1-1+focal1
+Depends: python3.13, python3.13-tk, libjs-mathjax
+Enhances: python3.13
+Filename: pool/main/p/python3.13/idle-python3.13_3.13.1-1+focal1_all.deb
+Size: 415556
+MD5sum: 6cedda241efa6896ea5227959389efe3
+SHA1: 15179c3bdea3f1556a5f79a2c5a35a6077292f93
+SHA256: f7442dd55c8249679497d49d8ac5d6cf649b2be2ba74633db50902988c5a2721
+Description: IDE for Python (v3.13) using Tkinter
+Description-md5: cc58505c07afae069f49efa213857899
+
+Package: idle-python3.5
+Source: python3.5
+Priority: optional
+Section: python
+Installed-Size: 158
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: all
+Version: 3.5.10-1+focal3
+Depends: python3.5, libpython3.5-tk
+Enhances: python3.5
+Filename: pool/main/p/python3.5/idle-python3.5_3.5.10-1+focal3_all.deb
+Size: 76104
+MD5sum: 631e2ba50c42ab0bf6a3a6eedc58affe
+SHA1: 87525630a8cac263a54fc4ff918d502672075cc4
+SHA256: 2167aad430faa95fc4478560819389d4ec7da5c36d60b4dc0b9983a17bb099a6
+Description: IDE for Python (v3.5) using Tkinter
+Description-md5: 8385b7d3fd24c9627bf197edabfa2dcb
+Original-Maintainer: Matthias Klose <doko@debian.org>
+
+Package: idle-python3.6
+Source: python3.6
+Priority: optional
+Section: python
+Installed-Size: 1257
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.6.15-1+focal3
+Depends: python3.6, python3.6-tk
+Enhances: python3.6
+Filename: pool/main/p/python3.6/idle-python3.6_3.6.15-1+focal3_all.deb
+Size: 322716
+MD5sum: cc8eb1def92ab359d9acbcc74159a748
+SHA1: cf8a4e708cbfde62b78d347531a10bbf97e18878
+SHA256: fd0b719fb65319bd0af8b1689bc31efc7fbb06f61c548ced7023519ec1f6bc05
+Description: IDE for Python (v3.6) using Tkinter
+Description-md5: 7108c3959b5bccbfeb92bd5af604c9d3
+
+Package: idle-python3.7
+Source: python3.7
+Priority: optional
+Section: python
+Installed-Size: 1297
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.7.17-1+focal1
+Depends: python3.7, python3.7-tk
+Enhances: python3.7
+Filename: pool/main/p/python3.7/idle-python3.7_3.7.17-1+focal1_all.deb
+Size: 353184
+MD5sum: 52c315fe468b1a3abde75e06012b7b9f
+SHA1: 60e8f2a1287b81c8752b9ba55b7c73ade927df94
+SHA256: 6d4282d0f7769202b198a6df10d6bde74219480a6c4bc6f16149e94abefddb97
+Description: IDE for Python (v3.7) using Tkinter
+Description-md5: d251ef701c022d4d3f4a8efc25c22cd5
+
+Package: idle-python3.9
+Source: python3.9
+Priority: optional
+Section: python
+Installed-Size: 1344
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.9.21-1+focal1
+Depends: python3.9, python3-tk, libjs-mathjax
+Enhances: python3.9
+Filename: pool/main/p/python3.9/idle-python3.9_3.9.21-1+focal1_all.deb
+Size: 389872
+MD5sum: 51f0b620d472e293da35bff34f753528
+SHA1: 81d40ec79e2c393229bf9cb929f663ba94c897b4
+SHA256: 11ace582fb1910c816f08f27013a79c6c0044f8b6b6db202c7c18e0e596048ad
+Description: IDE for Python (v3.9) using Tkinter
+Description-md5: 2b6e9a2e12efd7de3c33fe2deed068cb
+
+Package: libpython3.10
+Source: python3.10
+Priority: optional
+Section: libs
+Installed-Size: 5809
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Depends: libpython3.10-stdlib (= 3.10.16-1+focal1), libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.10/libpython3.10_3.10.16-1+focal1_amd64.deb
+Size: 1760904
+MD5sum: 85a41956627cb7f18fe688c4145d1c34
+SHA1: a1602f200ecb973208331122515c4cb9a6b1907b
+SHA256: f7a2e1178d14f233d6a5161fb4c9457d976ccf56272007ef5fc0ce6a969a4a86
+Description: Shared Python runtime library (version 3.10)
+Description-md5: 8dd18a373dbb5625f31059482bfe11f2
+Multi-Arch: same
+
+Package: libpython3.10-dbg
+Source: python3.10
+Priority: optional
+Section: debug
+Installed-Size: 89825
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Depends: libpython3.10-stdlib (= 3.10.16-1+focal1), libbz2-1.0, libc6 (>= 2.30), libcrypt1 (>= 1:4.1.0), libdb5.3, libexpat1 (>= 2.1~beta3), libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6.1), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.14.0), libssl1.1 (>= 1.1.1), libtinfo6 (>= 6), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.10/libpython3.10-dbg_3.10.16-1+focal1_amd64.deb
+Size: 16810988
+MD5sum: 1cd53d20dd7a6e4c6154fd612eb1c960
+SHA1: b0bdaa64e15ee299e6c5ff4dbbe027e46ab5051c
+SHA256: d914ab46ab25a65f0336b79a46e067d90576f12c1b0307f043f9c787af13613d
+Description: Debug Build of the Python Interpreter (version 3.10)
+Description-md5: 784447ae4409868b326abcf750633bff
+Multi-Arch: same
+
+Package: libpython3.10-dev
+Source: python3.10
+Priority: optional
+Section: libdevel
+Installed-Size: 20742
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Recommends: libc6-dev | libc-dev
+Depends: libpython3.10-stdlib (= 3.10.16-1+focal1), libpython3.10 (= 3.10.16-1+focal1), libexpat1-dev
+Filename: pool/main/p/python3.10/libpython3.10-dev_3.10.16-1+focal1_amd64.deb
+Size: 4263912
+MD5sum: 03259ad65159bbba1e24f403253e33b0
+SHA1: 2d6168c830f9a48d0e3bcf48e1d2daaa2cf9e6c2
+SHA256: 3edc0960aec8813fc4be2eec017679bba55907dbc84d66921da8049ec213fb22
+Description: Header files and a static library for Python (v3.10)
+Description-md5: 419d5d96d6c87fba648c7101ddc26132
+Multi-Arch: same
+
+Package: libpython3.10-minimal
+Source: python3.10
+Priority: optional
+Section: python
+Installed-Size: 5101
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Recommends: libpython3.10-stdlib
+Depends: libc6 (>= 2.4), libssl1.1 (>= 1.1.1)
+Conflicts: binfmt-support (<< 1.1.2)
+Filename: pool/main/p/python3.10/libpython3.10-minimal_3.10.16-1+focal1_amd64.deb
+Size: 825328
+MD5sum: d646549c4f44da43901ed384fd2fde51
+SHA1: d827aa273f6d1312ce7da21c1b47345f78d2724d
+SHA256: 4bd71c2debae1f9647bf07ac14bef87cbc5d6392125a417fd557f17db4dcd597
+Description: Minimal subset of the Python language (version 3.10)
+Description-md5: 300d4a02aaf80930aca7c7ab3ecb0176
+Multi-Arch: same
+
+Package: libpython3.10-stdlib
+Source: python3.10
+Priority: optional
+Section: python
+Installed-Size: 8192
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Recommends: ca-certificates
+Depends: libpython3.10-minimal (= 3.10.16-1+focal1), mime-support, tzdata, libbz2-1.0, libc6 (>= 2.28), libcrypt1 (>= 1:4.1.0), libdb5.3, libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6.1), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.14.0), libtinfo6 (>= 6), libuuid1 (>= 2.20.1)
+Filename: pool/main/p/python3.10/libpython3.10-stdlib_3.10.16-1+focal1_amd64.deb
+Size: 1764988
+MD5sum: 5ba4b25bc49523386b6fca04437972ba
+SHA1: 1fcf75e2c4963a5228bd70e73f8bfb08855192ca
+SHA256: 08bf46cb05d3b64e3868aae9f1b177e1c4b20dbbd0c55f6992dddddf20be3a50
+Description: Interactive high-level object-oriented language (standard library, version 3.10)
+Description-md5: 008b36bf662665263669aed2f1b13f60
+Multi-Arch: same
+
+Package: libpython3.10-testsuite
+Source: python3.10
+Priority: optional
+Section: libdevel
+Installed-Size: 24026
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.10.16-1+focal1
+Suggests: python3.10-gdbm, python3.10-tk
+Depends: python3.10 (>= 3.10.16-1+focal1), net-tools
+Filename: pool/main/p/python3.10/libpython3.10-testsuite_3.10.16-1+focal1_all.deb
+Size: 3279288
+MD5sum: 0a8208a1b87f6de09f986b33f703cc33
+SHA1: 4cfd5dde6785e8ba6b6c27603ff9d0c1ce9459a1
+SHA256: 2dca7dc222e1d1beef1fb25845a023a487f6795eaca60ca66ab0fafa261f6bc6
+Description: Testsuite for the Python standard library (v3.10)
+Description-md5: 5f3021a3dcae7b7d1bd6052e8082d0e5
+
+Package: libpython3.11
+Source: python3.11
+Priority: optional
+Section: libs
+Installed-Size: 7731
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Depends: libpython3.11-stdlib (= 3.11.11-1+focal1), libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.11/libpython3.11_3.11.11-1+focal1_amd64.deb
+Size: 2010356
+MD5sum: 47ea06ca589a94be87938ed764cb5296
+SHA1: d96260016d77ebd17b1e0f5e2c584343472bd5de
+SHA256: 1a3a3379e1f2a7073552aa88745f8d78f5bee1874dde6f9b33c228dd66bbd890
+Description: Shared Python runtime library (version 3.11)
+Description-md5: b35712e3b7a329c23e2d0f60299cca67
+Multi-Arch: same
+
+Package: libpython3.11-dbg
+Source: python3.11
+Priority: optional
+Section: debug
+Installed-Size: 119047
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Depends: libpython3.11-stdlib (= 3.11.11-1+focal1), libbz2-1.0, libc6 (>= 2.30), libcrypt1 (>= 1:4.1.0), libdb5.3, libexpat1 (>= 2.1~beta3), libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6.1), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.25.0), libssl1.1 (>= 1.1.1), libtinfo6 (>= 6), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.11/libpython3.11-dbg_3.11.11-1+focal1_amd64.deb
+Size: 20822868
+MD5sum: 0e8048e1a8abefa2add7ffcdf7e8a6ef
+SHA1: 9ccf8f268fc49d64866c47dbe8b9eef78cb1f440
+SHA256: b811269afd1f3bfacf7d63a35f11e6098f0e09a96b630100ed3b64403a2b1121
+Description: Debug Build of the Python Interpreter (version 3.11)
+Description-md5: 9aa4bdb4afaf28c6590cc14761161d0a
+Multi-Arch: same
+
+Package: libpython3.11-dev
+Source: python3.11
+Priority: optional
+Section: libdevel
+Installed-Size: 25934
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Recommends: libc6-dev | libc-dev
+Depends: libpython3.11-stdlib (= 3.11.11-1+focal1), libpython3.11 (= 3.11.11-1+focal1), libexpat1-dev
+Filename: pool/main/p/python3.11/libpython3.11-dev_3.11.11-1+focal1_amd64.deb
+Size: 4822012
+MD5sum: 9c2d76cd335925333bb0b876ea079bd3
+SHA1: 1f7e2124aed51b58b43971ff16b4f3a052704a25
+SHA256: a858c98e2ab0b1a42ce9c7f607d53a8ed33291ea8e08535cefcbcf223531d122
+Description: Header files and a static library for Python (v3.11)
+Description-md5: 9db16592eacea4763c89544a325c9ece
+Multi-Arch: same
+
+Package: libpython3.11-minimal
+Source: python3.11
+Priority: optional
+Section: python
+Installed-Size: 5265
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Recommends: libpython3.11-stdlib
+Depends: libc6 (>= 2.4), libssl1.1 (>= 1.1.1)
+Conflicts: binfmt-support (<< 1.1.2)
+Filename: pool/main/p/python3.11/libpython3.11-minimal_3.11.11-1+focal1_amd64.deb
+Size: 855704
+MD5sum: b97f9028136a13a30f4e5bb4b4178951
+SHA1: 164b5de53426ac5765a4b5d28fc2d52657f1e778
+SHA256: c4e9a307226e2f3bacbd684c4558fc62b6375075a31a66251fa6c2557d7a4935
+Description: Minimal subset of the Python language (version 3.11)
+Description-md5: 5d240c86f46ea535e307b897fc938672
+Multi-Arch: same
+
+Package: libpython3.11-stdlib
+Source: python3.11
+Priority: optional
+Section: python
+Installed-Size: 8472
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Recommends: ca-certificates
+Depends: libpython3.11-minimal (= 3.11.11-1+focal1), mime-support, tzdata, libbz2-1.0, libc6 (>= 2.28), libcrypt1 (>= 1:4.1.0), libdb5.3, libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6.1), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.25.0), libtinfo6 (>= 6), libuuid1 (>= 2.20.1)
+Filename: pool/main/p/python3.11/libpython3.11-stdlib_3.11.11-1+focal1_amd64.deb
+Size: 1821172
+MD5sum: 9e1d9126006990a8d9891f8e43f1f93e
+SHA1: 475e1b1fd1ea65136fa20d95ef8980761ff130a5
+SHA256: fa277529c2011b9dd71868743ed3aee1a088927cf673385fd76628f720c5ff33
+Description: Interactive high-level object-oriented language (standard library, version 3.11)
+Description-md5: 41c666a330b08b8fcf8ac78687a72b26
+Multi-Arch: same
+
+Package: libpython3.11-testsuite
+Source: python3.11
+Priority: optional
+Section: libdevel
+Installed-Size: 25897
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.11.11-1+focal1
+Suggests: python3.11-gdbm, python3.11-tk
+Depends: python3.11 (>= 3.11.11-1+focal1), net-tools
+Filename: pool/main/p/python3.11/libpython3.11-testsuite_3.11.11-1+focal1_all.deb
+Size: 3502916
+MD5sum: a41676fa4918c3ca3169a0c0630a1eba
+SHA1: c6fdc83d05a838b35b678c135e0d9ec04a0895f9
+SHA256: b580c106dbe6372fb4355a6281b06d41dfc5a904e24654a90e6b896602a06a8a
+Description: Testsuite for the Python standard library (v3.11)
+Description-md5: 5daa6e7f215079fd7146f7487223d006
+
+Package: libpython3.12
+Source: python3.12
+Priority: optional
+Section: libs
+Installed-Size: 9026
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Depends: libpython3.12-stdlib (= 3.12.8-1+focal1), libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.12/libpython3.12_3.12.8-1+focal1_amd64.deb
+Size: 2153400
+MD5sum: e5a6e8fb48dce6e2dcfd66ee56e56d43
+SHA1: c119c07b9a2b07f836757a2422bf3edf76e38344
+SHA256: cc6b02c7aa554e70cfaddd28ae15c1ad8a670bd50082b77090e2b52981567d3c
+Description: Shared Python runtime library (version 3.12)
+Description-md5: 7423642141d03dd5a6c290ce38cfe066
+Multi-Arch: same
+
+Package: libpython3.12-dbg
+Source: python3.12
+Priority: optional
+Section: debug
+Installed-Size: 163733
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Depends: libpython3.12-stdlib (= 3.12.8-1+focal1), libbz2-1.0, libc6 (>= 2.30), libcrypt1 (>= 1:4.1.0), libdb5.3, libexpat1 (>= 2.1~beta3), libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6.1), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.25.0), libssl1.1 (>= 1.1.1), libtinfo6 (>= 6), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.12/libpython3.12-dbg_3.12.8-1+focal1_amd64.deb
+Size: 26896424
+MD5sum: 34d72f10c9b1886b859addc0d178a5e8
+SHA1: 6f2920a525f5319f5d7c76a300e4fa104ed1b678
+SHA256: ce0d1c6af4ef6fe4c1a55f25a38b356c3f586cfdf46d5bcca69d0be4d4378c0a
+Description: Debug Build of the Python Interpreter (version 3.12)
+Description-md5: ae1c7a395386f965910e0d42b5fdfcab
+Multi-Arch: same
+
+Package: libpython3.12-dev
+Source: python3.12
+Priority: optional
+Section: libdevel
+Installed-Size: 29030
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Recommends: libc6-dev | libc-dev
+Depends: libpython3.12-stdlib (= 3.12.8-1+focal1), libpython3.12 (= 3.12.8-1+focal1), libexpat1-dev
+Filename: pool/main/p/python3.12/libpython3.12-dev_3.12.8-1+focal1_amd64.deb
+Size: 5156960
+MD5sum: e7cb59dec61ba4c49a349e6d76712179
+SHA1: 4ef4f8de29c9fbcbf05941afb9beef3b620b513d
+SHA256: c02683b6015b41da70786dbf093bc54846c83de90bb02e63cecd5dbe780b3298
+Description: Header files and a static library for Python (v3.12)
+Description-md5: 83564bef79c906c3a214f9bb01f93034
+Multi-Arch: same
+
+Package: libpython3.12-stdlib
+Source: python3.12
+Priority: optional
+Section: python
+Installed-Size: 14180
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Recommends: ca-certificates
+Depends: mime-support, tzdata, libbz2-1.0, libc6 (>= 2.28), libcrypt1 (>= 1:4.1.0), libdb5.3, libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6.1), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.25.0), libssl1.1 (>= 1.1.1), libtinfo6 (>= 6), libuuid1 (>= 2.20.1)
+Filename: pool/main/p/python3.12/libpython3.12-stdlib_3.12.8-1+focal1_amd64.deb
+Size: 2749864
+MD5sum: 730c40ab47b7e40e63fb62c4863bab16
+SHA1: bec3eadd494aeed962da865473ad1a1b3e46d07f
+SHA256: 6a6917abbd9aeef98d24eda545cdce81a7f6166ff68fbf5b2ed8e4f7fa2bd3f4
+Description: Interactive high-level object-oriented language (standard library, version 3.12)
+Description-md5: 5287339189e70a6c3b4b29ecc0cd6fdd
+Multi-Arch: same
+
+Package: libpython3.12-testsuite
+Source: python3.12
+Priority: optional
+Section: libdevel
+Installed-Size: 28559
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.12.8-1+focal1
+Suggests: python3.12-gdbm, python3.12-tk
+Depends: python3.12 (>= 3.12.8-1+focal1), net-tools
+Filename: pool/main/p/python3.12/libpython3.12-testsuite_3.12.8-1+focal1_all.deb
+Size: 4664596
+MD5sum: 3bf68e3a10a7d8cae002032e27c86c0f
+SHA1: b6c7882f7c2f5eb1bf47541b2edcaf4d291ec0eb
+SHA256: c34ea29d8f5a0cab418f0c6518b4c13001253b475c28c4ca1c1663c0cd89a13b
+Description: Testsuite for the Python standard library (v3.12)
+Description-md5: ad730db5e04da1131b8cceebc4970626
+
+Package: libpython3.13
+Source: python3.13
+Priority: optional
+Section: libs
+Installed-Size: 7259
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Depends: libpython3.13-stdlib (= 3.13.1-1+focal1), libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.13/libpython3.13_3.13.1-1+focal1_amd64.deb
+Size: 2105012
+MD5sum: d1d4ea95698a862359d50f897897ddbf
+SHA1: 1b92a977c34f972612e6277a3619f8ed2965ba8c
+SHA256: 247913b80998cbe6ef36120fb3252b65342fc061837d71528959a456b4522a40
+Description: Shared Python runtime library (version 3.13)
+Description-md5: 224ea7f5b8eefb634a475d030583a368
+Multi-Arch: same
+
+Package: libpython3.13-dbg
+Source: python3.13
+Priority: optional
+Section: debug
+Installed-Size: 172900
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Depends: libpython3.13-stdlib (= 3.13.1-1+focal1), libbz2-1.0, libc6 (>= 2.30), libdb5.3, libexpat1 (>= 2.1~beta3), libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6.1), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.25.0), libssl1.1 (>= 1.1.1), libtinfo6 (>= 6), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.13/libpython3.13-dbg_3.13.1-1+focal1_amd64.deb
+Size: 29261960
+MD5sum: 8d2ad88f02e6153af0bfc7f86c5860f4
+SHA1: 242bebb012a649546e894234daad2460ca9d2760
+SHA256: 774fadbc9c3d6ced2bcb1c794362482ef45bc0f0abb93d85be9deae5f6c7a7d5
+Description: Debug Build of the Python Interpreter (version 3.13)
+Description-md5: db4cba440ce5f61a54a273521a2b88b6
+Multi-Arch: same
+
+Package: libpython3.13-dev
+Source: python3.13
+Priority: optional
+Section: libdevel
+Installed-Size: 25988
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Recommends: libc6-dev | libc-dev
+Depends: libpython3.13-stdlib (= 3.13.1-1+focal1), libpython3.13 (= 3.13.1-1+focal1), libexpat1-dev
+Filename: pool/main/p/python3.13/libpython3.13-dev_3.13.1-1+focal1_amd64.deb
+Size: 5162968
+MD5sum: d35482566183a3868922febc4b702b23
+SHA1: 6063cc0c1b8edac8eca60c5a6b8134ddc38e4e13
+SHA256: 9a2a05c59762bccf3725e2accae852ea2f57417889df71fd760f662485098913
+Description: Header files and a static library for Python (v3.13)
+Description-md5: 3f73ae9c1a41b76b426033cf047d9805
+Multi-Arch: same
+
+Package: libpython3.13-nogil
+Source: python3.13
+Priority: optional
+Section: debug
+Installed-Size: 23463
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Depends: libpython3.13-stdlib (= 3.13.1-1+focal1), libbz2-1.0, libc6 (>= 2.30), libdb5.3, libexpat1 (>= 2.1~beta3), libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6.1), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.25.0), libssl1.1 (>= 1.1.1), libtinfo6 (>= 6), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.13/libpython3.13-nogil_3.13.1-1+focal1_amd64.deb
+Size: 5429788
+MD5sum: 586b804bb1714ab65d5ab524a7eecfc9
+SHA1: c5929207a0d0d09819efa5a5169567bd5ccc6b2e
+SHA256: 8591b6ecb07a921a554ed16aca628bbfb947b2442a84c52a4ec63f6cf8f8a5af
+Description: No-GIL Build of the Python Interpreter (version 3.13)
+Description-md5: eab033e1569071fd44626fb1ce94c2ef
+Multi-Arch: same
+
+Package: libpython3.13-stdlib
+Source: python3.13
+Priority: optional
+Section: python
+Installed-Size: 14629
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Recommends: ca-certificates
+Depends: mime-support, tzdata, libbz2-1.0, libc6 (>= 2.15), libdb5.3, libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6.1), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.25.0), libssl1.1 (>= 1.1.1), libtinfo6 (>= 6), libuuid1 (>= 2.20.1)
+Filename: pool/main/p/python3.13/libpython3.13-stdlib_3.13.1-1+focal1_amd64.deb
+Size: 2849436
+MD5sum: b7fc841e3f520efe1a301e44d03daf63
+SHA1: 5110084bee21dd58f4472de2a85fdcd3f85c2c2b
+SHA256: 9bdac98bb5b0d9620af898458b0163e443529fefc9a50f1833e9bd2926ff9199
+Description: Interactive high-level object-oriented language (standard library, version 3.13)
+Description-md5: b20ac751fde01674620d7f262bf60415
+Multi-Arch: same
+
+Package: libpython3.13-testsuite
+Source: python3.13
+Priority: optional
+Section: libdevel
+Installed-Size: 29111
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.13.1-1+focal1
+Suggests: python3.13-gdbm, python3.13-tk
+Depends: python3.13 (>= 3.13.1-1+focal1), net-tools
+Filename: pool/main/p/python3.13/libpython3.13-testsuite_3.13.1-1+focal1_all.deb
+Size: 4701848
+MD5sum: 185d97ef9bb4815c886ebef73694971c
+SHA1: ab98c9a38681cc77316b4ed7b944f8da0e73915a
+SHA256: be913370a49ec6c63255082d06e70e9d4edbb8fdd103c10f352af05309a0a250
+Description: Testsuite for the Python standard library (v3.13)
+Description-md5: 6eb1cb1c77a35f3ad72e9402f5401943
+
+Package: libpython3.5
+Source: python3.5
+Priority: optional
+Section: libs
+Installed-Size: 4050
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Depends: libpython3.5-stdlib (= 3.5.10-1+focal3), libc6 (>= 2.29), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.5/libpython3.5_3.5.10-1+focal3_amd64.deb
+Size: 1213856
+MD5sum: 21770f1c3a25d6028add94288f632b38
+SHA1: 2a60f0d12811c60bc93783c5943c51b3002e4452
+SHA256: 6955c6d95e78765494e4e46fb738510117e6e8db623afa21780558d649522b1f
+Description: Shared Python runtime library (version 3.5)
+Description-md5: ecaa28fa009b32365e4885d03025bd29
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: same
+
+Package: libpython3.5-dbg
+Source: python3.5
+Priority: extra
+Section: debug
+Installed-Size: 53952
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Depends: libpython3.5-stdlib (= 3.5.10-1+focal3), libbz2-1.0, libc6 (>= 2.29), libcrypt1 (>= 1:4.1.0), libdb5.3, libexpat1 (>= 2.1~beta3), libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.5.9), libssl1.1 (>= 1.1.0), libtinfo6 (>= 6), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.5/libpython3.5-dbg_3.5.10-1+focal3_amd64.deb
+Size: 10572080
+MD5sum: 0de969a318e751ca978d69ca92630190
+SHA1: dd540bebaf2af14c36d614f7a96f60374d0f0e91
+SHA256: 6fc3036ef3b68942481a932145c0fc3819fdcafd80e404db0b19624d179cf848
+Description: Debug Build of the Python Interpreter (version 3.5)
+Description-md5: 2758a77733824dec838469b45fe62b23
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: same
+
+Package: libpython3.5-dev
+Source: python3.5
+Priority: optional
+Section: libdevel
+Installed-Size: 13845
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Recommends: libc6-dev | libc-dev
+Depends: libpython3.5-stdlib (= 3.5.10-1+focal3), libpython3.5 (= 3.5.10-1+focal3), libexpat1-dev
+Filename: pool/main/p/python3.5/libpython3.5-dev_3.5.10-1+focal3_amd64.deb
+Size: 1854160
+MD5sum: 581d13d923ff6ece4e8d5f79ea5ac3d1
+SHA1: 4d275565fafe167a849dd0f8792cee1150b7c25d
+SHA256: 0759ec602e33127234dafaeaf1b6f2e8b5eff7a480a6b9648fdaa767018d836a
+Description: Header files and a static library for Python (v3.5)
+Description-md5: 440b180432018e660329fdd1986187cf
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: same
+
+Package: libpython3.5-gdbm
+Source: python3.5
+Priority: optional
+Section: python
+Installed-Size: 121
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Suggests: libpython3.5-gdbm-dbg
+Depends: libpython3.5-stdlib (>= 3.5.10-1+focal3), libc6 (>= 2.4), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.5/libpython3.5-gdbm_3.5.10-1+focal3_amd64.deb
+Size: 48216
+MD5sum: 62808f71095cdfa18a779769aa460918
+SHA1: f3498578d2b72ba3f5cb46d961e3e00669881d83
+SHA256: 8b6fbce3cdf0bea5f43b083b02ea07d7f9296693b8dafb92c0a5c24910f82a31
+Description: GNU dbm database support for Python (version 3.5)
+Description-md5: 3a8258460dfbc1ab39c90333860022c8
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: same
+
+Package: libpython3.5-gdbm-dbg
+Source: python3.5
+Priority: extra
+Section: debug
+Installed-Size: 219
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Depends: libpython3.5-dbg (>= 3.5.10-1+focal3), libpython3.5-gdbm (= 3.5.10-1+focal3), libc6 (>= 2.4), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.5/libpython3.5-gdbm-dbg_3.5.10-1+focal3_amd64.deb
+Size: 74016
+MD5sum: 5e47557389d25d6164a44726b0694a3b
+SHA1: 9d33733ac5694d05e8c6c68d1cfec9dd5269c00f
+SHA256: f5577a3cec839a203b771f4e7b7da85bc480081f9b5d9a8a9176761749515510
+Description: GNU dbm database support for Python (version 3.5 debug extension)
+Description-md5: 1092a1d3967a4ab0c49407ace68c8422
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: same
+
+Package: libpython3.5-minimal
+Source: python3.5
+Priority: optional
+Section: python
+Installed-Size: 3733
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Recommends: libpython3.5-stdlib
+Replaces: libpython3.5-stdlib (<< 3.4.1)
+Depends: libc6 (>= 2.14), libssl1.1 (>= 1.1.0)
+Conflicts: binfmt-support (<< 1.1.2)
+Breaks: libpython3.5-stdlib (<< 3.4.1)
+Filename: pool/main/p/python3.5/libpython3.5-minimal_3.5.10-1+focal3_amd64.deb
+Size: 542120
+MD5sum: 0f21e7bf921e6fb8b060f066bddfea59
+SHA1: cbbbc20cc5e8385b3c7dbddd791181bd5e42c2ba
+SHA256: b5bf25404d55d71a7032d5482e782c7580c617ca51d0346b92375c9b3a78f18f
+Description: Minimal subset of the Python language (version 3.5)
+Description-md5: 4fb85f7375b0d3f252adb41e33ab6a7e
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: same
+
+Package: libpython3.5-stdlib
+Source: python3.5
+Priority: optional
+Section: python
+Installed-Size: 10231
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Recommends: ca-certificates
+Depends: libpython3.5-minimal (= 3.5.10-1+focal3), mime-support, libbz2-1.0, libc6 (>= 2.29), libcrypt1 (>= 1:4.1.0), libdb5.3, libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.5.9), libtinfo6 (>= 6)
+Filename: pool/main/p/python3.5/libpython3.5-stdlib_3.5.10-1+focal3_amd64.deb
+Size: 2114476
+MD5sum: a13c607638a3f757bb29c20807e1a2c4
+SHA1: bf9d2604d1ac1e6ba3732dec35335e79e7a9cbff
+SHA256: a50450439ce86cf3e500efae702db7c851ed1be863c87ce1b508af344a2c33fe
+Description: Interactive high-level object-oriented language (standard library, version 3.5)
+Description-md5: ebed13b6c2d714f2eba493bc28bc1f90
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: same
+
+Package: libpython3.5-testsuite
+Source: python3.5
+Priority: optional
+Section: libdevel
+Installed-Size: 19216
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: all
+Version: 3.5.10-1+focal3
+Suggests: libpython3.5-gdbm, libpython3.5-tk
+Depends: python3.5 (>= 3.5.10-1+focal3), net-tools
+Filename: pool/main/p/python3.5/libpython3.5-testsuite_3.5.10-1+focal3_all.deb
+Size: 2620044
+MD5sum: 9a94e45db74d33d51037263af3050a25
+SHA1: 4740d3c6f4092989a9024cce1b896999e9d7a39c
+SHA256: 4962069aef4dba7211bd111470fa7fc0a74db639bdbc78c5e521693fb6faa4ba
+Description: Testsuite for the Python standard library (v3.5)
+Description-md5: da13fb9a52a77c0697e5e5f15edceb8a
+Original-Maintainer: Matthias Klose <doko@debian.org>
+
+Package: libpython3.5-tk
+Source: python3.5
+Priority: optional
+Section: python
+Installed-Size: 161
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Suggests: tix, libpython3.5-tk-dbg
+Depends: libpython3.5-stdlib (>= 3.5.10-1+focal3), libc6 (>= 2.4), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0), tk8.6-blt2.5 (>= 2.5.3)
+Filename: pool/main/p/python3.5/libpython3.5-tk_3.5.10-1+focal3_amd64.deb
+Size: 61176
+MD5sum: 7d1c5708f0e299a1a87d61c44979c931
+SHA1: ebfbc52b7ad53bf03be941f7ee97e2f1dce6f937
+SHA256: 4370406b9eb8e3ad423bdf4cd52bc04c0299c1841d429fc07c1a7db454ebbb82
+Description: Tkinter - Writing Tk applications with Python (version 3.5)
+Description-md5: d9c62a9fc1b4fe023603b378c5bc6b75
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: same
+
+Package: libpython3.5-tk-dbg
+Source: python3.5
+Priority: extra
+Section: debug
+Installed-Size: 794
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Depends: libpython3.5-dbg (>= 3.5.10-1+focal3), libpython3.5-tk (= 3.5.10-1+focal3), libc6 (>= 2.4), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0), tk8.6-blt2.5 (>= 2.5.3)
+Filename: pool/main/p/python3.5/libpython3.5-tk-dbg_3.5.10-1+focal3_amd64.deb
+Size: 222732
+MD5sum: 4d64b10477b0bb0c761329d0c13b2e07
+SHA1: 390141e72314640894022daa468b56e7e9395faf
+SHA256: 681cf84e9a4d77886b3914510a9d28e2d97d0398546d813d605de343f4b0639f
+Description: Tkinter - Writing Tk applications with Python (version 3.5 debug extension)
+Description-md5: 92e4d3032cbc2ea7f4ae5c05d3f306c5
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: same
+
+Package: libpython3.6
+Source: python3.6
+Priority: optional
+Section: libs
+Installed-Size: 4567
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Depends: libpython3.6-stdlib (= 3.6.15-1+focal3), libc6 (>= 2.29), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.6/libpython3.6_3.6.15-1+focal3_amd64.deb
+Size: 1395916
+MD5sum: a5cfe8dbbff4db5b94bff825b21393a5
+SHA1: 1f92e16948bdf7b99c2a7233b32c9c5b263ac769
+SHA256: 28c0185a37c9eff42cd7668350556fe664adbf0535834babf42bf1e086e4248f
+Description: Shared Python runtime library (version 3.6)
+Description-md5: 856009def9edf1363ae6d0b9bc19e813
+Multi-Arch: same
+
+Package: libpython3.6-dbg
+Source: python3.6
+Priority: optional
+Section: debug
+Installed-Size: 56488
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Depends: libpython3.6-stdlib (= 3.6.15-1+focal3), libbz2-1.0, libc6 (>= 2.29), libcrypt1 (>= 1:4.1.0), libdb5.3, libexpat1 (>= 2.1~beta3), libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.5.9), libssl1.1 (>= 1.1.1), libtinfo6 (>= 6), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.6/libpython3.6-dbg_3.6.15-1+focal3_amd64.deb
+Size: 11099720
+MD5sum: f43539fb262432f694092a2958482a4d
+SHA1: ee33e684672315d9ce9d00b2ac47254124cfca7c
+SHA256: 30a99677e96dd453948b4d85d4db5516a1107d7ed33e240a883dfd2b74f8b170
+Description: Debug Build of the Python Interpreter (version 3.6)
+Description-md5: 5a076902ff2babe07b884c5c00dba6db
+Multi-Arch: same
+
+Package: libpython3.6-dev
+Source: python3.6
+Priority: optional
+Section: libdevel
+Installed-Size: 16527
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Recommends: libc6-dev | libc-dev
+Depends: libpython3.6-stdlib (= 3.6.15-1+focal3), libpython3.6 (= 3.6.15-1+focal3), libexpat1-dev
+Filename: pool/main/p/python3.6/libpython3.6-dev_3.6.15-1+focal3_amd64.deb
+Size: 3432952
+MD5sum: 6853bcdd2de21d93ea62f0b61afd7ad1
+SHA1: 791ee6e10f0c9b2cb3831ab7566c2b93e4c29203
+SHA256: c1ce1c15f68a9e02f68054b55527140ba74c6bdc6b27e0e0c2fc40de721627c4
+Description: Header files and a static library for Python (v3.6)
+Description-md5: deaf9211abb74d4464ab0d2cbef5e8f1
+Multi-Arch: same
+
+Package: libpython3.6-minimal
+Source: python3.6
+Priority: optional
+Section: python
+Installed-Size: 3819
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Recommends: libpython3.6-stdlib
+Depends: libc6 (>= 2.4), libssl1.1 (>= 1.1.1)
+Conflicts: binfmt-support (<< 1.1.2)
+Filename: pool/main/p/python3.6/libpython3.6-minimal_3.6.15-1+focal3_amd64.deb
+Size: 569492
+MD5sum: 6c36d0b77ce8a039b531f66c96368128
+SHA1: 0902f999a5bd644e483c97019861840cff33fd98
+SHA256: b059ea40bd495a73332849f0e05d45db9432b6eb76b308d7fedc87e9ea2ab730
+Description: Minimal subset of the Python language (version 3.6)
+Description-md5: c67234928517b18757bcb87c43d7bb2c
+Multi-Arch: same
+
+Package: libpython3.6-stdlib
+Source: python3.6
+Priority: optional
+Section: python
+Installed-Size: 8073
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Recommends: ca-certificates
+Depends: libpython3.6-minimal (= 3.6.15-1+focal3), mime-support, libbz2-1.0, libc6 (>= 2.28), libcrypt1 (>= 1:4.1.0), libdb5.3, libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.5.9), libtinfo6 (>= 6)
+Filename: pool/main/p/python3.6/libpython3.6-stdlib_3.6.15-1+focal3_amd64.deb
+Size: 1757844
+MD5sum: 847fb3ff0066525febed6c2985e4dfe9
+SHA1: 2692f651d8c59c9415dc47c0cd2bce4b10cbdca5
+SHA256: 0d95ba26fc5e36541f9e34b70f75934c009bfe9d4f1fb4f044bf20788fbdc035
+Description: Interactive high-level object-oriented language (standard library, version 3.6)
+Description-md5: 2937913cf41d1b295781053078fbb48c
+Multi-Arch: same
+
+Package: libpython3.6-testsuite
+Source: python3.6
+Priority: optional
+Section: libdevel
+Installed-Size: 20279
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.6.15-1+focal3
+Suggests: python3.6-gdbm, python3.6-tk
+Depends: python3.6 (>= 3.6.15-1+focal3), net-tools
+Filename: pool/main/p/python3.6/libpython3.6-testsuite_3.6.15-1+focal3_all.deb
+Size: 2770948
+MD5sum: 57801fb508fac145295b44bdcbfe8586
+SHA1: 2bfdeb3635a5fbe3a23fab0b7ac0e535121cc22f
+SHA256: 52a461d22b50d5c1e9b7682dfbb184f589cf12a6dea93ce4b012f0601af86776
+Description: Testsuite for the Python standard library (v3.6)
+Description-md5: 170663346e34ffdb39c2828c211cefeb
+
+Package: libpython3.7
+Source: python3.7
+Priority: optional
+Section: libs
+Installed-Size: 4958
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Depends: libpython3.7-stdlib (= 3.7.17-1+focal1), libc6 (>= 2.29), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.7/libpython3.7_3.7.17-1+focal1_amd64.deb
+Size: 1479120
+MD5sum: 6e939cbd3b2bdec7ccd729575896c8c3
+SHA1: a32565e6554d5c57a8c55919c5ab8aa67eeaae6a
+SHA256: d470b75d4d3803588a23c2af451c27812df302e238150aafc31d0c01eab33d3d
+Description: Shared Python runtime library (version 3.7)
+Description-md5: 41806af1f2efb47f53d9ace13353377c
+Multi-Arch: same
+
+Package: libpython3.7-dbg
+Source: python3.7
+Priority: optional
+Section: debug
+Installed-Size: 61552
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Depends: libpython3.7-stdlib (= 3.7.17-1+focal1), libbz2-1.0, libc6 (>= 2.29), libcrypt1 (>= 1:4.1.0), libdb5.3, libexpat1 (>= 2.1~beta3), libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.7.15), libssl1.1 (>= 1.1.1), libtinfo6 (>= 6), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.7/libpython3.7-dbg_3.7.17-1+focal1_amd64.deb
+Size: 11991156
+MD5sum: 7cd53c4d64a39a89f3c77b000d3a9a54
+SHA1: 61442030033ef858d83497dc174e887c0b7f331a
+SHA256: 77710999576922efb2509ac21e1882739735ba8046421b6719f0c02d05e321f2
+Description: Debug Build of the Python Interpreter (version 3.7)
+Description-md5: 1644b04b4add55ce72b9f767532db8a6
+Multi-Arch: same
+
+Package: libpython3.7-dev
+Source: python3.7
+Priority: optional
+Section: libdevel
+Installed-Size: 17616
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Recommends: libc6-dev | libc-dev
+Depends: libpython3.7-stdlib (= 3.7.17-1+focal1), libpython3.7 (= 3.7.17-1+focal1), libexpat1-dev
+Filename: pool/main/p/python3.7/libpython3.7-dev_3.7.17-1+focal1_amd64.deb
+Size: 3656364
+MD5sum: d8e39164ee6750cb60f8b574e9eca0ae
+SHA1: 88f2eb32bcdc80b4aa978916b8ebd6e550f02531
+SHA256: 736bfbcad8a28c3e7cb4936e463080bb9ad63b8158c49585ae1f509ee5384961
+Description: Header files and a static library for Python (v3.7)
+Description-md5: f7023a6ff3c2a4cb7e6f2bae1f027f67
+Multi-Arch: same
+
+Package: libpython3.7-minimal
+Source: python3.7
+Priority: optional
+Section: python
+Installed-Size: 3916
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Recommends: libpython3.7-stdlib
+Depends: libc6 (>= 2.4), libssl1.1 (>= 1.1.1)
+Conflicts: binfmt-support (<< 1.1.2)
+Filename: pool/main/p/python3.7/libpython3.7-minimal_3.7.17-1+focal1_amd64.deb
+Size: 588516
+MD5sum: c78b32505b90e81902fe3761afece965
+SHA1: 6951d7c1b240018a1b9aece3e7a31117038dfa5c
+SHA256: b0c0ece5e155b6025e26af3f1773f93079c7268de022ad1754cd39ff8836df1d
+Description: Minimal subset of the Python language (version 3.7)
+Description-md5: f7d9d1c6fd9b040e3699823d8469f35d
+Multi-Arch: same
+
+Package: libpython3.7-stdlib
+Source: python3.7
+Priority: optional
+Section: python
+Installed-Size: 8285
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Recommends: ca-certificates
+Depends: libpython3.7-minimal (= 3.7.17-1+focal1), mime-support, libbz2-1.0, libc6 (>= 2.28), libcrypt1 (>= 1:4.1.0), libdb5.3, libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libncursesw6 (>= 6), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.7.15), libtinfo6 (>= 6), libuuid1 (>= 2.20.1)
+Filename: pool/main/p/python3.7/libpython3.7-stdlib_3.7.17-1+focal1_amd64.deb
+Size: 1773748
+MD5sum: 1b6471b2ccc00167dcec8876aa720b46
+SHA1: 1e9f94114cb77f243a2a2b5d964c6bfd99cb3c51
+SHA256: 31b5e938170a47b14e4287781d655f3fe655926bd49ae1410db1393e0a36a63d
+Description: Interactive high-level object-oriented language (standard library, version 3.7)
+Description-md5: ee87e9de9e1eb46f3352486b3a98e6ef
+Multi-Arch: same
+
+Package: libpython3.7-testsuite
+Source: python3.7
+Priority: optional
+Section: libdevel
+Installed-Size: 21427
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.7.17-1+focal1
+Suggests: python3.7-gdbm, python3.7-tk
+Depends: python3.7 (>= 3.7.17-1+focal1), net-tools
+Filename: pool/main/p/python3.7/libpython3.7-testsuite_3.7.17-1+focal1_all.deb
+Size: 2935256
+MD5sum: e2900b54bdc496854934f12490ee1c76
+SHA1: 9f5da4ab494c4bd7e687068fae9b6596e8d89441
+SHA256: 33a5744d20d5fce360c959e22e307891a288629b3a04ac5744cbddc383a0cb9d
+Description: Testsuite for the Python standard library (v3.7)
+Description-md5: bcd6932415321d1a391e21c6d7d2b220
+
+Package: libpython3.9
+Source: python3.9
+Priority: optional
+Section: libs
+Installed-Size: 5658
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.9.21-1+focal1
+Depends: libpython3.9-stdlib (= 3.9.21-1+focal1), libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.9/libpython3.9_3.9.21-1+focal1_amd64.deb
+Size: 1715156
+MD5sum: 4198ae51d128d0baf8e8d0792fd2224e
+SHA1: 1b9154f0daf40044baa8afacc02b3afe6eeaa742
+SHA256: 39a0698eace2da99af77d7243c3b49decfe9edea04a0888581842c557e3d7298
+Description: Shared Python runtime library (version 3.9)
+Description-md5: 7b9bb48e966302f718c6d5e603623c28
+Multi-Arch: same
+
+Package: libpython3.9-dbg
+Source: python3.9
+Priority: optional
+Section: debug
+Installed-Size: 82175
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.9.21-1+focal1
+Depends: libpython3.9-stdlib (= 3.9.21-1+focal1), libbz2-1.0, libc6 (>= 2.30), libcrypt1 (>= 1:4.1.0), libdb5.3, libexpat1 (>= 2.1~beta3), libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libmpdec2, libncursesw6 (>= 6), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.7.15), libssl1.1 (>= 1.1.1), libtinfo6 (>= 6), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.9/libpython3.9-dbg_3.9.21-1+focal1_amd64.deb
+Size: 15486388
+MD5sum: f03eadd8dd7f377535bf3d6706e7a7c0
+SHA1: e62b8118802db67476be330657d7808e4e774139
+SHA256: 78f54d5731d284cb9ed63fdcb0c71b1c3c45bce0842ef12fc82e76386c6df828
+Description: Debug Build of the Python Interpreter (version 3.9)
+Description-md5: 6df8e83210ca49e1345f956fa185a3d8
+Multi-Arch: same
+
+Package: libpython3.9-dev
+Source: python3.9
+Priority: optional
+Section: libdevel
+Installed-Size: 20501
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.9.21-1+focal1
+Recommends: libc6-dev | libc-dev
+Depends: libpython3.9-stdlib (= 3.9.21-1+focal1), libpython3.9 (= 3.9.21-1+focal1), libexpat1-dev
+Filename: pool/main/p/python3.9/libpython3.9-dev_3.9.21-1+focal1_amd64.deb
+Size: 4197608
+MD5sum: 747239e4d8d7181a7715c80bdd5ce47a
+SHA1: 8301e6e211ed4a445c620d3fadd4791bb68fcce5
+SHA256: bd642ce9ed7853bbe19dd40505cb2b83065fcd2fcc64cac5349b968725287e39
+Description: Header files and a static library for Python (v3.9)
+Description-md5: 0e22f69ea5b44caa0860cd5ebd4ca6bf
+Multi-Arch: same
+
+Package: libpython3.9-minimal
+Source: python3.9
+Priority: optional
+Section: python
+Installed-Size: 5004
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.9.21-1+focal1
+Recommends: libpython3.9-stdlib
+Depends: libc6 (>= 2.4), libssl1.1 (>= 1.1.1)
+Conflicts: binfmt-support (<< 1.1.2)
+Filename: pool/main/p/python3.9/libpython3.9-minimal_3.9.21-1+focal1_amd64.deb
+Size: 807580
+MD5sum: 6a269fdbba50435bc96d081700bb9aa1
+SHA1: cf94d0227db229c9e08ef3400c4de04b844531b3
+SHA256: 155be5c4ce656cf34e78be21df541bea82d5d341229f2fff0b1496a460db91f9
+Description: Minimal subset of the Python language (version 3.9)
+Description-md5: df14675954e1e2ed15189dc69d42f238
+Multi-Arch: same
+
+Package: libpython3.9-stdlib
+Source: python3.9
+Priority: optional
+Section: python
+Installed-Size: 7902
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.9.21-1+focal1
+Recommends: ca-certificates
+Depends: libpython3.9-minimal (= 3.9.21-1+focal1), mime-support, tzdata, libbz2-1.0, libc6 (>= 2.28), libcrypt1 (>= 1:4.1.0), libdb5.3, libffi7 (>= 3.3~20180313), liblzma5 (>= 5.1.1alpha+20120614), libmpdec2, libncursesw6 (>= 6), libreadline8 (>= 7.0~beta), libsqlite3-0 (>= 3.7.15), libtinfo6 (>= 6), libuuid1 (>= 2.20.1)
+Filename: pool/main/p/python3.9/libpython3.9-stdlib_3.9.21-1+focal1_amd64.deb
+Size: 1665156
+MD5sum: f975ef3e463c12763813388cc4745b4b
+SHA1: b158dc3ac1e9fb6162e68308616fbd687576a38c
+SHA256: 67146f21d75eca5ac6dd30ccb44d7d059e8a929e8cacfa1ffef41f2e44511010
+Description: Interactive high-level object-oriented language (standard library, version 3.9)
+Description-md5: 019f527b758eb3d399b20b6ededfcb54
+Multi-Arch: same
+
+Package: libpython3.9-testsuite
+Source: python3.9
+Priority: optional
+Section: libdevel
+Installed-Size: 22532
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.9.21-1+focal1
+Suggests: python3-gdbm, python3-tk
+Depends: python3.9 (>= 3.9.21-1+focal1), net-tools
+Filename: pool/main/p/python3.9/libpython3.9-testsuite_3.9.21-1+focal1_all.deb
+Size: 3090608
+MD5sum: 4e783d11290a1bd50e0ffb4cb67dc293
+SHA1: bd5f72ccbc1e1fb67cd52aaf648f693660e3c967
+SHA256: 29ade8ace786c202b3e416cd6aa05fa855e2bd0cf7bc6bbe6e7ba151782c7259
+Description: Testsuite for the Python standard library (v3.9)
+Description-md5: 6ed9ca69c73ef494b80811cab1d900a3
+
+Package: python3.10
+Priority: optional
+Section: python
+Installed-Size: 178
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Suggests: python3.10-venv, binutils
+Depends: python3.10-minimal (= 3.10.16-1+focal1), libpython3.10-stdlib (= 3.10.16-1+focal1), mime-support
+Filename: pool/main/p/python3.10/python3.10_3.10.16-1+focal1_amd64.deb
+Size: 92416
+MD5sum: 349088b54c0d3e58fc14c6524a1f06d8
+SHA1: ec35c881381833fd40fe25e9fa7639b06e11f870
+SHA256: 524c54a1b39ce9273b96884587ef176a07fef3c87d69d892e964302811f4a9a0
+Description: Interactive high-level object-oriented language (version 3.10)
+Description-md5: d140964e5d6dc526967b5a3ca44bfede
+Multi-Arch: allowed
+
+Package: python3.10-dbg
+Source: python3.10
+Priority: optional
+Section: debug
+Installed-Size: 48722
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Recommends: gdb
+Suggests: python3.10-gdbm-dbg, python3.10-tk-dbg
+Depends: python3.10 (= 3.10.16-1+focal1), libpython3.10-dbg (= 3.10.16-1+focal1), libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.10/python3.10-dbg_3.10.16-1+focal1_amd64.deb
+Size: 23696552
+MD5sum: c82f4e3de7a4a55fbb3d2c5e57c780b0
+SHA1: 797b988b9be547bb5164748bdf36359b964cffb4
+SHA256: afc18d72264660447f2f3f830347c2a2a485b4f0e061b3e793df11d20dd312e1
+Description: Debug Build of the Python Interpreter (version 3.10)
+Description-md5: ef9c9c880d5639e55936b8db7e48a683
+Multi-Arch: allowed
+Build-Ids: 1bfb6cdecc91173c6644c76c0022a7863cea3d8d 20ec3c7ef32588e49b6f6f689701a55b0233d88e 244a9373c0378ba170d017205e2cadc9d02288ed 2647067f9c6dbaf431fb4831364409c553f08305 28b07cec7da828ac102933b3ee5ad1b936e56994 2d8fda7ef5b3d10ed5d98dd47708bd21efda20e6 31a1d5fa52502be9333bce982a4321440576fb06 32328b5d3a32a3c17acc7ac2f718edc50e9b5586 4288282057a509832c2bdffea0d62ace1914a8b4 437feb2e073dc803d2eb0fb4d4f7bddce4cd1aad 46d343fa74b9682aa8383a5a2e3eafc13667d23a 52f4b780238f8499c0a1873e7c95ea510cc40ba7 5988109fe2b7ed2f150ff16378955ed343c719ea 5bfee91f124aa2d9905e83cf92c281ff7492ae2f 5c91329cbcfb66871d05004cbf48aff7a547de24 6731d727bd3db7bf37c78d2659fc038741fb2967 69aa9667daf1b67cfa65f42ad9b6874ee1da5f9d 6dfaae0d5474ee436abb5dad767788458b7ddef2 6f935b0e4d08619d7b96009647f7f6a03c61ae60 73868247e3e2fb7c92d6e4119979193f99fba86e 73c5ec6a99a06c7b450c2f48be671b5ae680e6ce 7427eb369c8eb29035f391b6a0eee7b72b8c60be 764a7cc46c778332f21fd11969c38a6fbc3fb91e 7bdd339de2dece040ab491539928f3a0058214f3 85157c60c4c90dc745a6931e297d3707a27916b5 861fe1bc567feab6488a75741ea86dbe528b9863 86f9ca112df9ca59cdd05721af3aa15ada7d5251 88a3663c3bf5e2a82b084ebb99a4e97489e292f4 8ac76100a0d3ac89a903efe73dd72bcd3f32f464 922ed9323189ade385dcf04439e58ca869b0c7d6 975558400bc384e9a4a58e5fa3ae3bb37a557c60 9a6ee7c9f1428effcd28e789a13e00fdb8609598 a38ca6e24fb8d21f195b8a0b1c65fba3a0dac81e b013eed7ac199cae08f429577fe313ca865bd0f5 b574f6449b794b7ef8dae6fc9858698f8a2b1d64 b5881f0133ea4ba255c88bc295e163227df7a1ac b8b5b6451bcaf2c2f8c33baf3204505cff760c66 bd2321bc926b2c1225d8b3ee212d73adce3bb674 be4debc3d751b32003fa0c4d94e15b92283b7fa4 bfe306a1551f1057204276a946002810207e2bfa c17103eb06975ca9f83194c962d5061f57f14f69 c1ca66abf6917f4dbcfbeba166e2085ac0e5a225 c9399f7a3faef322c679bbd41182fd3fdf511df8 c9c3cb148a4660b52d33a346b8d8b7d3324d0c38 d16fc08f418c6c927fb1ecf01e8932f673e8931e e2309d4d2c87395d204a9f511b41c31e74c966a9 ec3c36a9fdd711f9c8b09c3bb4c9022b38c4a740 f88253581a8f80bafb4e7760205f71106d05b630
+
+Package: python3.10-dev
+Source: python3.10
+Priority: optional
+Section: python
+Installed-Size: 504
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Recommends: libc6-dev | libc-dev
+Depends: python3.10 (= 3.10.16-1+focal1), libpython3.10-dev (= 3.10.16-1+focal1), libpython3.10 (= 3.10.16-1+focal1), libexpat1-dev
+Filename: pool/main/p/python3.10/python3.10-dev_3.10.16-1+focal1_amd64.deb
+Size: 500656
+MD5sum: 9bdb759bbb021442d39079ecc3c98136
+SHA1: ef90a8a42dcc87f51bcd3136c766f0ab469d3280
+SHA256: 98baa77f8beeb1524b0d72d9557405c191137c1db05dbe0010dafdface80e2e3
+Description: Header files and a static library for Python (v3.10)
+Description-md5: cfcf56ceefddbdcf80ef4ad2f78442d0
+Multi-Arch: allowed
+
+Package: python3.10-distutils
+Source: python3.10
+Priority: optional
+Section: python
+Installed-Size: 743
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.10.16-1+focal1
+Depends: python3.10-lib2to3 (>= 3.6.4)
+Filename: pool/main/p/python3.10/python3.10-distutils_3.10.16-1+focal1_all.deb
+Size: 186928
+MD5sum: 771d017f485e6400f47062c1bf3b81ac
+SHA1: 651c1bc485990899d8a6e65ba3cf0a850af2456d
+SHA256: 8ac7b8f8997fce50269dd1b2ef01644c5f0cc06bfe1088882a089db9c88d566f
+Description: distutils package for Python (version 3.10)
+Description-md5: e820f4bdacf8c2c3323bc2bc93bda1b4
+Multi-Arch: foreign
+
+Package: python3.10-examples
+Source: python3.10
+Priority: optional
+Section: python
+Installed-Size: 3249
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.10.16-1+focal1
+Depends: python3.10 (>= 3.10.16-1+focal1)
+Filename: pool/main/p/python3.10/python3.10-examples_3.10.16-1+focal1_all.deb
+Size: 824564
+MD5sum: a9ed4586cebaddc8ac51a980689a113a
+SHA1: c0b0e57b066d65d9424702daa298bc7bb547ef93
+SHA256: 1b52d739ffe37df76a3940d7d61b5aef9208a7002c51549cc448e9ab6f358013
+Description: Examples for the Python language (v3.10)
+Description-md5: ae8201fe8ee3941090540a4b4bb21edf
+
+Package: python3.10-full
+Source: python3.10
+Priority: optional
+Section: python
+Installed-Size: 6
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Recommends: python3.10-examples
+Suggests: python3.10-dev
+Depends: python3.10 (= 3.10.16-1+focal1), libpython3.10-testsuite, python3.10-venv (= 3.10.16-1+focal1), idle-python3.10, python3.10-distutils, python3.10-gdbm, python3.10-lib2to3, python3.10-tk, ca-certificates
+Filename: pool/main/p/python3.10/python3.10-full_3.10.16-1+focal1_amd64.deb
+Size: 1288
+MD5sum: 1e46b701af41a7812d25e0fcb98d9bb0
+SHA1: 6d436cf2e854cf3a4c5cbf7aa418a80933fe0acf
+SHA256: 803eba0258c6ec66552ff16787798c1e39d3ec5419490520d9104dc512bc1987
+Description: Python Interpreter with complete class library (version 3.10)
+Description-md5: 43f368a6d5e6d4751ad891944725332f
+Multi-Arch: allowed
+
+Package: python3.10-gdbm
+Source: python3.10
+Priority: optional
+Section: python
+Installed-Size: 132
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Suggests: python3.10-gdbm-dbg
+Depends: python3.10, libc6 (>= 2.2.5), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.10/python3.10-gdbm_3.10.16-1+focal1_amd64.deb
+Size: 65320
+MD5sum: 0e862d087abea0146fb212dd290dd8e3
+SHA1: 8f99041ee09ce560765b3d6ee74d572d74cde88a
+SHA256: 1cb81b15a1f70757471e7bd100487f38e2865357b6c4845506ffdb892b0611e3
+Description: GNU dbm database support for Python (version 3.10)
+Description-md5: 12ad6ebd5e620e220defe50aae76f757
+Multi-Arch: same
+
+Package: python3.10-gdbm-dbg
+Source: python3.10
+Priority: extra
+Section: debug
+Installed-Size: 233
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Depends: python3.10-dbg, python3.10-gdbm (= 3.10.16-1+focal1), libc6 (>= 2.4), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.10/python3.10-gdbm-dbg_3.10.16-1+focal1_amd64.deb
+Size: 109488
+MD5sum: 4029f79dd0008949a149edf048e67286
+SHA1: cd945994a056cf21a2a2d5c4147fe9c3aa7c88e5
+SHA256: 772bf7f421b9e72e3f5ac2780773986351e0ac34870c2e51e5168c688bc64b9a
+Description: GNU dbm database support for Python (version 3.10 debug extension)
+Description-md5: 27c7c12b3de10e5ad79d532a47e62678
+Multi-Arch: same
+Build-Ids: ce30cf841da640e5355f4d9df5f2deec331957d9
+
+Package: python3.10-lib2to3
+Source: python3.10
+Priority: optional
+Section: python
+Installed-Size: 439
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.10.16-1+focal1
+Filename: pool/main/p/python3.10/python3.10-lib2to3_3.10.16-1+focal1_all.deb
+Size: 125508
+MD5sum: 9f434b02b83050627b98f76166018a58
+SHA1: 0a16a74fca6d6334c1d7ab20eacfb4e8324c67f6
+SHA256: 9a07dd94e2e9ad9d62db79dc46d49d633de9d636f2125569af2db894fdc7f433
+Description: lib2to3 package for Python (version 3.10)
+Description-md5: f8c9efe19e61e86d35abf6f9f38630f8
+Multi-Arch: foreign
+
+Package: python3.10-minimal
+Source: python3.10
+Priority: optional
+Section: python
+Installed-Size: 5805
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Recommends: python3.10
+Suggests: binfmt-support
+Depends: libpython3.10-minimal (= 3.10.16-1+focal1), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Conflicts: binfmt-support (<< 1.1.2)
+Pre-Depends: libc6 (>= 2.30)
+Filename: pool/main/p/python3.10/python3.10-minimal_3.10.16-1+focal1_amd64.deb
+Size: 2085888
+MD5sum: b2915369c86dfb468074416e9d774585
+SHA1: d19cf745aede0d8452c9c2cf23df4cb69c8c97c6
+SHA256: 63f8fdd37331e4e0587b3ee192c2c5da51f02756c48bd2d35b76868797cfc255
+Description: Minimal subset of the Python language (version 3.10)
+Description-md5: 6c540c8f6686883efd22ac68c7920f37
+Multi-Arch: allowed
+Cnf-Visible-Pkgname: python3.10
+
+Package: python3.10-tk
+Source: python3.10
+Priority: optional
+Section: python
+Installed-Size: 529
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Suggests: tix, python3.10-tk-dbg
+Depends: python3.10, libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0)
+Filename: pool/main/p/python3.10/python3.10-tk_3.10.16-1+focal1_amd64.deb
+Size: 146912
+MD5sum: 47371dfb5b09236e982d0830b7227e97
+SHA1: 3e9518f7a883091933d5d7a6fce4aebbf44dfe32
+SHA256: f833f69577b460c414f82652e78157f586f62189f5b16a7165dadef213a66f91
+Description: Tkinter - Writing Tk applications with Python (version 3.10)
+Description-md5: 8a91fb52ff1094ab3e351557e40381cb
+Multi-Arch: same
+
+Package: python3.10-tk-dbg
+Source: python3.10
+Priority: extra
+Section: debug
+Installed-Size: 687
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Depends: python3.10-dbg, python3.10-tk (= 3.10.16-1+focal1), libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0)
+Filename: pool/main/p/python3.10/python3.10-tk-dbg_3.10.16-1+focal1_amd64.deb
+Size: 311756
+MD5sum: 8b22fee1ca8d7e1fb18241031587125f
+SHA1: 11c420b2a7e76c5c4ffd4e418cdc8ac0f291945f
+SHA256: 5c1850111bd9bfd69590963b383fd1d1bb7b16febe9da321600fde51a1c8da0c
+Description: Tkinter - Writing Tk applications with Python (version 3.10 debug extension)
+Description-md5: b94ec064327fae749a9c7d8cbccf78d3
+Multi-Arch: same
+Build-Ids: a7d7a3bf909cbfc5257bf53913a7920f2b07b67a
+
+Package: python3.10-venv
+Source: python3.10
+Priority: optional
+Section: python
+Installed-Size: 3240
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.10.16-1+focal1
+Depends: python3.10 (= 3.10.16-1+focal1), python3.10-distutils
+Breaks: python3-pip (<< 1.5.6-4)
+Filename: pool/main/p/python3.10/python3.10-venv_3.10.16-1+focal1_amd64.deb
+Size: 2930652
+MD5sum: b0c2c459b4516efefcb28edf359f9fa4
+SHA1: ebde79b8c4b2647f9305dab2ba83956f922d2509
+SHA256: 0cb0edb341c953f4c2dd9ad5134d0894eb7c57a27250a96acfb70f73233b1efd
+Description: Interactive high-level object-oriented language (pyvenv binary, version 3.10)
+Description-md5: e5429a43008c0a999bf6d72571c628b9
+Multi-Arch: allowed
+
+Package: python3.11
+Priority: optional
+Section: python
+Installed-Size: 179
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Suggests: python3.11-venv, binutils
+Depends: python3.11-minimal (= 3.11.11-1+focal1), libpython3.11-stdlib (= 3.11.11-1+focal1), mime-support
+Filename: pool/main/p/python3.11/python3.11_3.11.11-1+focal1_amd64.deb
+Size: 92516
+MD5sum: e740c75db52e7132f11272194acdafa1
+SHA1: c523d9ceb707772c3acc14977b8bd4f7bf42d3bf
+SHA256: dd3fe35d3470f93ee234eeca6ffffa87f618f3870000e624c264e39f26e9b4ad
+Description: Interactive high-level object-oriented language (version 3.11)
+Description-md5: 01042efeb48131a16be91f2eae5e8322
+Multi-Arch: allowed
+
+Package: python3.11-dbg
+Source: python3.11
+Priority: optional
+Section: debug
+Installed-Size: 64417
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Recommends: gdb
+Suggests: python3.11-gdbm-dbg, python3.11-tk-dbg
+Depends: python3.11 (= 3.11.11-1+focal1), libpython3.11-dbg (= 3.11.11-1+focal1), libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.11/python3.11-dbg_3.11.11-1+focal1_amd64.deb
+Size: 30475816
+MD5sum: c4e5a0c1976b9f53e4399d778393f0ae
+SHA1: 1ff08416bcd9c05ec1804d6680cac6af2f307e45
+SHA256: a76f85782e3589dc0fd040e46ad2fd60ebc8d75b1200fb297cdc30f451deb08e
+Description: Debug Build of the Python Interpreter (version 3.11)
+Description-md5: 73bbda57a51a6bce7b04fb858fec1ee1
+Multi-Arch: allowed
+Build-Ids: 00a4a2c68346ed21f401802bb30b45abb560a0c2 01a61d721ca63369c29d019dd76d1ee15b4f3d82 03c7d10b12b041e82bcc51de5cd2a5f256e84c91 04c3ee256fc9064769120bb59681a02a3d8e185d 04cfa460626069ec9a9401afe587c8ace82b11cd 0b8becb72a42809239eb2d684425fc2b9ad485ed 1138fa1e83cbfe121d3c774bbff28480c3a55e0f 120aed89515061e6c0f7ad49a7230ef4ab355fed 18f5fd882bbd4e9d06fabcd88180e67cbb46e857 233954c80bb7c94d5ed465738f10d590df8faa96 266a091ad2bc70886098235dfaa463102fa456a1 29cd49e16ecd60df32fc4444030591ebcd7c3010 2b74956d89a7eb70550c656d0ed5fe0d11da2975 30ef396a974c05921449542333b1038373006ff8 3d9248fb8dcd870e29c63b8179242ef51e869590 5374a85e28df8401bfbdc50c2e8003b4cb226eb4 53c625e599588168fe5981a3aea1b757b74b3779 5a82b1c10bc360e0d743bda9065b59228b81a8c1 5ee4a941a6fc66e0023d2fe26c57dcd0e021d213 6f266f308bbe9be8ec32eaa72a34f4865663802f 7385faba589388132c56900fc1aa5d64e5fc426d 74736ad29ef26053fcdcf1ca9e14c04708b18af7 8c49c06a9f04c88427d74bbf8c431857c60c82b1 954a543637dc89cf51c7d62a0bdf19e32bb181a3 982234025e6aaa5da5a5b752806d0975b1ff5ea8 9a23916b7dc9a2cec8dcaad91fba74cd14425804 a5529461d9e5ec1634ad4fa9b072a0c950a1f971 a578b800c6a558e8fced895fe35a6a4df055f003 ad59178bab6c470a0bc2f4095108e96e0d4c669d aee1ead39a1a676bbed54ecf0ef738b631fb4846 b04a59203eab91cc3b4c33a0307d10843abcf373 b07c397e9f08691bf30ec4b62f87858779682a5d b2a0b19ada8cb16b0345de55988e013b3801268e b417001f8c83b7c46207743d5729439e101900ee b5a77649c77b7b675b6dedf40025d4df4c7b0677 b9df14f6dd97f5cea59a0981f1eaac6f44e89539 cc1318fbc4cd6645581e60d3f46b154c7a3e1c8c d0c1f204c788a092597a748b798dcf7ef6368ee0 d1f0f8a605fd38b2b9dcf1c018c89021c859c9e3 db59dea39548ca166422a0dc4c2ba2ffc2cbedd8 dbc50d08ca6e62f8e27c0fbde5ca2402fed5a58b de923894013dafa91bec87493a0bfbb15e88b905 e01e74c34157132bfc5817b3785e50b0918dcc2f e7d801d4ff73a445ddefdc27032923ca8b59716e ec5b0696d1448f2f8e8a5610190b989ad95a57c5 ecaf176f7a5f40cff7b4a3018e78a914238ae404 f14b864b5b453199fb372340ae49ef168ecf275f f40325f765807664bb8bd6f2a9e93acfed072856
+
+Package: python3.11-dev
+Source: python3.11
+Priority: optional
+Section: python
+Installed-Size: 504
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Recommends: libc6-dev | libc-dev
+Depends: python3.11 (= 3.11.11-1+focal1), libpython3.11-dev (= 3.11.11-1+focal1), libpython3.11 (= 3.11.11-1+focal1), libexpat1-dev
+Filename: pool/main/p/python3.11/python3.11-dev_3.11.11-1+focal1_amd64.deb
+Size: 500648
+MD5sum: 5cfa5c6feaca1d45122e247c23ef6900
+SHA1: 0a5d43695c0ae26c8977b69da3b0b8825f07c24b
+SHA256: 3975b9a09ccfd16494f51d9df7ce5b1895e2907ad10bcaca120496df23425e09
+Description: Header files and a static library for Python (v3.11)
+Description-md5: f309821cb3c1abc3e036cf55e22d6d87
+Multi-Arch: allowed
+
+Package: python3.11-distutils
+Source: python3.11
+Priority: optional
+Section: python
+Installed-Size: 709
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.11.11-1+focal1
+Depends: python3.11-lib2to3 (>= 3.6.4)
+Filename: pool/main/p/python3.11/python3.11-distutils_3.11.11-1+focal1_all.deb
+Size: 180244
+MD5sum: 3794cfcb39ac22f5f9cfac614d8a71f5
+SHA1: d7751001161323bcf99bc9f6d14c068fc606a79d
+SHA256: 598541124eb7fe7b0d800618a740e99cbed16a223448ccb8504b85ed42974a70
+Description: distutils package for Python (version 3.11)
+Description-md5: 1d3c76111fc97b0b12b55ab8e34e4207
+Multi-Arch: foreign
+
+Package: python3.11-examples
+Source: python3.11
+Priority: optional
+Section: python
+Installed-Size: 3315
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.11.11-1+focal1
+Depends: python3.11 (>= 3.11.11-1+focal1)
+Filename: pool/main/p/python3.11/python3.11-examples_3.11.11-1+focal1_all.deb
+Size: 840412
+MD5sum: 4b3a5a46eae46ad2b0dc536b41c412b0
+SHA1: a2d5ecfc5fa9b26680f57e31ab44350b72d22633
+SHA256: ce4fab4e840e9f7a00f3e6653308fd3930d212753bd6dfe0fe29c3d4b2238c0c
+Description: Examples for the Python language (v3.11)
+Description-md5: aca6dbe676142dd401eef5a395a265f7
+
+Package: python3.11-full
+Source: python3.11
+Priority: optional
+Section: python
+Installed-Size: 6
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Recommends: python3.11-examples
+Suggests: python3.11-dev
+Depends: python3.11 (= 3.11.11-1+focal1), libpython3.11-testsuite, python3.11-venv (= 3.11.11-1+focal1), idle-python3.11, python3.11-distutils, python3.11-gdbm, python3.11-lib2to3, python3.11-tk, ca-certificates
+Filename: pool/main/p/python3.11/python3.11-full_3.11.11-1+focal1_amd64.deb
+Size: 1288
+MD5sum: 614fa1735dcc11268c9811f9c028a202
+SHA1: ced508ef00c0326629dba550429f66f58fb8a5cc
+SHA256: 5117210f7cf8fdde75b4fd72ab9d22e4393cc285650e78e0c665c2ff5ed6a2cd
+Description: Python Interpreter with complete class library (version 3.11)
+Description-md5: 3ffbac3f5e4c1a2e484de11d50798498
+Multi-Arch: allowed
+
+Package: python3.11-gdbm
+Source: python3.11
+Priority: optional
+Section: python
+Installed-Size: 133
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Suggests: python3.11-gdbm-dbg
+Depends: python3.11, libc6 (>= 2.2.5), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.11/python3.11-gdbm_3.11.11-1+focal1_amd64.deb
+Size: 65528
+MD5sum: 2bbac6d3321f76896bf1b84e5013d0d5
+SHA1: 5d409e34828c592c7d643590a3a2712b80ce7cdd
+SHA256: 8f755cd44a9ae9a8a0a4d64979e866dbe2abacb41b68f9acfc558cfe35bdafc0
+Description: GNU dbm database support for Python (version 3.11)
+Description-md5: 22e963fbd6efc47b4bdb256aed5f077f
+Multi-Arch: same
+
+Package: python3.11-gdbm-dbg
+Source: python3.11
+Priority: extra
+Section: debug
+Installed-Size: 241
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Depends: python3.11-dbg, python3.11-gdbm (= 3.11.11-1+focal1), libc6 (>= 2.4), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.11/python3.11-gdbm-dbg_3.11.11-1+focal1_amd64.deb
+Size: 112512
+MD5sum: 097a1ace1bd0a4a3a1621c8996cfc6e9
+SHA1: d1dfdd6993a825285ce51144f3b15f8621ae20f2
+SHA256: 2336c9f6b57acc7db0c6d77e90cde9c5778234bffb3b2fce7192abbc507c8d31
+Description: GNU dbm database support for Python (version 3.11 debug extension)
+Description-md5: 4616ffe1b9edb81953895edd0a1f80ef
+Multi-Arch: same
+Build-Ids: c5b4d1324313d5b2fae02afba59740a3f03b4a7b
+
+Package: python3.11-lib2to3
+Source: python3.11
+Priority: optional
+Section: python
+Installed-Size: 440
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.11.11-1+focal1
+Filename: pool/main/p/python3.11/python3.11-lib2to3_3.11.11-1+focal1_all.deb
+Size: 125820
+MD5sum: 7a9e915c6e84d4028382715bed49300d
+SHA1: 07e91df79a014e41836145a55cffb101b6acb42d
+SHA256: d7f168f1b7e4528900937a3678a782f0fd1fb5ac5415f538cb3a2e58cb6fa3fd
+Description: lib2to3 package for Python (version 3.11)
+Description-md5: 77c47828e911cc793e588794d42682db
+Multi-Arch: foreign
+
+Package: python3.11-minimal
+Source: python3.11
+Priority: optional
+Section: python
+Installed-Size: 7109
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Recommends: python3.11
+Suggests: binfmt-support
+Depends: libpython3.11-minimal (= 3.11.11-1+focal1), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Conflicts: binfmt-support (<< 1.1.2)
+Pre-Depends: libc6 (>= 2.30)
+Filename: pool/main/p/python3.11/python3.11-minimal_3.11.11-1+focal1_amd64.deb
+Size: 2304920
+MD5sum: 8a36f8f1ba26cd47876651924b51c9ce
+SHA1: 107275dcc9b604083678faa7b78d22843b36cb48
+SHA256: 0bbfdf7bc43c06a95cae225c14a9fee584396625251fda6dce40cfcceb530bea
+Description: Minimal subset of the Python language (version 3.11)
+Description-md5: 732fe8f39346875143c1eac7434d14cd
+Multi-Arch: allowed
+Cnf-Visible-Pkgname: python3.11
+
+Package: python3.11-tk
+Source: python3.11
+Priority: optional
+Section: python
+Installed-Size: 531
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Suggests: tix, python3.11-tk-dbg
+Depends: python3.11, libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0)
+Filename: pool/main/p/python3.11/python3.11-tk_3.11.11-1+focal1_amd64.deb
+Size: 146952
+MD5sum: c381d82a735fd28e8746c52ee70f1b66
+SHA1: cf30466f1b9b9ff2543d7929dd6e6b92bc2a3d7e
+SHA256: 6c4107d4356838b0fbddd0cbd14819703434248fcd63433362627a4dead06c61
+Description: Tkinter - Writing Tk applications with Python (version 3.11)
+Description-md5: c091dca8a2aada85f710a96bdfef0c23
+Multi-Arch: same
+
+Package: python3.11-tk-dbg
+Source: python3.11
+Priority: extra
+Section: debug
+Installed-Size: 692
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Depends: python3.11-dbg, python3.11-tk (= 3.11.11-1+focal1), libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0)
+Filename: pool/main/p/python3.11/python3.11-tk-dbg_3.11.11-1+focal1_amd64.deb
+Size: 314228
+MD5sum: 804d13c3d4e0ea9801d172d415ef33f7
+SHA1: 10589c4a8a47ea1a11debe3398519ac09d96aa21
+SHA256: 83f11ef10da7e5bfd2a71978a54c00bbd05b276c5c69a8b76ba6c605145c4ed2
+Description: Tkinter - Writing Tk applications with Python (version 3.11 debug extension)
+Description-md5: ec88145d29c1290321bc54e1c9383c87
+Multi-Arch: same
+Build-Ids: e134af6a11a8be54ecd8a7b488a0aa6ac4179115
+
+Package: python3.11-venv
+Source: python3.11
+Priority: optional
+Section: python
+Installed-Size: 3293
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.11.11-1+focal1
+Depends: python3.11 (= 3.11.11-1+focal1), python3.11-distutils
+Breaks: python3-pip (<< 1.5.6-4)
+Filename: pool/main/p/python3.11/python3.11-venv_3.11.11-1+focal1_amd64.deb
+Size: 3033936
+MD5sum: 6471a46908db1999aa4e1375db472120
+SHA1: 4179444d9019cd5be30a3ed28c7d8c949683d353
+SHA256: 484dfb58989b4532955a79593921281bf2c41cbd29addbba2198e3ae7ceb20de
+Description: Interactive high-level object-oriented language (pyvenv binary, version 3.11)
+Description-md5: bf8123dbf5c3c7b6bd2c7ba323f6994e
+Multi-Arch: allowed
+
+Package: python3.12
+Priority: optional
+Section: python
+Installed-Size: 8441
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Suggests: python3.12-venv, binutils
+Depends: libpython3.12-stdlib (= 3.12.8-1+focal1), mime-support, libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.12/python3.12_3.12.8-1+focal1_amd64.deb
+Size: 2513040
+MD5sum: 24727e65c159ea2474c252876a665440
+SHA1: 8ef1808a73c7061836a33a6b51fee8140f6b084c
+SHA256: 59cda9639c9213a96efd79405353b0cf2cb0d9decca88f22c0d2345275819b5f
+Description: Interactive high-level object-oriented language (version 3.12)
+Description-md5: af6e3d533670d7c2547d79718a4e35f4
+Multi-Arch: allowed
+
+Package: python3.12-dbg
+Source: python3.12
+Priority: optional
+Section: debug
+Installed-Size: 86799
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Recommends: gdb
+Suggests: python3.12-gdbm-dbg, python3.12-tk-dbg
+Depends: python3.12 (= 3.12.8-1+focal1), libpython3.12-dbg (= 3.12.8-1+focal1), libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.12/python3.12-dbg_3.12.8-1+focal1_amd64.deb
+Size: 41227408
+MD5sum: 29f969b8bc0009e8501ca004cfe9fca0
+SHA1: 5763e1b30e83380c72041d9eb72b22c4093bff75
+SHA256: 718fd6e022eba2b6ee7a5f3a4b706d21394d818820945cf7374e86bbf11a21ad
+Description: Debug Build of the Python Interpreter (version 3.12)
+Description-md5: dc80c2e364cd0953ae90af6bed5f4be3
+Multi-Arch: allowed
+Build-Ids: 05ca101d0567bada01d7bf8739aaacbce5e97b99 1024c7863fcecedfd01c03e8645d2d89dd78a940 116bf79021fe0bb15a082b92c4410ce658e62874 14462c4484aa375ffe3a0ea93a8a33b8477b84f1 16faa06d296d4794cd221e647b82d82cdef7076b 1d1bb823766612a0783c4e2c638d7f00388592b7 206dae44f0fa3a0dda4ea57014dffa01b318aa8d 23e7e3e46d1bb27e5d65a384951241e7e941c8d6 2831518ac4b0d63841431408b77d0f0336ddc26b 29332184afb3c5ae21f40ae5c3b87509bde19b1e 29e2c1deb712ad12a326de3d9bb7cc03c5c3e88b 2a5aab52ebe4cd40afba453dd779b88ad72ca5c6 2d38c389c83054ad8da81e316da1e9c69cc52ab4 2dcdf0ae070fc07e083da4828c34523ad105d72f 381f8c373a02b4792ed469cbad232716da596f6f 3da10655bb6580da0a18fe0dbca15fb9b7820c3a 407333440efd72abdc3a17e13e009cfbb41d2e3d 4110782d4de721c54f5b6990e456d725cd8bf143 46dfdc7cc52ee3050947b1824830329011d92171 479057c28f8370c9d9465953289859f53b8bc4ed 47e409987021ea9e601dd7470e296d4022a58fca 596014facc9d5e5a05927e6c20b526b5122b7d6b 5c99e5cdd084cc83acb1a88e3635ffb2ec576f02 67213a9c3a493a5ab7d022621f02ad0ea55b32d7 6d8cd6b5d2332ec2ec2b950da5f2e65775f017b4 74d0e34fac93ed771e357f23adb72a2b7a9f263b 75f22ea4616458936e953437a0bd6483b5a4c81b 7e3a9bafdee22813f20c8a4a2d42839352ebb032 81f870389cd9fd8e29fcf81c3620a80468c6050e 83311576f771a44aa2d32481e6c57b3dd4fb8a04 8e70a5523c50d2373b17b19239a95fb482c15ee7 946363f1bf11285e9d2046bb3390a693fcbe1d00 9be933fd18d8eebb8e4316b6a9d7b8bbf58f3446 a1ed1e5aa7ef7cd7d6bfe0b8c36f652fbd3b5b0b aa883f4cfcd934df2b3500a2fbd10a1937b7b16e af6c91811a7e55f4329c03dff08c9e4981ea61d2 b3596e8e5ce556cb49f16effaa5736ac8a814819 b680e7c47840a8bb1ceea2d4e52d2f303b3b9d2d bae3e96fb672fd31f4c1be671250cc4d129ca54e cb080392939f93609ad1d8c87dce1062f5d1cfb2 cc7a552c965e8e05e570d749a20bdb18bfc647b4 cd82db6b8305deabb3e2f9104423bdb5dfc39387 cdbaac41a57ea7195f6e85da360f8332647f66c9 ce87f8c1fbc79fac6e10ffca8a1c617166c22494 d5683ca1eb1d30f9e8a86a9a8c3f647ce997685a d914c2a5a145d29d24e70e515591cce87e009375 dc8ff0a537375788b7548ada5a47a4ea8657edfb f5a17aabe3df2022fef8a437f45ac6e213b453d7 fa39a243bbc2ae777f0d9f046ceef7b52f768ef2 fdfd52d96264f7c7f84dfcf8ef12934d7fd9083a
+
+Package: python3.12-dev
+Source: python3.12
+Priority: optional
+Section: python
+Installed-Size: 502
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Recommends: libc6-dev | libc-dev
+Depends: python3.12 (= 3.12.8-1+focal1), libpython3.12-dev (= 3.12.8-1+focal1), libpython3.12 (= 3.12.8-1+focal1), libexpat1-dev
+Filename: pool/main/p/python3.12/python3.12-dev_3.12.8-1+focal1_amd64.deb
+Size: 498548
+MD5sum: cb1d02410b4eeebce5c7fed080d41b6a
+SHA1: f8570d68cbcb4bade15dcef9a3c39f9661a6a7e5
+SHA256: 3f140f93c25d71945b106434d200eecac9db2ba54e1c0ca113a05712ce13bd60
+Description: Header files and a static library for Python (v3.12)
+Description-md5: 128990a0b657fbd89264c584d6eaccce
+Multi-Arch: allowed
+
+Package: python3.12-examples
+Source: python3.12
+Priority: optional
+Section: python
+Installed-Size: 3232
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.12.8-1+focal1
+Depends: python3.12 (>= 3.12.8-1+focal1)
+Filename: pool/main/p/python3.12/python3.12-examples_3.12.8-1+focal1_all.deb
+Size: 815268
+MD5sum: dc2b73e96524b1e1850808ba4666c2d9
+SHA1: de98ab93ee64acd5c51bb161b2d324d403f9a6d0
+SHA256: 878ee9b7bcc8023b88fd4b616bac574c6a7956c3ad4d1c3fefccbef1cdf227dd
+Description: Examples for the Python language (v3.12)
+Description-md5: 59a4662ef9e50abb5636ce3046323402
+
+Package: python3.12-full
+Source: python3.12
+Priority: optional
+Section: python
+Installed-Size: 6
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Recommends: python3.12-examples
+Suggests: python3.12-dev
+Depends: python3.12 (= 3.12.8-1+focal1), libpython3.12-testsuite, python3.12-venv (= 3.12.8-1+focal1), idle-python3.12, python3.12-gdbm, python3.12-lib2to3, python3.12-tk, ca-certificates
+Filename: pool/main/p/python3.12/python3.12-full_3.12.8-1+focal1_amd64.deb
+Size: 1272
+MD5sum: be203bb6c1d902fa9a0dc79c67c16bc4
+SHA1: fb3f571015fe78cca0be244c6c307f8ceefbec36
+SHA256: f5aae6e371215ce551e2798dac4244199861e35b230bcc97db591b3f10507a69
+Description: Python Interpreter with complete class library (version 3.12)
+Description-md5: 3523f2585622a82e700326b56fa69375
+Multi-Arch: allowed
+
+Package: python3.12-gdbm
+Source: python3.12
+Priority: optional
+Section: python
+Installed-Size: 133
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Suggests: python3.12-gdbm-dbg
+Depends: python3.12, libc6 (>= 2.2.5), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.12/python3.12-gdbm_3.12.8-1+focal1_amd64.deb
+Size: 66028
+MD5sum: 24eef5195b62b40301b33c54d80ca09b
+SHA1: 82e912fc5cf0425598e3db9ae59889bf95554177
+SHA256: d93e1a35a3ea7c1215dbc18c4bc87bc420534f706401478840c230bfc134d410
+Description: GNU dbm database support for Python (version 3.12)
+Description-md5: 9d0acdf38c3ee4a65b73c05b02d6dc3b
+Multi-Arch: same
+
+Package: python3.12-gdbm-dbg
+Source: python3.12
+Priority: extra
+Section: debug
+Installed-Size: 247
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Depends: python3.12-dbg, python3.12-gdbm (= 3.12.8-1+focal1), libc6 (>= 2.2.5), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.12/python3.12-gdbm-dbg_3.12.8-1+focal1_amd64.deb
+Size: 114144
+MD5sum: 978a5535f85dc90ca30ca1c06e678d10
+SHA1: 3e1496aa3f917722bb05137b1bafe7f8de436c3c
+SHA256: 3315138e8f1a09cebb7b4886c375f84d3082cea8f0fc84fd48fc51cd86618858
+Description: GNU dbm database support for Python (version 3.12 debug extension)
+Description-md5: ed23e57f25d13dcfd285e08991cdd5bf
+Multi-Arch: same
+Build-Ids: a8cd9fdba06b6b03d18befc55f7c3e2d7d8d1bc1
+
+Package: python3.12-lib2to3
+Source: python3.12
+Priority: optional
+Section: python
+Installed-Size: 440
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.12.8-1+focal1
+Filename: pool/main/p/python3.12/python3.12-lib2to3_3.12.8-1+focal1_all.deb
+Size: 126216
+MD5sum: 8272439f6bd46db563afbe7443a7b5f1
+SHA1: 2cb26a4a90b9886125abd3fc8571e6dd5693fa6c
+SHA256: 1c48f5736564b3c0a1fd835adb84243bd6af43f40b0d1d4491fa7cd548252156
+Description: lib2to3 package for Python (version 3.12)
+Description-md5: 8fb684a32bb77085fa29e74791f795ae
+Multi-Arch: foreign
+
+Package: python3.12-tk
+Source: python3.12
+Priority: optional
+Section: python
+Installed-Size: 532
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Suggests: tix, python3.12-tk-dbg
+Depends: python3.12, libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0)
+Filename: pool/main/p/python3.12/python3.12-tk_3.12.8-1+focal1_amd64.deb
+Size: 148920
+MD5sum: 7e54a62c626d3eac6afa3a3e96ec10b2
+SHA1: 46ca3c1f3fa46a4544ee480eba98b0159e9a711c
+SHA256: 72d02a135e4ec0e2d094561a9314544d37d0df8c3fb3bfc299d5136c067a59f4
+Description: Tkinter - Writing Tk applications with Python (version 3.12)
+Description-md5: 8c04751cc6120a6b7cb92aac69a5ab40
+Multi-Arch: same
+
+Package: python3.12-tk-dbg
+Source: python3.12
+Priority: extra
+Section: debug
+Installed-Size: 851
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Depends: python3.12-dbg, python3.12-tk (= 3.12.8-1+focal1), libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0)
+Filename: pool/main/p/python3.12/python3.12-tk-dbg_3.12.8-1+focal1_amd64.deb
+Size: 396112
+MD5sum: 62a6d7ac7d9e3b55a270b5afc1ae5caa
+SHA1: 9d24ee75af828110a48694403181a944e8c5cab6
+SHA256: 7310f5f9f2f7585cc93fcec41574a8e32b40feebbc5cc67ab1a4796bd9245640
+Description: Tkinter - Writing Tk applications with Python (version 3.12 debug extension)
+Description-md5: 3a90df73c4423a8a07f429f5315f8934
+Multi-Arch: same
+Build-Ids: 32a06aae953e8dfe9b724a14e4cf60887b0db160
+
+Package: python3.12-venv
+Source: python3.12
+Priority: optional
+Section: python
+Installed-Size: 1808
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.12.8-1+focal1
+Depends: python3.12 (= 3.12.8-1+focal1)
+Breaks: python3-pip (<< 1.5.6-4)
+Filename: pool/main/p/python3.12/python3.12-venv_3.12.8-1+focal1_amd64.deb
+Size: 1786776
+MD5sum: 048b2778ae37ed2f16b67e99cc856cdd
+SHA1: 3193e4ec4b5bc249210b67831316f6d3981c9340
+SHA256: cf912a275c5cebe99d43658ef3539a740af6d2703b1b795bed7195b43f44652a
+Description: Interactive high-level object-oriented language (pyvenv binary, version 3.12)
+Description-md5: 1541a921c4cf1a31fd5c4c49c0b86732
+Multi-Arch: allowed
+
+Package: python3.13
+Priority: optional
+Section: python
+Installed-Size: 7174
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Suggests: python3.13-venv, binutils
+Depends: libpython3.13-stdlib (= 3.13.1-1+focal1), mime-support, libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.13/python3.13_3.13.1-1+focal1_amd64.deb
+Size: 2523084
+MD5sum: b52c5a864a54b02bc3be79721880f5f6
+SHA1: 9c878613ca5b82d3326575275be4fb4897b6431f
+SHA256: eb16c2e608f27c7596df9d9ad697f11e0a019500d208058d7ff6ed974a9b6528
+Description: Interactive high-level object-oriented language (version 3.13)
+Description-md5: 0c72d00e5340087b9f805f3bd4ae9c7f
+Multi-Arch: allowed
+
+Package: python3.13-dbg
+Source: python3.13
+Priority: optional
+Section: debug
+Installed-Size: 129836
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Recommends: gdb
+Suggests: python3.13-gdbm-dbg, python3.13-tk-dbg
+Depends: python3.13 (= 3.13.1-1+focal1), libpython3.13-dbg (= 3.13.1-1+focal1), libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.13/python3.13-dbg_3.13.1-1+focal1_amd64.deb
+Size: 83112200
+MD5sum: 591fecbac27b9ac7c2c4f53bf1f81ac1
+SHA1: 1b4acb8592181e2253afb565e6f49c38ac74467c
+SHA256: 63fc609bb7e1f2bf59832e87e9f8581705d7880dfc79688b354e961bcf43bd52
+Description: Debug Build of the Python Interpreter (version 3.13)
+Description-md5: 379cbfc45169c0d17e21dcb7bac67833
+Multi-Arch: allowed
+Build-Ids: 06a073f933cad3a693ff2950233fc3211689be69 0b1cbaed990f4502b6d4759cdab810b1fada9d49 0cfbbc546d07b192c595f8f17678aca029a127dc 0fe4772e3a8f1c00467803607f805e0422738c06 181f135dba1173e370141efcea003145d65c23de 1b9a0d287d62df7d899740cb29650c58413b1368 1c4d30317dd1bda54dd547411132a7837ad90c72 1e0f6d49561e022c30633027c870d22324afc6a9 1e90cf6ed781ddabc2a9117d5caf70148c257768 1f498fb54e7dcf1d61ea01f0a70c2918776a01f6 205a5c6f6ebfaf920b47f307fe913e862705f474 2443986faaf195c0478816df3eb170e44d3c5f67 28938702d30a6f76c3322f3acacbfd0ab349c6c7 2a7437dc873bede3509d3925e5c9930687e5be4a 2a77ce87c50784e488ebe227c0a32ce133a6e107 2aa7d49f02f465d91e78817af4d3bc471e037788 2acd2b18f642574458d41b8e0bca59a74ff8bc8d 2ccbdc313b7e0010bd209acfd61d090c24d70269 30dd43ca7a5a94d11b1c903c6b971dc8dd3833a9 31e612bbb2cff9217de059867a30e86a003c34ad 34f34d258bffc0b7071795300d79434233607998 36763c5e3aa5b85b4688effd5665be09977118b8 380048ce18239939e5ba4bebff9201f16b3f467a 398bc00d1e1445880cbe21ec1dc745bd818791b2 3a4d877bf90c7ab8eb49150a2642fb69e56c4411 48efc4d63844db2a156c054086a9b02d1537d32d 48f18f630ad52ea26247d6dbc94bda7ec7f2b694 4b3dcce93223b77657736150e869d028e6fe850e 4f7d10f0d72142c82cca9fcbc2953bed613e417a 4f8f1f5962d7b6d64b43338b29f6782ad3c343d1 51d147313150152bf994686e50356a2de5940366 526554587bbb322829664e868431d9f1d64f6993 553884374e8f410f55ddd61249cf2edbfd643624 587db6cb814a7dd2688a942d6a6bf8a62a24a22e 5c0f0db0c138df2e9353aa9ba493aac284ab9b93 5c80384aa067bd1c2f73cf0a7f4f6cdb9ec5cda8 5ed5c5db892d914ddc77e83a7726c9552a74a4e6 5efcb1ff9309e076113f7a440313a9c93d042f38 60e06640b43a7ed80c4f8fb2552ddddb1011809d 68e75e3e89ce27f0165d643184348effb0b06fe1 6acc1ca2d9747e00ed27c4d60e8d00ea5d4e2abc 6cda3175c1c401454e38da1bb6a91e1d67b6cfa0 6db06cd679feb4c33f2aa1ab06144c75fedfe4cf 705ea5d1bca9fb9727cadf4db3edd6f1ac37fa28 7194e51e54ab6a16c401b343bf168fce599fca07 720bc9d39ebb08741f3779d0935254c09448f025 735b86d2ac3dff365e6877fe32847438b69eccb6 76a58d0f26d60551555b10b6032723c1fe692933 7c234c7ba02e8e55e59501d98bd3de8581f45741 7c925862d230c70b2bc8026400ce9b3267267ac7 7f6e22e57e19d84504a2b599b191e144b413b966 805b2e4e5988e21970fc15139d54bf090a1f2ad0 82408864f379729f7884ca06df67f1fdd84a7883 835e9adf3467145e4cc1f89acb57e5f806104ec3 86cb15b40fc25f12dfd735d7a2ce2599a8b19271 86f8a866cd094c5e2164d73b6c881511a005c60e 89b896de4463d13cbd4347c61328726dd7b2be21 8a92731d6945b3a5eb06173edad133ae6fe6dcad 8ae2e69f3a0002e9ba226b72167db2ca0918aa3b 8b81d56aab909342c7048edfb794df541525acd5 8f6f94b11bbf3c0330be2c55eb6834295dbd7623 92111b4ed7bdb29d6818fb37cc1c9b3f6312c577 946d90876f7718c9241310f57d644070f02ca61c 960d1f4df690765a286ac383631d254a38fa9400 96f7fc155776924852b811f1f05c85479c4bdd6e 9702b5d581dead518948a39839528811cd307b71 9867ba16c02745feeffdfe64b1c3e825b6644ba0 98e533d0a29462b7d32e2cfa3d9d2d7a823513f5 9c309da2be2c904e1f70b85a45c5c342f8da272f 9d9ef4541c37b7f985535a2d57745555b582cb12 a41ff9785de9364fb0b8c6a932d9ffd74cfb5748 a553ce0faea698b94631487692d258509190d4b2 a6b20882e242223f694d5b401b15656e07dcbef2 a7b5334c890cee2837a9d82000d15fb32f9eb6ed a909aa79b7429110d779f46d3a250bef23090602 aae5a56a958066f626f33f1b6ee1d99d9ca7b089 b117801f069433b90225b2bb8a634b0e9368244b b2c7d227fa1ddf0ad55d3f7837ba1ac49d919db7 bbb369de4fa92c5d7d0bce12c52ee9fab89ffc37 bee69584d91369952015dd647d601943d11b8862 c3405346289decbfe575f98dc019ed9d1e581207 c5115a9c7c771788fb174e63e391975b029330aa c678d4813e1c30963d72d6d605ec20a2c7c497e6 c731f800a356e1df470d8295586fbfcccecffd5e c831d857fff752806b00c37cf54c1729d5a941c2 ce1b83d170c45608d5b8c78c5dd5da5c32f4e99e d4ed5412d5a23876df49df22fd627e4c7c112733 d570a936de46daeb1a1d15cebd78a5345fdb5dde d6fb93437850b5b5e82cd6de38701fb59b076b87 d8780ab8f259b035046a5c4fe359537a65edbaa9 d9eb54fb1a9c4c24836c68aaabf7fd2eac9a12cc da835b199a8a3092a6a5caa28a85df0a246bb78b db9931c9243fb6aa3baa7738902a81b2b6bef3ba dd04b56b60dc11643b91200aaf18140c7136ca14 dee34cd892da2e52c0a8045adce6020f2d7e88ef e32fad11fb03158c2c3b4d0ad2913bdd26e8e785 e4cee39ea285e4639f7bb82c77cdaf4a900df7e3 e56180f4174e603f6132920d73824b5e11d865a5 ee1fcb7ec48f28d245bd54fb7eb77e95c4721d7b f5b4d9d7b7fdb48dec13b10d9a267a2bf16b5a34 f68ef973046134e23156e96b986cc94421b69181 fe03beb24abfaaaead5983e10347281d1df871b8
+
+Package: python3.13-dev
+Source: python3.13
+Priority: optional
+Section: python
+Installed-Size: 502
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Recommends: libc6-dev | libc-dev
+Depends: python3.13 (= 3.13.1-1+focal1), libpython3.13-dev (= 3.13.1-1+focal1), libpython3.13 (= 3.13.1-1+focal1), libexpat1-dev
+Filename: pool/main/p/python3.13/python3.13-dev_3.13.1-1+focal1_amd64.deb
+Size: 498552
+MD5sum: 668780f35dd77f39b0e0dbe8110de51b
+SHA1: fde68181f45f76ce243c4cb1059cbed5f3a1df53
+SHA256: 6e8b8b07b01b213121d432af3af504be08192d5fd8d7ec3861b4ea9d8d703a3b
+Description: Header files and a static library for Python (v3.13)
+Description-md5: 187e4cccb29409f4c471126803844e59
+Multi-Arch: allowed
+
+Package: python3.13-examples
+Source: python3.13
+Priority: optional
+Section: python
+Installed-Size: 2979
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.13.1-1+focal1
+Depends: python3.13 (>= 3.13.1-1+focal1)
+Filename: pool/main/p/python3.13/python3.13-examples_3.13.1-1+focal1_all.deb
+Size: 815104
+MD5sum: a4a896a8071e0cd9af12f9c7dd02328f
+SHA1: 744f8176519a96c53caf64b7f0d99e1fefb37f95
+SHA256: 9d30db55ded4b499694d2d41ba66b4085363158ed00d78604923a55ae72be005
+Description: Examples for the Python language (v3.13)
+Description-md5: b166d2d9bb0370735918a16226a74576
+
+Package: python3.13-full
+Source: python3.13
+Priority: optional
+Section: python
+Installed-Size: 6
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Recommends: python3.13-examples
+Suggests: python3.13-dev
+Depends: python3.13 (= 3.13.1-1+focal1), libpython3.13-testsuite, python3.13-venv (= 3.13.1-1+focal1), idle-python3.13, python3.13-gdbm, python3.13-tk, ca-certificates
+Filename: pool/main/p/python3.13/python3.13-full_3.13.1-1+focal1_amd64.deb
+Size: 1268
+MD5sum: 9b3c3e4b280b1625063b6b1f9bf8465d
+SHA1: 72b0f732ecc31007661e0a1dc19945dc60d0f809
+SHA256: 3699c009d1576937c733a123d16d9036f750a2782c61cb4b1908a8431348668b
+Description: Python Interpreter with complete class library (version 3.13)
+Description-md5: 24c854ab535808499ea77bca7d32d53e
+Multi-Arch: allowed
+
+Package: python3.13-gdbm
+Source: python3.13
+Priority: optional
+Section: python
+Installed-Size: 149
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Suggests: python3.13-gdbm-dbg
+Depends: python3.13, libc6 (>= 2.2.5), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.13/python3.13-gdbm_3.13.1-1+focal1_amd64.deb
+Size: 81980
+MD5sum: 88b642a9aadbf410b73ac0c05e682a72
+SHA1: 278595d81a3a219061ed7c346ddfa6bdf761183b
+SHA256: 33473441e7c57b886fe3e86c3f4b935e95c8f168bb477fea84bdd063b59db2d5
+Description: GNU dbm database support for Python (version 3.13)
+Description-md5: 8880e11c4637bf41fd1a730460f4cdee
+Multi-Arch: same
+
+Package: python3.13-gdbm-dbg
+Source: python3.13
+Priority: extra
+Section: debug
+Installed-Size: 267
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Depends: python3.13-dbg, python3.13-gdbm (= 3.13.1-1+focal1), libc6 (>= 2.2.5), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.13/python3.13-gdbm-dbg_3.13.1-1+focal1_amd64.deb
+Size: 128948
+MD5sum: c0df4a14d9500026b27074f601d9192d
+SHA1: fb30d7aec2fc2174259598608831c504cfe96da3
+SHA256: fcd4ef3f6ced57629a0979072f68addc1656bc98cbe589fe9014bff696eb0ea5
+Description: GNU dbm database support for Python (version 3.13 debug extension)
+Description-md5: c03c7aa3ee1ba28a270e6514d204751a
+Multi-Arch: same
+Build-Ids: a4d9d28f263f2024ae84e8561b5f99d0b3105c4b
+
+Package: python3.13-gdbm-nogil
+Source: python3.13
+Priority: extra
+Section: debug
+Installed-Size: 149
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Depends: python3.13-nogil, python3.13-gdbm (= 3.13.1-1+focal1), libc6 (>= 2.2.5), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.13/python3.13-gdbm-nogil_3.13.1-1+focal1_amd64.deb
+Size: 82476
+MD5sum: fe0290a55facdd96f88124a8ddeac34c
+SHA1: e3dac7ea117330ec0aac05c307074d5f7f0a9af2
+SHA256: 3bc82eadbef787e288bc76df778bd52167571865c94e277ece6495d318ea9c9d
+Description: GNU dbm database support for Python (version 3.13 nogil extension)
+Description-md5: 536454e20734aec62af9ac2e137814a2
+Multi-Arch: same
+
+Package: python3.13-nogil
+Source: python3.13
+Priority: optional
+Section: debug
+Installed-Size: 7137
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Recommends: gdb
+Suggests: python3.13-gdbm-nogil, python3.13-tk-nogil
+Depends: python3.13 (= 3.13.1-1+focal1), libpython3.13-nogil (= 3.13.1-1+focal1), libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.13/python3.13-nogil_3.13.1-1+focal1_amd64.deb
+Size: 2069012
+MD5sum: abbd5dc68e2f1ee6a679b47a359a8d08
+SHA1: e1b020cf994c661a3d9deb716abb14565b541e41
+SHA256: 9587d650c100287072a013661044a2a392615d9eb1cda18859bc6fd91db41e8d
+Description: No-GIL Build of the Python Interpreter (version 3.13)
+Description-md5: ebdaec76d01a48bfc17d88a0b8426297
+Multi-Arch: allowed
+
+Package: python3.13-tk
+Source: python3.13
+Priority: optional
+Section: python
+Installed-Size: 487
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Suggests: tix, python3.13-tk-dbg
+Depends: python3.13, libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0)
+Filename: pool/main/p/python3.13/python3.13-tk_3.13.1-1+focal1_amd64.deb
+Size: 154980
+MD5sum: c272e0523bc53d638a87e47f5be53529
+SHA1: cf721deb7838f6f1d347df29f0ca61df8e4ce8ed
+SHA256: 32889c20ae425e5866672153a24bce3c8040a12a70705ff87952af6eb804d9a6
+Description: Tkinter - Writing Tk applications with Python (version 3.13)
+Description-md5: c1969ec8b2c15edf6d829ee051596766
+Multi-Arch: same
+
+Package: python3.13-tk-dbg
+Source: python3.13
+Priority: extra
+Section: debug
+Installed-Size: 885
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Depends: python3.13-dbg, python3.13-tk (= 3.13.1-1+focal1), libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0)
+Filename: pool/main/p/python3.13/python3.13-tk-dbg_3.13.1-1+focal1_amd64.deb
+Size: 424624
+MD5sum: c906b49b67c0859611f3e9affe4c4616
+SHA1: 86da8e53983a702d373d39a5a704ca6a46ae59c3
+SHA256: 8eed724bfe0fd7bc05a912a7031e148f7650de4929c6d6c086bc917289958911
+Description: Tkinter - Writing Tk applications with Python (version 3.13 debug extension)
+Description-md5: e30aa1d8a29fd4b8fe44339b63c8b78e
+Multi-Arch: same
+Build-Ids: dd180ba2a0dcddac4ba367fc469b05069d4abbbb
+
+Package: python3.13-tk-nogil
+Source: python3.13
+Priority: extra
+Section: debug
+Installed-Size: 191
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Depends: python3.13-nogil, python3.13-tk (= 3.13.1-1+focal1), libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0)
+Filename: pool/main/p/python3.13/python3.13-tk-nogil_3.13.1-1+focal1_amd64.deb
+Size: 96360
+MD5sum: 03361db846e6055e032cf56ae8430042
+SHA1: dbbc82746a399713b30674ae2c1b0a93b6191566
+SHA256: 956da81aa5368a0411f17663ebc5bb29255f3d6dc12aa39b7f7aab59e904ccc9
+Description: Tkinter - Writing Tk applications with Python (version 3.13 nogil extension)
+Description-md5: 9140b33b9bc9df60deaf58172fdbae3e
+Multi-Arch: same
+
+Package: python3.13-venv
+Source: python3.13
+Priority: optional
+Section: python
+Installed-Size: 1807
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.13.1-1+focal1
+Depends: python3.13 (= 3.13.1-1+focal1)
+Breaks: python3-pip (<< 1.5.6-4)
+Filename: pool/main/p/python3.13/python3.13-venv_3.13.1-1+focal1_amd64.deb
+Size: 1786504
+MD5sum: 6d8f36e292df3b69d181d68000f3eb7d
+SHA1: 8e897150a758d36087b4de04993e16ffbf7ad2cc
+SHA256: 78fd8c6166108e317c6bbbcb8079b64437b6b79ff7366d8ca936f03ddd1e1edf
+Description: Interactive high-level object-oriented language (pyvenv binary, version 3.13)
+Description-md5: 71130902349a1e7cb713d10c9a5b6c77
+Multi-Arch: allowed
+
+Package: python3.5
+Priority: optional
+Section: python
+Installed-Size: 300
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Suggests: python3.5-venv, binutils
+Depends: python3.5-minimal (= 3.5.10-1+focal3), libpython3.5-stdlib (= 3.5.10-1+focal3), mime-support
+Filename: pool/main/p/python3.5/python3.5_3.5.10-1+focal3_amd64.deb
+Size: 212812
+MD5sum: 5edfdc32f402f46d707456f1ff389d01
+SHA1: 8a36c1d9ed84f5bdf7edab7af7b94f5ce0bd3d5c
+SHA256: 017de411cd87a8f45f063e1281bc2c1f320260bc31b64c17450fcac6f435922b
+Description: Interactive high-level object-oriented language (version 3.5)
+Description-md5: 60fa91d6230cd3da883a5ad1ad625632
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: allowed
+
+Package: python3.5-complete
+Source: python3.5
+Priority: extra
+Section: python
+Installed-Size: 87
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: all
+Version: 3.5.10-1+focal3
+Depends: python3.5 (>= 3.5.10-1+focal3), libpython3.5 (>= 3.5.10-1+focal3), libpython3.5-testsuite (>= 3.5.10-1+focal3), libpython3.5-tk (>= 3.5.10-1+focal3), libpython3.5-gdbm (>= 3.5.10-1+focal3), libpython3.5-tk-dbg (>= 3.5.10-1+focal3), libpython3.5-gdbm-dbg (>= 3.5.10-1+focal3), python3.5-examples (>= 3.5.10-1+focal3), python3.5-dev (>= 3.5.10-1+focal3), python3.5-dbg (>= 3.5.10-1+focal3), python3.5-venv (>= 3.5.10-1+focal3), idle-python3.5 (>= 3.5.10-1+focal3)
+Filename: pool/main/p/python3.5/python3.5-complete_3.5.10-1+focal3_all.deb
+Size: 41820
+MD5sum: e3d5787a4274d941354db6da1daed819
+SHA1: 988f2420a0f11dacde564161e17ece49eaa32227
+SHA256: 69ec7f2d1ce4707eca79ced1c43d476e19fb9941124d09e54ad04f7eb878f941
+Description: Interactive high-level object-oriented language (version 3.5)
+Description-md5: bb423a3b4b1e68566ae5bf042d07cc10
+Original-Maintainer: Matthias Klose <doko@debian.org>
+
+Package: python3.5-dbg
+Source: python3.5
+Priority: extra
+Section: debug
+Installed-Size: 46075
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Recommends: gdb
+Suggests: libpython3.5-gdbm-dbg, libpython3.5-tk-dbg
+Depends: python3.5 (= 3.5.10-1+focal3), libpython3.5-dbg (= 3.5.10-1+focal3), libc6 (>= 2.29), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.5/python3.5-dbg_3.5.10-1+focal3_amd64.deb
+Size: 10303316
+MD5sum: b896b2753a3d0fc7df5dd5cc40012e5e
+SHA1: 49932c41ea92da00d7a8e6b8ba53cf29b4a04b45
+SHA256: acf3b0a46c87294383bb9047b8da81607d22e1e848e23028e2fb9327260dd047
+Description: Debug Build of the Python Interpreter (version 3.5)
+Description-md5: d7d0f471d0dedb29a36589ab47195e7a
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: allowed
+
+Package: python3.5-dev
+Source: python3.5
+Priority: optional
+Section: python
+Installed-Size: 421
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Recommends: libc6-dev | libc-dev
+Depends: python3.5 (= 3.5.10-1+focal3), libpython3.5-dev (= 3.5.10-1+focal3), libpython3.5 (= 3.5.10-1+focal3), libexpat1-dev
+Filename: pool/main/p/python3.5/python3.5-dev_3.5.10-1+focal3_amd64.deb
+Size: 413308
+MD5sum: 1e2797e90300d67b5a00a11304e09cf3
+SHA1: 8b1153615c1118dc8701d809f67d1819aa326be4
+SHA256: 8b2ea5e05af7629f74c16909382133163ec1cfdee0f4277dc0cda1deb21dfdb8
+Description: Header files and a static library for Python (v3.5)
+Description-md5: 1f960de2ab154efa8dfe8ee70bc69533
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: allowed
+
+Package: python3.5-examples
+Source: python3.5
+Priority: optional
+Section: python
+Installed-Size: 1892
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: all
+Version: 3.5.10-1+focal3
+Depends: python3.5 (>= 3.5.10-1+focal3)
+Filename: pool/main/p/python3.5/python3.5-examples_3.5.10-1+focal3_all.deb
+Size: 477936
+MD5sum: 4216f0b088c99fe818fe17493f795507
+SHA1: 3fe618a80829e6c6d0ee19673947f40a7123b33e
+SHA256: c4f63f09685614997f1117c0e1d3100d5d75119116634f17fb8f26570f293081
+Description: Examples for the Python language (v3.5)
+Description-md5: c4fd01c950ca538181d261deafa4055c
+Original-Maintainer: Matthias Klose <doko@debian.org>
+
+Package: python3.5-gdbm
+Source: python3.5
+Priority: extra
+Section: oldlibs
+Installed-Size: 87
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: all
+Version: 3.5.10-1+focal3
+Depends: libpython3.5-gdbm
+Filename: pool/main/p/python3.5/python3.5-gdbm_3.5.10-1+focal3_all.deb
+Size: 41676
+MD5sum: 7f18d201364971e5b4714d79234dc276
+SHA1: 984f4869f8d53123ba8e8ebe15e1e3a042bd5c4e
+SHA256: 6afaaca17679f393f74ad1b7ad333aeded72c44efbe4a97c50278ae5326e7072
+Description: GNU dbm database support for Python (transitional package)
+Description-md5: abb9ec861d2e344eaae908c189ef3356
+Original-Maintainer: Matthias Klose <doko@debian.org>
+
+Package: python3.5-gdbm-dbg
+Source: python3.5
+Priority: extra
+Section: oldlibs
+Installed-Size: 87
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: all
+Version: 3.5.10-1+focal3
+Depends: libpython3.5-gdbm-dbg
+Filename: pool/main/p/python3.5/python3.5-gdbm-dbg_3.5.10-1+focal3_all.deb
+Size: 41684
+MD5sum: 081007ee153b39e9894b48acf7891442
+SHA1: 61f7cee535b27de8e79c192e64d4ed9d756b11b6
+SHA256: 5788fc05167069d9b943e6df91c0b158d33d2b8c16fec4657cfdbb8f8e1a341a
+Description: GNU dbm database support for Python (transitional package)
+Description-md5: abb9ec861d2e344eaae908c189ef3356
+Original-Maintainer: Matthias Klose <doko@debian.org>
+
+Package: python3.5-minimal
+Source: python3.5
+Priority: optional
+Section: python
+Installed-Size: 8134
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Recommends: python3.5
+Suggests: binfmt-support
+Depends: libpython3.5-minimal (= 3.5.10-1+focal3), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Conflicts: binfmt-support (<< 1.1.2)
+Pre-Depends: libc6 (>= 2.29)
+Filename: pool/main/p/python3.5/python3.5-minimal_3.5.10-1+focal3_amd64.deb
+Size: 1257912
+MD5sum: cfdc97b2074126a0d7c977896c80ceaf
+SHA1: 1a1f061dd155757503ae40639a5816e23f941c0f
+SHA256: 2834fad4fc97b8da6fa6ef5b5ee337626380001342ddca1a7e84b0bd81476c72
+Description: Minimal subset of the Python language (version 3.5)
+Description-md5: 24a1326c1d8846a4e8fb97980e73a915
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: allowed
+
+Package: python3.5-tk
+Source: python3.5
+Priority: extra
+Section: oldlibs
+Installed-Size: 87
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: all
+Version: 3.5.10-1+focal3
+Depends: libpython3.5-tk
+Filename: pool/main/p/python3.5/python3.5-tk_3.5.10-1+focal3_all.deb
+Size: 41684
+MD5sum: a752ba2fbee1f79b31e6d39806fca9f6
+SHA1: d912b06d3e51e39b521b9f6fffbe779c599879e4
+SHA256: d28da3a9f5f8720311728cc97027dccccc863f84865bab9532df036379be76ec
+Description: Tkinter - Writing Tk applications with Python (transitional package)
+Description-md5: d4e0b8e0a42f7c870abcf8caaf078842
+Original-Maintainer: Matthias Klose <doko@debian.org>
+
+Package: python3.5-tk-dbg
+Source: python3.5
+Priority: extra
+Section: oldlibs
+Installed-Size: 87
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: all
+Version: 3.5.10-1+focal3
+Depends: libpython3.5-tk-dbg
+Filename: pool/main/p/python3.5/python3.5-tk-dbg_3.5.10-1+focal3_all.deb
+Size: 41684
+MD5sum: 65ba8bca40f1e359a5e3113dd1f98193
+SHA1: a65efcbbe0b363fd11c2de23508f7949aa733df3
+SHA256: deec786d27d6821952a7904ac4870a918583d18aaf7cb8b8924d309a9046da47
+Description: Tkinter - Writing Tk applications with Python (transitional package)
+Description-md5: d4e0b8e0a42f7c870abcf8caaf078842
+Original-Maintainer: Matthias Klose <doko@debian.org>
+
+Package: python3.5-venv
+Source: python3.5
+Priority: optional
+Section: python
+Installed-Size: 3252
+Maintainer: Felix Krull <f_krull@gmx.de>
+Architecture: amd64
+Version: 3.5.10-1+focal3
+Depends: python3.5 (= 3.5.10-1+focal3)
+Filename: pool/main/p/python3.5/python3.5-venv_3.5.10-1+focal3_amd64.deb
+Size: 2673056
+MD5sum: 975c9573a05734343e3d09174dde8444
+SHA1: a008a03c320f23314942592266e348bcebaa31c1
+SHA256: 419b82b2b6351dda48a4fed1e9ba386d6d0852a61fd181bd7a36dde6387aed45
+Description: Interactive high-level object-oriented language (pyvenv binary, version 3.5)
+Description-md5: 373cf00d5604a6733d788cd8ed5356f1
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Multi-Arch: allowed
+
+Package: python3.6
+Priority: optional
+Section: python
+Installed-Size: 328
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Suggests: python3.6-venv, binutils
+Depends: python3.6-minimal (= 3.6.15-1+focal3), libpython3.6-stdlib (= 3.6.15-1+focal3), mime-support
+Filename: pool/main/p/python3.6/python3.6_3.6.15-1+focal3_amd64.deb
+Size: 248464
+MD5sum: b503820127a4154851bede1ba7f97719
+SHA1: 2845865046c7c126463ec52d895cf961a7739dec
+SHA256: f049c954b8ae679fb6151494589acf41c8e540fac68e9005e207aee0f8fa3bf3
+Description: Interactive high-level object-oriented language (version 3.6)
+Description-md5: 1cf2a02983e92d8a6a9dfba4c30460a0
+Multi-Arch: allowed
+
+Package: python3.6-dbg
+Source: python3.6
+Priority: optional
+Section: debug
+Installed-Size: 31335
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Recommends: gdb
+Suggests: python3.6-gdbm-dbg, python3.6-tk-dbg
+Depends: python3.6 (= 3.6.15-1+focal3), libpython3.6-dbg (= 3.6.15-1+focal3), libc6 (>= 2.29), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.6/python3.6-dbg_3.6.15-1+focal3_amd64.deb
+Size: 15387424
+MD5sum: 98dec11d9e8bb7331ad49ce7161e1962
+SHA1: ed6a534bd141452dd94288d030371156f58d88b3
+SHA256: 669a93f83f19e84034245e70fd5df208ecf33dc12b330cd1b82a30338a54f4d6
+Description: Debug Build of the Python Interpreter (version 3.6)
+Description-md5: cdc1a7cd86cf9cd4c1c51a8591c52faa
+Build-Ids: 019d28cdc7ec4742a5ffdfd5d4b759d0832c8c09 0eb7dcd38249a2fa7c61d7ffc744b7d7bbbfa48e 19b08e03ad8a7420713e3088b6c2b3b4ca61f031 1a10392fcb2a1cab227526ec77f10d7088df1330 1cfb51f6b13816587cd0c7741e49429906f5ee05 1f26aa8a42961ee006167ec90b7ae86bb97b242c 1fd3ed68c8dee1691e9b1de5a4adbc122ed95c24 24780458422df1c1eeddcb18b59a281146bb68a6 25de8f6cb27653df125a4c4c9a630f8b5086b91f 2c4d6adb98b959351d5f877e7210fd5d89097e26 2f9984a2d3db1cb6c017f1e9de87e71eb988788d 36d47d78c68b554919acc216d4ea3bff1a4cbade 38d7bbd2294644ece9c8ac2f95d62a811b8f5d91 3b4e292e3102b285238e1e815267312f12c5c30b 3f4783b23774f822cc5221bd3f89e7aeb9af68fb 5240132ecb4622e087772a5960dd58afdd8cadcc 53319692fb92b27ae712c4381afd15b27df8f421 58f33cd023fc41ea04dbe2f4afa828984cb53e09 5b3e55045d63c084d4dc1e12732493b93b345108 5b70a8fce0d2ccb09e41ec89d6a56cd907b5bcfd 5d68c057940527ec1b4de6bfeba210a643785753 751bac9803c58908dbb6da91955157b42e675573 7645d1b4034b6d7b981ff7e2826b9fb19884b970 7be5ba63cd3b04264949a8a1c124b904b1ea430c 8007a1a9bc2a34ba7eee57c4afd464f7d6257fdb 8662681b6c273fa92233f4af44ac88c67771f722 8884067d0ebbdf5becf1bc5dbdae6d6a5f7f3a43 8da7f89a8c618345d7ac10bea704123bd4e9c9be b297cb6275ddeb4f007cebd04c99025225abce63 b93973a7f62b75f298fca59a9e91df77f5257a6f bb69fb3659b52c915ebcb6385b08ff518fb68a77 c6a5338d8e3d2eaed51f435b68c23d89598721c8 c6c7ca093c7611cc5c89b6500c2f90cef8d34cc2 ca4a7fe8f80c740f9a0ed2b6e4661b6d7a38953a cd73811064026ac2608e33ea8e67cf0cdcfad88a d260123911335d411279495dbe6da5f75bb4aeae e6bb570ce6ef4773b6f041649ad5b3f48ec23efb ee18c668bd420b46cc809d93899e7a621668baf9 f1624a3d77a0b610545516efca74c2fdf3667ae2 ff1b1c8bb6e033efd67660621a1693ba53803aef
+Multi-Arch: allowed
+
+Package: python3.6-dev
+Source: python3.6
+Priority: optional
+Section: python
+Installed-Size: 506
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Recommends: libc6-dev | libc-dev
+Depends: python3.6 (= 3.6.15-1+focal3), libpython3.6-dev (= 3.6.15-1+focal3), libpython3.6 (= 3.6.15-1+focal3), libexpat1-dev
+Filename: pool/main/p/python3.6/python3.6-dev_3.6.15-1+focal3_amd64.deb
+Size: 500624
+MD5sum: c46958f089812fcc98d9a9a3a251f20b
+SHA1: e809d350991d7fe8e0a9afd9e3bec6fdb7bf190b
+SHA256: b3288b7dd1958524ce11e7e3a65e8c46d02d1455b418167cb04acc9df7e849d6
+Description: Header files and a static library for Python (v3.6)
+Description-md5: 3ebd6cbddc7842ffc01dc0208baddd1e
+Multi-Arch: allowed
+
+Package: python3.6-distutils
+Source: python3.6
+Priority: optional
+Section: python
+Installed-Size: 766
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.6.15-1+focal3
+Depends: python3.6-lib2to3 (>= 3.6.4)
+Filename: pool/main/p/python3.6/python3.6-distutils_3.6.15-1+focal3_all.deb
+Size: 186672
+MD5sum: 6b714e466f88dcf5f2080283700b3b9d
+SHA1: 31fe685161f4af07ed8a64b76a520834b07bfdfe
+SHA256: 9f2bf192aa35568415a61b83dd08ca2553d1a8f20cabba8c84398d382928189d
+Description: distutils package for Python (version 3.6)
+Description-md5: 7ee00121fd425b87f1b56f071be9f728
+Multi-Arch: foreign
+
+Package: python3.6-examples
+Source: python3.6
+Priority: optional
+Section: python
+Installed-Size: 1908
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.6.15-1+focal3
+Depends: python3.6 (>= 3.6.15-1+focal3)
+Filename: pool/main/p/python3.6/python3.6-examples_3.6.15-1+focal3_all.deb
+Size: 490960
+MD5sum: abcc74d6fe526bb913a137f42a7e5b9b
+SHA1: ffa4a5edfe104ea41981e7af9f4f06cf28d0c37d
+SHA256: 5a03ea80a802052b903ec88b103efe5da6f3c0d2dc57790761ccaf063ebf195a
+Description: Examples for the Python language (v3.6)
+Description-md5: 4124056c28bc6b66629b7ef7667f8473
+
+Package: python3.6-full
+Source: python3.6
+Priority: optional
+Section: python
+Installed-Size: 6
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Recommends: python3.6-examples
+Suggests: python3.6-dev
+Depends: python3.6 (= 3.6.15-1+focal3), libpython3.6-testsuite, python3.6-venv (= 3.6.15-1+focal3), idle-python3.6, python3.6-distutils, python3.6-gdbm, python3.6-lib2to3, python3.6-tk, ca-certificates
+Filename: pool/main/p/python3.6/python3.6-full_3.6.15-1+focal3_amd64.deb
+Size: 1284
+MD5sum: 7b6da9a5b0abfe0b9b6703b532bb9e71
+SHA1: cd4becf9eb8526452c35bb85c21f104fce3b78c0
+SHA256: 996371ab8b06f5ad3cfd3eed9f6fe72e09aef875347d8801d88db387aa702b84
+Description: Python Interpreter with complete class library (version 3.6)
+Description-md5: 7fa21bd1ebdab0295e58511005c3b616
+Multi-Arch: allowed
+
+Package: python3.6-gdbm
+Source: python3.6
+Priority: optional
+Section: python
+Installed-Size: 128
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Suggests: python3.6-gdbm-dbg
+Depends: python3.6, libc6 (>= 2.2.5), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.6/python3.6-gdbm_3.6.15-1+focal3_amd64.deb
+Size: 60392
+MD5sum: ec89c66aa3cbff4318e0fc80779546c2
+SHA1: 2b0964f28966dbe81df64b2f0665e9aa741e04a5
+SHA256: a0d9a5bfa385cb69c35c8a328f18bf7f36c015ee04d107e112b22f2a68bd118b
+Description: GNU dbm database support for Python (version 3.6)
+Description-md5: 8969ea1d32605b76d7bfe7e30aafddf1
+Multi-Arch: same
+
+Package: python3.6-gdbm-dbg
+Source: python3.6
+Priority: extra
+Section: debug
+Installed-Size: 202
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Depends: python3.6-dbg, python3.6-gdbm (= 3.6.15-1+focal3), libc6 (>= 2.4), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.6/python3.6-gdbm-dbg_3.6.15-1+focal3_amd64.deb
+Size: 94340
+MD5sum: 6086b8ef6d920cb5dd850f4bef4d3405
+SHA1: 66725dec0cee6645af7f7b96b63ba90e111aa564
+SHA256: 85776a1c569d40923414ca1e87318da74022cd5ce861899f12a2977a5aab4289
+Description: GNU dbm database support for Python (version 3.6 debug extension)
+Description-md5: 462dd55812b78eed740444420b52180a
+Build-Ids: 3d6356536762aecd491c171d7bd835cf86928df5
+Multi-Arch: same
+
+Package: python3.6-lib2to3
+Source: python3.6
+Priority: optional
+Section: python
+Installed-Size: 437
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.6.15-1+focal3
+Filename: pool/main/p/python3.6/python3.6-lib2to3_3.6.15-1+focal3_all.deb
+Size: 121692
+MD5sum: 0d9f305859f720e0d27f9d5e10d2ebd8
+SHA1: 45de68a3bb27ed7a63e13f20eba6551bd820d230
+SHA256: a8eea638dd8c47c8f81383618ac9944dbe1abf1dde8abd980c1470586d32e792
+Description: lib2to3 package for Python (version 3.6)
+Description-md5: d9b1ae85b3ef6746d9155b2f245417e6
+Multi-Arch: foreign
+
+Package: python3.6-minimal
+Source: python3.6
+Priority: optional
+Section: python
+Installed-Size: 9331
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Recommends: python3.6
+Suggests: binfmt-support
+Depends: libpython3.6-minimal (= 3.6.15-1+focal3), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Conflicts: binfmt-support (<< 1.1.2)
+Pre-Depends: libc6 (>= 2.29)
+Filename: pool/main/p/python3.6/python3.6-minimal_3.6.15-1+focal3_amd64.deb
+Size: 1717884
+MD5sum: 5b88744bf44fc2fff2b71aba996059b5
+SHA1: 22fedb203879b5dbf7864782075dffae46981e6b
+SHA256: 4f27c50dcd8cf4ad3decf2577317318d8709e2c12738e1a059a8a500fd8cb499
+Description: Minimal subset of the Python language (version 3.6)
+Description-md5: c958c26a48065f1454d854eaa48465db
+Cnf-Visible-Pkgname: python3.6
+Multi-Arch: allowed
+
+Package: python3.6-tk
+Source: python3.6
+Priority: optional
+Section: python
+Installed-Size: 519
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Suggests: tix, python3.6-tk-dbg
+Depends: python3.6, libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0), tk8.6-blt2.5 (>= 2.5.3)
+Filename: pool/main/p/python3.6/python3.6-tk_3.6.15-1+focal3_amd64.deb
+Size: 141328
+MD5sum: ea4631a2a9cc84e98d26f8bba471257a
+SHA1: f4fbcafc7f090c284ac9f727cfc1ceb15992e7e6
+SHA256: 12793b801fae786fb30db8205cf07ae49b35b89a73c9cbb9c4d3b2118b58866b
+Description: Tkinter - Writing Tk applications with Python (version 3.6)
+Description-md5: 675fda2f33aa69ac490d4349fdcdf06a
+Multi-Arch: same
+
+Package: python3.6-tk-dbg
+Source: python3.6
+Priority: extra
+Section: debug
+Installed-Size: 623
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Depends: python3.6-dbg, python3.6-tk (= 3.6.15-1+focal3), libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0), tk8.6-blt2.5 (>= 2.5.3)
+Filename: pool/main/p/python3.6/python3.6-tk-dbg_3.6.15-1+focal3_amd64.deb
+Size: 288268
+MD5sum: 9133ee9fb3d5f847c54ca714f8d7a62b
+SHA1: 6547bd0e4941d2371343b36c0c5a410b0c033531
+SHA256: b502eb2eb1a9897f4ebb67b3223609c02ce50ea4b94ef253f54c271c7c796e41
+Description: Tkinter - Writing Tk applications with Python (version 3.6 debug extension)
+Description-md5: 88745e404e0235b11cc01ebb88e241c5
+Build-Ids: 0c8e1b933db62f00b6333112c2b5e8d37aa7dd52
+Multi-Arch: same
+
+Package: python3.6-venv
+Source: python3.6
+Priority: optional
+Section: python
+Installed-Size: 1878
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.6.15-1+focal3
+Depends: python3.6 (= 3.6.15-1+focal3), python3.6-distutils
+Breaks: python3-pip (<< 1.5.6-4)
+Filename: pool/main/p/python3.6/python3.6-venv_3.6.15-1+focal3_amd64.deb
+Size: 1704404
+MD5sum: b373c9b6443cd7375f22b4dc55c83315
+SHA1: ec705063f0c2f54d4952ccc1ea3c225a4c0f7fbe
+SHA256: 978c5d57638e28c3815f85f7865a581a259974e4fbe1f8688f372459fdf09395
+Description: Interactive high-level object-oriented language (pyvenv binary, version 3.6)
+Description-md5: 8446f3e98e0dccd84caf27c6a968a630
+Multi-Arch: allowed
+
+Package: python3.7
+Priority: optional
+Section: python
+Installed-Size: 439
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Suggests: python3.7-venv, binutils
+Depends: python3.7-minimal (= 3.7.17-1+focal1), libpython3.7-stdlib (= 3.7.17-1+focal1), mime-support
+Filename: pool/main/p/python3.7/python3.7_3.7.17-1+focal1_amd64.deb
+Size: 360856
+MD5sum: 6c4c800be5486554a92aac5b38a8134d
+SHA1: c443d2c7dddaadba6989927f3077e47f43cf33fb
+SHA256: fca8781cbc62035153b1d399295721363bc9f5db096091b7c0e7b5ff23ba5cf7
+Description: Interactive high-level object-oriented language (version 3.7)
+Description-md5: f9b0089f09d7854b875ba02453cd5601
+Multi-Arch: allowed
+
+Package: python3.7-dbg
+Source: python3.7
+Priority: optional
+Section: debug
+Installed-Size: 34034
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Recommends: gdb
+Suggests: python3.7-gdbm-dbg, python3.7-tk-dbg
+Depends: python3.7 (= 3.7.17-1+focal1), libpython3.7-dbg (= 3.7.17-1+focal1), libc6 (>= 2.29), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.7/python3.7-dbg_3.7.17-1+focal1_amd64.deb
+Size: 16664320
+MD5sum: 0dba821b237dcf6f61fc36258c49e0eb
+SHA1: ca2379e1efb9c0d44b3f9558071b7eef00920c1e
+SHA256: 3fc266a6cd5f2533d3880181e9c3ec90a571a48fd8cfa8b525cbeff46901bf9a
+Description: Debug Build of the Python Interpreter (version 3.7)
+Description-md5: fd50879975c0d8c6d4cad2e806455206
+Build-Ids: 06a08f85aff9e6d593870676df717971a4c9b49c 071ab6d6fd86bf93353cbd3dc1e37ee9aa9aba11 0e3737f632dd4ef838671a074d4f4380bcd30884 10bf2a2e2d49e735fb2a9b7fd71afdd69953dfb1 11021fe6ec4bcb54ee46636e2fcfb609341abccf 132a2252961b9f6d8d43d1e2956cfe7659e85c0d 1d4a6c1ddae95f4a82e2604355d5869481c4b553 245b4166e08915a296d4c2032e18878bb3f515b0 27ae19cd2532f8d3f37b7073de7a3c8d18dd8f3b 29753a658298edbd327f807aa764ea379a43f4c8 2a13791eea09f086eaaa7f2737bc8c5b07adb640 305a79f12201a90f905904f60dbc47d4efd1b5d8 3a0c970bfae2b32920776d74dc6934403aded289 43b133679cea326e3cf250a8ccfd9289a2982721 46c165e7e71734f5e083b15c1114899de2cc353c 49ba72d4909e29c18058a2ef6b17243c4f7a130d 65883fb75c40d7f73f87652e77105838a92f5900 678a2daeef45897a307a73c532b04e6d1f1bd1d6 6836e878ab6fb5d7036c8a55a4eae08cb5ad4bae 69a6f96a04064384caf0f5cb6f3e1b799dd55905 6ad4cb8cea7b656a46744b830b531e518ac49c79 78b3a5a09328a6aa69a10fc61f4526c5e7ac5c42 84bcf7f74d6fdd0721aab8ef2ac5ec897cd4ecdc 85515fe36bf5ab08b110c86e3d7273f391d3b382 87dba1182b63172fe6a898e1d6e6dc6c2e06766a 8a2c16e5293ede72dfde93df50c6edb0f6216499 94158ddf67394eb1cdf3795765b3222aa2f31d4b 96c4e5e79c10039d908631c9620473642583e5a2 a03bce40751eb229bc5a56c987ad5910b1e6e7f3 a13a810417a71e731edfb0904580d11717244889 a377eff57128cf280239178289ca5d480efefddf aea82b2274128cee4385b19f26c690e66591a42d b01ee948d30bbaa0009a9988a9534418cc7025c5 b35600e32c216ee6859ce1edd13f22d20443a521 bfdec791b63f00503da77f5f59fdfae4548b862a c44b20ebfa69824f6493955f657b450e58b184c6 c54f061c4e300b840f8ac5feb187a11a2ad97fe0 c57e49155ca07df811d547e4ea2ada029e0ae28b d0542f82cff9c5d3d2df878bf963983b053c0d20 d999091b03810dcd3de5100fc32a935655e77b3c dc914bc50ae381f8fbd13a68705799a57ab2e665 ee3fd676991fef98e3e06b367a4b30fd0d154efc f3ddd17818775e26e08fe998f255e38d8058115f fedb6a2952910a3ddba4f089d69e36ce0f724a9b
+Multi-Arch: allowed
+
+Package: python3.7-dev
+Source: python3.7
+Priority: optional
+Section: python
+Installed-Size: 505
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Recommends: libc6-dev | libc-dev
+Depends: python3.7 (= 3.7.17-1+focal1), libpython3.7-dev (= 3.7.17-1+focal1), libpython3.7 (= 3.7.17-1+focal1), libexpat1-dev
+Filename: pool/main/p/python3.7/python3.7-dev_3.7.17-1+focal1_amd64.deb
+Size: 500584
+MD5sum: b3278e06522a04aaeb6920e973f3a738
+SHA1: a91c02aabf9bb9b5a6dd2a886020ed209bcc3bd1
+SHA256: 096b605dcc198710b96795f243ad40be3fbc394cde0333675b01e9a289f01da8
+Description: Header files and a static library for Python (v3.7)
+Description-md5: 939837cea50d0b4d9e8851d69665485d
+Multi-Arch: allowed
+
+Package: python3.7-distutils
+Source: python3.7
+Priority: optional
+Section: python
+Installed-Size: 765
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.7.17-1+focal1
+Depends: python3.7-lib2to3 (>= 3.6.4)
+Filename: pool/main/p/python3.7/python3.7-distutils_3.7.17-1+focal1_all.deb
+Size: 187188
+MD5sum: 05530d3bc66823d3bd37dd2b43259f31
+SHA1: d7e22aefcf740d97a5da7b4380d204b4572b9d12
+SHA256: b29d1348c90279689ae68913d4a43a5c7d66d770ef285661d105cb032d3fafed
+Description: distutils package for Python (version 3.7)
+Description-md5: c946fdee7a0c34b2ece38a9c185188c7
+Multi-Arch: foreign
+
+Package: python3.7-examples
+Source: python3.7
+Priority: optional
+Section: python
+Installed-Size: 1704
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.7.17-1+focal1
+Depends: python3.7 (>= 3.7.17-1+focal1)
+Filename: pool/main/p/python3.7/python3.7-examples_3.7.17-1+focal1_all.deb
+Size: 471448
+MD5sum: 408625aedb3af116cd65db23894be200
+SHA1: 88a61bcf78ff6e104aa50f2cf4016940ed96cfc7
+SHA256: ff1e1597753dee2a12c2fce25bb3223d1db5f7b715177c253a49564364aab458
+Description: Examples for the Python language (v3.7)
+Description-md5: ee70d16550f5df584f16f54f728c2189
+
+Package: python3.7-full
+Source: python3.7
+Priority: optional
+Section: python
+Installed-Size: 6
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Recommends: python3.7-examples
+Suggests: python3.7-dev
+Depends: python3.7 (= 3.7.17-1+focal1), libpython3.7-testsuite, python3.7-venv (= 3.7.17-1+focal1), idle-python3.7, python3.7-distutils, python3.7-gdbm, python3.7-lib2to3, python3.7-tk, ca-certificates
+Filename: pool/main/p/python3.7/python3.7-full_3.7.17-1+focal1_amd64.deb
+Size: 1284
+MD5sum: a78d334a56b051bad7540d7ec1b19cde
+SHA1: 6d19a98964328df4c2b0c6585c3d7023acf453d2
+SHA256: 43df4623da21fd56ed67ad6cc978abcf7f36666cfb138e3f156de92bceba7ea8
+Description: Python Interpreter with complete class library (version 3.7)
+Description-md5: 2e460ecf429d487ff6e39304058c4ff8
+Multi-Arch: allowed
+
+Package: python3.7-gdbm
+Source: python3.7
+Priority: optional
+Section: python
+Installed-Size: 129
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Suggests: python3.7-gdbm-dbg
+Depends: python3.7, libc6 (>= 2.2.5), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.7/python3.7-gdbm_3.7.17-1+focal1_amd64.deb
+Size: 61112
+MD5sum: a8f45f6c6715c72065e7cc037c5fbd09
+SHA1: 8865b3db68bd57e62cbe62b7f2cadf3d2a5ecc33
+SHA256: 7ff8482382890b80a2ff9dae95c34b05d5c6e879c128da267a6c6c337bd4871b
+Description: GNU dbm database support for Python (version 3.7)
+Description-md5: 0357f26e08b89203c9eda75c75d13aa4
+Multi-Arch: same
+
+Package: python3.7-gdbm-dbg
+Source: python3.7
+Priority: extra
+Section: debug
+Installed-Size: 206
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Depends: python3.7-dbg, python3.7-gdbm (= 3.7.17-1+focal1), libc6 (>= 2.4), libgdbm6 (>= 1.16)
+Filename: pool/main/p/python3.7/python3.7-gdbm-dbg_3.7.17-1+focal1_amd64.deb
+Size: 96896
+MD5sum: bbc2363d773dd59d32702cfe62cf3996
+SHA1: 14d13ec40f9d098d95bd60e7e69925b3fa0faba5
+SHA256: ccbe25e73446fd748229706bbef5ed7f63ca8fda1501078bbc47f0fad74dc401
+Description: GNU dbm database support for Python (version 3.7 debug extension)
+Description-md5: 19eca9d2dd0f14dbc8f098370b3d05ce
+Build-Ids: b65e69a525c59aaa46289f9b5c763efed2a48979
+Multi-Arch: same
+
+Package: python3.7-lib2to3
+Source: python3.7
+Priority: optional
+Section: python
+Installed-Size: 435
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.7.17-1+focal1
+Filename: pool/main/p/python3.7/python3.7-lib2to3_3.7.17-1+focal1_all.deb
+Size: 122140
+MD5sum: 34eae1bfa8291ad55ac208bfc5cd7b30
+SHA1: 2a26346b4868de9a7b418fd075b03bf0e5f9d252
+SHA256: fbf574cea5bc2a4400eea1cf88ed6d0b3f3ba59442884c18fd97379d4ef4f2b9
+Description: lib2to3 package for Python (version 3.7)
+Description-md5: c421300a47992b7707fefb4ff92217a0
+Multi-Arch: foreign
+
+Package: python3.7-minimal
+Source: python3.7
+Priority: optional
+Section: python
+Installed-Size: 10067
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Recommends: python3.7
+Suggests: binfmt-support
+Depends: libpython3.7-minimal (= 3.7.17-1+focal1), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Conflicts: binfmt-support (<< 1.1.2)
+Pre-Depends: libc6 (>= 2.29)
+Filename: pool/main/p/python3.7/python3.7-minimal_3.7.17-1+focal1_amd64.deb
+Size: 1807728
+MD5sum: dba4c2701d3c69ddbc19d26dfebcf8cb
+SHA1: b3383e225140033a939fbd8145fc1a0ed6e92673
+SHA256: 85fe37ba2a20d0dce5332a9da2ad56f4009b9e05fccdf415d010514702eafe33
+Description: Minimal subset of the Python language (version 3.7)
+Description-md5: 2ce3a4585490ce7ac2340e44421a26cf
+Cnf-Visible-Pkgname: python3.7
+Multi-Arch: allowed
+
+Package: python3.7-tk
+Source: python3.7
+Priority: optional
+Section: python
+Installed-Size: 521
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Suggests: tix, python3.7-tk-dbg
+Depends: python3.7, libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0), tk8.6-blt2.5 (>= 2.5.3)
+Filename: pool/main/p/python3.7/python3.7-tk_3.7.17-1+focal1_amd64.deb
+Size: 141872
+MD5sum: b236b044deaecd4e84bb598b7ab9c9ff
+SHA1: e85e63d3b86448a253488b97fb34e256f2e8b85f
+SHA256: 2a5282be29a521a679f6f3f271c795f9cf5cc47a29af9ff2092ab8d36276760f
+Description: Tkinter - Writing Tk applications with Python (version 3.7)
+Description-md5: 75eba470cce6b49f45f6e42c6831efdf
+Multi-Arch: same
+
+Package: python3.7-tk-dbg
+Source: python3.7
+Priority: extra
+Section: debug
+Installed-Size: 627
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Depends: python3.7-dbg, python3.7-tk (= 3.7.17-1+focal1), libc6 (>= 2.2.5), libtcl8.6 (>= 8.6.0), libtk8.6 (>= 8.6.0), tk8.6-blt2.5 (>= 2.5.3)
+Filename: pool/main/p/python3.7/python3.7-tk-dbg_3.7.17-1+focal1_amd64.deb
+Size: 290024
+MD5sum: 59257074547cb769d832c643a2221066
+SHA1: 61a9d0c5e528f4f7925c1bc61bd9f0c1e3626fee
+SHA256: 52da84ab9a99e3d4f07e0c1b3657d2724a5519e2434f5a0d207bf28187d44a2f
+Description: Tkinter - Writing Tk applications with Python (version 3.7 debug extension)
+Description-md5: 73c1ea62641bf1eb7ad3ad05a108975e
+Build-Ids: 30468222aa9e8b2236aacaa0d1d3b4228abb6cf2
+Multi-Arch: same
+
+Package: python3.7-venv
+Source: python3.7
+Priority: optional
+Section: python
+Installed-Size: 2603
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.7.17-1+focal1
+Depends: python3.7 (= 3.7.17-1+focal1), python3.7-distutils
+Breaks: python3-pip (<< 1.5.6-4)
+Filename: pool/main/p/python3.7/python3.7-venv_3.7.17-1+focal1_amd64.deb
+Size: 2449208
+MD5sum: 85c12b385bf2cf20ffe5e0ea835f1206
+SHA1: cca9b69773ccb3d49220a11aceec6ee7b371f8aa
+SHA256: 8a21210ae4f2b636147328f4b9354020a9ac2b94a886433ebb76d411a06d59e7
+Description: Interactive high-level object-oriented language (pyvenv binary, version 3.7)
+Description-md5: a9bfa9fd62afb7196c2eb2b8749b0a74
+Multi-Arch: allowed
+
+Package: python3.9
+Priority: optional
+Section: python
+Installed-Size: 176
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.9.21-1+focal1
+Suggests: python3.9-venv, binutils
+Depends: python3.9-minimal (= 3.9.21-1+focal1), libpython3.9-stdlib (= 3.9.21-1+focal1), mime-support
+Filename: pool/main/p/python3.9/python3.9_3.9.21-1+focal1_amd64.deb
+Size: 91392
+MD5sum: 0a4cce257a57e139ecfb89bad5288b43
+SHA1: a409ff0bfa4a342239d87bc9a6b0f6be402c74aa
+SHA256: 1c68389cbbcd43a309fbb9259fbf1f9fea92551f8739c674838450d75f00d40d
+Description: Interactive high-level object-oriented language (version 3.9)
+Description-md5: a49d415b9295004c3b3859dbe6873c2d
+Multi-Arch: allowed
+
+Package: python3.9-dbg
+Source: python3.9
+Priority: optional
+Section: debug
+Installed-Size: 44989
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.9.21-1+focal1
+Recommends: gdb
+Suggests: python3-gdbm-dbg, python3-tk-dbg
+Depends: python3.9 (= 3.9.21-1+focal1), libpython3.9-dbg (= 3.9.21-1+focal1), libc6 (>= 2.30), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Filename: pool/main/p/python3.9/python3.9-dbg_3.9.21-1+focal1_amd64.deb
+Size: 21610428
+MD5sum: 7f53e236edecd02041277bfc7336062d
+SHA1: 8130397b2cbba547f8570d2ac689470ba6cb6352
+SHA256: e90e0ff9af540d361c0600301a2449eb71c295f7e9d25231bd844f2533a94df2
+Description: Debug Build of the Python Interpreter (version 3.9)
+Description-md5: 1e5d16a05a154d1ef075cd6d03fe0016
+Multi-Arch: allowed
+Build-Ids: 003ce608d4b89030f4f002dc8f31386b7f112eb2 0ac691e5bbdbc125bc90699b13332fda2f4cb73b 0b441b3e296fa6390a68e6ccfa70446296193a80 0bb9337fc143193966ab741db95a14be3c4f9d4f 0fcd3aa5e2fa644561a79a0a12aba2e09850b796 15b13990550fa1136c5ec0191d4cd5b17510b48f 1ca99db4b711254e67be150389adced9c6104b67 1f11fd4444f99c24b6420bb191c048f09f17c375 2a4b77c01bce5f055c4606bfade13f9803de9f11 2a74142ff54cf5c76fa6aaf00dcaebdf262f3ffb 422324255c5f0542e07f6ba059c8fd06ad385616 4ad39b77a50a5d77997ffa19fc891298ae1602c1 5420be11a996ff2976146000a0f4b3667b63551f 56e4b02e510955ff7fa3c3228b8a56c42d4c9961 5997ccc9b8cb2145e903f7c4b618fced51f9d21e 5d7bb909bbc3b6da5a7a0f38cb2babccf518dca6 605cd49e8280f66aa549a23e4179011235b2bcb5 64f7558107b6198ad7e7536b43b823217eebe838 6610b826c866d9cdb5353b5bfb876cf21b8832df 663346c90c12b185a640019f3de2b9098d52e11c 73579dcc69a94d34723f252a35af67d228392599 7997b9ebc168d2cbe27bebd97f438ab522729f97 7bca79696bd2fd53428ca6c00774865dbcbe55f0 7ed07ef913e8ba4bef0afbcb40357428cb842f89 81517b35f121cacabb0befac9f570d3d0520ad6c 822c9dea4b504d305c44242864583a5a8804990b 824108d33e573c706d7ecd89ebf8e5a920e2e05f 855ce411765f6dbb08e86309536cc3b5cf501dd0 88f96c2d5d53f8512d65a3cfcc8cb3bd41ba7152 9388a5a6b15e25db000421bc1f660316a7b39899 97989772a58bda6b7b86c5d867a01ddb8c212482 98379ab4b0743a5076e9358bd068f7896d5aae8d 9e95a338163d4355309028b76a7dab7b5badc685 9ffffe9e1e23d3e74cc0707d58634be85e847bf8 ab78f6a82c8dcfdea7a33d119c727d34bc74f9c7 aba6b9604e69ff628cfe0e8cee5d886cff920c59 b39aaa892dad3e6ac8fe095bb100352468cccae3 b3f1980be254ee521f92fe7169b37821f88f00e2 bb196100bd9a452d22fde8e89cba4cd0360b2e02 bbbcd312f9a7eb04f59bb3f19eae279e8396da9f d89efe390266d9e1e42133a53b5c8c246bf97d72 da7c830dc90b34eae44f620a9b9400b2995f2db1 dcf638205ff3fd91cd66de79eac21f8481aee817 e662e7409ff3cf58fbff1ef4b6f4416f10845ece e943e6dd66e89ee9977d4d778479f6b744c436bb fc91d73d8dacf6e05ea3a4c7b1165cd8f7d04adc fe83e7db1c41879b8883faf563c8c51264e7567f
+
+Package: python3.9-dev
+Source: python3.9
+Priority: optional
+Section: python
+Installed-Size: 504
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.9.21-1+focal1
+Recommends: libc6-dev | libc-dev
+Depends: python3.9 (= 3.9.21-1+focal1), libpython3.9-dev (= 3.9.21-1+focal1), libpython3.9 (= 3.9.21-1+focal1), libexpat1-dev
+Filename: pool/main/p/python3.9/python3.9-dev_3.9.21-1+focal1_amd64.deb
+Size: 500664
+MD5sum: 75bb79647d95b2af5cc0cc3a1de6b5cd
+SHA1: 4aa7305eab510808e47e5f93938a84eb29ac8707
+SHA256: 631eb8e93590f04d6fd21ea5cb99233978571f567e7798f42aaec9c0461429dc
+Description: Header files and a static library for Python (v3.9)
+Description-md5: 9697926014791c5e2466d17b024165ff
+Multi-Arch: allowed
+
+Package: python3.9-examples
+Source: python3.9
+Priority: optional
+Section: python
+Installed-Size: 3036
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: all
+Version: 3.9.21-1+focal1
+Depends: python3.9 (>= 3.9.21-1+focal1)
+Filename: pool/main/p/python3.9/python3.9-examples_3.9.21-1+focal1_all.deb
+Size: 787788
+MD5sum: 22eccebdfe485f69e9c6bba00e915f4f
+SHA1: 94d9a8f016f01612f18c2b2e276d22b74f82898d
+SHA256: 7c14362271411843031e8eddfd2ec146b589cf3a5afc63d6e726fe2bfddc9942
+Description: Examples for the Python language (v3.9)
+Description-md5: 5b421fcbf73f52da0e59d52226cd3c21
+
+Package: python3.9-full
+Source: python3.9
+Priority: optional
+Section: python
+Installed-Size: 6
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.9.21-1+focal1
+Recommends: python3.9-examples
+Suggests: python3.9-dev
+Depends: python3.9 (= 3.9.21-1+focal1), libpython3.9-testsuite, python3.9-venv (= 3.9.21-1+focal1), idle-python3.9, python3-distutils, python3-gdbm, python3-lib2to3, python3-tk, ca-certificates
+Filename: pool/main/p/python3.9/python3.9-full_3.9.21-1+focal1_amd64.deb
+Size: 1284
+MD5sum: e54bd012bb47dd63284e2d3cf384d245
+SHA1: 456cd9bbf54f44e362d9ec36e2c9d41173be8584
+SHA256: 79e53c3cdc27812273ce9a8c33c45d5e9a878aa4ac55f7ee1272c060e5857f14
+Description: Python Interpreter with complete class library (version 3.9)
+Description-md5: d6c7f2de77c9206a23051e10ddc0d0a9
+Multi-Arch: allowed
+
+Package: python3.9-minimal
+Source: python3.9
+Priority: optional
+Section: python
+Installed-Size: 5755
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.9.21-1+focal1
+Recommends: python3.9
+Suggests: binfmt-support
+Depends: libpython3.9-minimal (= 3.9.21-1+focal1), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Conflicts: binfmt-support (<< 1.1.2)
+Pre-Depends: libc6 (>= 2.30)
+Filename: pool/main/p/python3.9/python3.9-minimal_3.9.21-1+focal1_amd64.deb
+Size: 2063248
+MD5sum: fee39ac16166be91985ce2186f53ad9f
+SHA1: a0bc5dc80d5f5369f654bcf24bc53f4320aa7d49
+SHA256: 2851436e7bdfc40253c2346d30d6cb953d4fc0664c9fa8f1e02926fc51ebe1ae
+Description: Minimal subset of the Python language (version 3.9)
+Description-md5: cd370bbd0ff51beae7a757794c49c53c
+Multi-Arch: allowed
+Cnf-Visible-Pkgname: python3.9
+
+Package: python3.9-venv
+Source: python3.9
+Priority: optional
+Section: python
+Installed-Size: 2831
+Maintainer: Matthias Klose <doko@debian.org>
+Architecture: amd64
+Version: 3.9.21-1+focal1
+Depends: python3.9 (= 3.9.21-1+focal1), python3-distutils
+Breaks: python3-pip (<< 1.5.6-4)
+Filename: pool/main/p/python3.9/python3.9-venv_3.9.21-1+focal1_amd64.deb
+Size: 2665320
+MD5sum: c192a11f1f35008f424111abe9b85585
+SHA1: 6d6ef553256d17334c996a082425666e990e864e
+SHA256: 0be5aa0d0cca36c2c945614417b7e4f086fbdd698fc9f13e09c701c8fe78a64a
+Description: Interactive high-level object-oriented language (pyvenv binary, version 3.9)
+Description-md5: 51d5401a3e165197d0b07bf941749a76
+Multi-Arch: allowed
+

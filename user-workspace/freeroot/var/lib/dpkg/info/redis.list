@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/redis
+/usr/share/doc/redis/copyright
+/usr/share/doc/redis/00-RELEASENOTES.gz
+/usr/share/doc/redis/NEWS.Debian.gz
+/usr/share/doc/redis/changelog.Debian.gz

@@ -1,0 +1,299 @@
+[2024-12-18 04:01:42 +0700] [29054] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:01:42 +0700] [29054] [INFO] Listening at: http://0.0.0.0:8000 (29054)
+[2024-12-18 04:01:42 +0700] [29054] [INFO] Using worker: sync
+[2024-12-18 04:01:42 +0700] [29057] [INFO] Booting worker with pid: 29057
+[2024-12-18 04:01:42 +0700] [29058] [INFO] Booting worker with pid: 29058
+[2024-12-18 04:01:42 +0700] [29059] [INFO] Booting worker with pid: 29059
+[2024-12-18 04:02:40 +0700] [29748] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:02:40 +0700] [29748] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:40 +0700] [29748] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:41 +0700] [29748] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:41 +0700] [29748] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:42 +0700] [29748] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:42 +0700] [29748] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:43 +0700] [29748] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:43 +0700] [29748] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:44 +0700] [29748] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:44 +0700] [29748] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:45 +0700] [29748] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:02:45 +0700] [29869] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:02:45 +0700] [29869] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:45 +0700] [29869] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:46 +0700] [29869] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:46 +0700] [29869] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:47 +0700] [29869] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:47 +0700] [29869] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:48 +0700] [29869] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:48 +0700] [29869] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:49 +0700] [29869] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:49 +0700] [29869] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:50 +0700] [29869] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:02:51 +0700] [29933] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:02:51 +0700] [29933] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:51 +0700] [29933] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:52 +0700] [29933] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:52 +0700] [29933] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:53 +0700] [29933] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:53 +0700] [29933] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:54 +0700] [29933] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:54 +0700] [29933] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:55 +0700] [29933] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:55 +0700] [29933] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:56 +0700] [29933] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:02:57 +0700] [29940] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:02:57 +0700] [29940] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:57 +0700] [29940] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:58 +0700] [29940] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:58 +0700] [29940] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:02:59 +0700] [29940] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:02:59 +0700] [29940] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:00 +0700] [29940] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:00 +0700] [29940] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:01 +0700] [29940] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:01 +0700] [29940] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:02 +0700] [29940] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:03:05 +0700] [29949] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:03:05 +0700] [29949] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:05 +0700] [29949] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:06 +0700] [29949] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:06 +0700] [29949] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:07 +0700] [29949] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:07 +0700] [29949] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:08 +0700] [29949] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:08 +0700] [29949] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:09 +0700] [29949] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:09 +0700] [29949] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:10 +0700] [29949] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:03:11 +0700] [29956] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:03:11 +0700] [29956] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:11 +0700] [29956] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:12 +0700] [29956] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:12 +0700] [29956] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:13 +0700] [29956] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:13 +0700] [29956] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:14 +0700] [29956] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:14 +0700] [29956] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:15 +0700] [29956] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:15 +0700] [29956] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:16 +0700] [29956] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:03:17 +0700] [29963] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:03:17 +0700] [29963] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:17 +0700] [29963] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:18 +0700] [29963] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:18 +0700] [29963] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:19 +0700] [29963] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:19 +0700] [29963] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:20 +0700] [29963] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:20 +0700] [29963] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:21 +0700] [29963] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:21 +0700] [29963] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:22 +0700] [29963] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:03:31 +0700] [29970] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:03:31 +0700] [29970] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:31 +0700] [29970] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:32 +0700] [29970] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:32 +0700] [29970] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:33 +0700] [29970] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:33 +0700] [29970] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:34 +0700] [29970] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:34 +0700] [29970] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:35 +0700] [29970] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:35 +0700] [29970] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:36 +0700] [29970] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:03:37 +0700] [30035] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:03:37 +0700] [30035] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:37 +0700] [30035] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:38 +0700] [30035] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:38 +0700] [30035] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:39 +0700] [30035] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:39 +0700] [30035] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:40 +0700] [30035] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:40 +0700] [30035] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:41 +0700] [30035] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:41 +0700] [30035] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:42 +0700] [30035] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:03:43 +0700] [30069] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:03:43 +0700] [30069] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:43 +0700] [30069] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:44 +0700] [30069] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:44 +0700] [30069] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:45 +0700] [30069] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:45 +0700] [30069] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:46 +0700] [30069] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:46 +0700] [30069] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:47 +0700] [30069] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:47 +0700] [30069] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:48 +0700] [30069] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:03:48 +0700] [30075] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:03:48 +0700] [30075] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:48 +0700] [30075] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:49 +0700] [30075] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:49 +0700] [30075] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:50 +0700] [30075] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:50 +0700] [30075] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:51 +0700] [30075] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:51 +0700] [30075] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:52 +0700] [30075] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:52 +0700] [30075] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:53 +0700] [30075] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:03:55 +0700] [30083] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:03:55 +0700] [30083] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:55 +0700] [30083] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:56 +0700] [30083] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:56 +0700] [30083] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:57 +0700] [30083] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:57 +0700] [30083] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:58 +0700] [30083] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:58 +0700] [30083] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:03:59 +0700] [30083] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:03:59 +0700] [30083] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:00 +0700] [30083] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:04:01 +0700] [30090] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:04:01 +0700] [30090] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:01 +0700] [30090] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:02 +0700] [30090] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:02 +0700] [30090] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:03 +0700] [30090] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:03 +0700] [30090] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:04 +0700] [30090] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:04 +0700] [30090] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:05 +0700] [30090] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:05 +0700] [30090] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:06 +0700] [30090] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:04:07 +0700] [30213] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:04:07 +0700] [30213] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:07 +0700] [30213] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:08 +0700] [30213] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:08 +0700] [30213] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:09 +0700] [30213] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:09 +0700] [30213] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:10 +0700] [30213] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:10 +0700] [30213] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:11 +0700] [30213] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:11 +0700] [30213] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:12 +0700] [30213] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:04:13 +0700] [30247] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:04:13 +0700] [30247] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:13 +0700] [30247] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:14 +0700] [30247] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:14 +0700] [30247] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:15 +0700] [30247] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:15 +0700] [30247] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:16 +0700] [30247] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:16 +0700] [30247] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:17 +0700] [30247] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:17 +0700] [30247] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:18 +0700] [30247] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:04:19 +0700] [30367] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:04:19 +0700] [30367] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:19 +0700] [30367] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:20 +0700] [30367] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:20 +0700] [30367] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:21 +0700] [30367] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:21 +0700] [30367] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:22 +0700] [30367] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:22 +0700] [30367] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:23 +0700] [30367] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:23 +0700] [30367] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:24 +0700] [30367] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:04:26 +0700] [30415] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:04:26 +0700] [30415] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:26 +0700] [30415] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:27 +0700] [30415] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:27 +0700] [30415] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:28 +0700] [30415] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:28 +0700] [30415] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:29 +0700] [30415] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:29 +0700] [30415] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:30 +0700] [30415] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:30 +0700] [30415] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:31 +0700] [30415] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:04:32 +0700] [30470] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:04:32 +0700] [30470] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:32 +0700] [30470] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:33 +0700] [30470] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:33 +0700] [30470] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:34 +0700] [30470] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:34 +0700] [30470] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:35 +0700] [30470] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:35 +0700] [30470] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:36 +0700] [30470] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:36 +0700] [30470] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:37 +0700] [30470] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:04:37 +0700] [30583] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:04:37 +0700] [30583] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:37 +0700] [30583] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:38 +0700] [30583] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:38 +0700] [30583] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:39 +0700] [30583] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:39 +0700] [30583] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:40 +0700] [30583] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:40 +0700] [30583] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:41 +0700] [30583] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:41 +0700] [30583] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:42 +0700] [30583] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:04:43 +0700] [30619] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:04:43 +0700] [30619] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:43 +0700] [30619] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:44 +0700] [30619] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:44 +0700] [30619] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:45 +0700] [30619] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:45 +0700] [30619] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:46 +0700] [30619] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:46 +0700] [30619] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:47 +0700] [30619] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:47 +0700] [30619] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:48 +0700] [30619] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:04:49 +0700] [30626] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:04:49 +0700] [30626] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:49 +0700] [30626] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:50 +0700] [30626] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:50 +0700] [30626] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:51 +0700] [30626] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:51 +0700] [30626] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:52 +0700] [30626] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:52 +0700] [30626] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:53 +0700] [30626] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:53 +0700] [30626] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:54 +0700] [30626] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:04:56 +0700] [30634] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:04:56 +0700] [30634] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:56 +0700] [30634] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:57 +0700] [30634] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:57 +0700] [30634] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:58 +0700] [30634] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:58 +0700] [30634] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:04:59 +0700] [30634] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:04:59 +0700] [30634] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:05:00 +0700] [30634] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:05:00 +0700] [30634] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:05:01 +0700] [30634] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:05:02 +0700] [30641] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:05:02 +0700] [30641] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:05:02 +0700] [30641] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:05:03 +0700] [30641] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:05:03 +0700] [30641] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:05:04 +0700] [30641] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:05:04 +0700] [30641] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:05:05 +0700] [30641] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:05:05 +0700] [30641] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:05:06 +0700] [30641] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:05:06 +0700] [30641] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:05:07 +0700] [30641] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-12-18 04:05:08 +0700] [30651] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:05:08 +0700] [30651] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:05:08 +0700] [30651] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:05:09 +0700] [30651] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:05:09 +0700] [30651] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:05:10 +0700] [30651] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:05:10 +0700] [30651] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:05:11 +0700] [30651] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:05:11 +0700] [30651] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:05:12 +0700] [30651] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-12-18 04:05:12 +0700] [30651] [ERROR] connection to ('0.0.0.0', 8000) failed: [Errno 98] Address already in use
+[2024-12-18 04:07:02 +0700] [31353] [INFO] Starting gunicorn 23.0.0
+[2024-12-18 04:07:02 +0700] [31353] [INFO] Listening at: http://0.0.0.0:8000 (31353)
+[2024-12-18 04:07:02 +0700] [31353] [INFO] Using worker: sync
+[2024-12-18 04:07:02 +0700] [31359] [INFO] Booting worker with pid: 31359
+[2024-12-18 04:07:02 +0700] [31360] [INFO] Booting worker with pid: 31360
+[2024-12-18 04:07:02 +0700] [31361] [INFO] Booting worker with pid: 31361

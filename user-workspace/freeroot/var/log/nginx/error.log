@@ -1,0 +1,31 @@
+2024/12/18 03:38:20 [alert] 18972#18972: prctl(PR_SET_DUMPABLE) failed (38: Function not implemented)
+2024/12/18 03:38:20 [alert] 18973#18973: prctl(PR_SET_DUMPABLE) failed (38: Function not implemented)
+2024/12/18 04:34:12 [alert] 10963#10963: prctl(PR_SET_DUMPABLE) failed (38: Function not implemented)
+2024/12/18 04:34:12 [alert] 10962#10962: prctl(PR_SET_DUMPABLE) failed (38: Function not implemented)
+2024/12/18 04:40:03 [error] 10963#10963: *1 upstream timed out (110: Connection timed out) while connecting to upstream, client: 192.168.16.2, server: learnsosmed.kortekslol.my.id, request: "GET /postbyfollowing/ HTTP/1.1", upstream: "http://192.168.10.206:8000/postbyfollowing/", host: "learnsosmed.kortekslol.my.id"
+2024/12/18 04:41:19 [error] 10963#10963: *1 upstream timed out (110: Connection timed out) while connecting to upstream, client: 192.168.16.2, server: learnsosmed.kortekslol.my.id, request: "GET / HTTP/1.1", upstream: "http://192.168.10.206:8000/", host: "learnsosmed.kortekslol.my.id"
+2024/12/18 04:41:20 [emerg] 13231#13231: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/12/18 04:41:20 [emerg] 13231#13231: bind() to [::]:80 failed (98: Address already in use)
+2024/12/18 04:41:20 [emerg] 13231#13231: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/12/18 04:41:20 [emerg] 13231#13231: bind() to [::]:80 failed (98: Address already in use)
+2024/12/18 04:41:20 [emerg] 13231#13231: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/12/18 04:41:20 [emerg] 13231#13231: bind() to [::]:80 failed (98: Address already in use)
+2024/12/18 04:41:20 [emerg] 13231#13231: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/12/18 04:41:20 [emerg] 13231#13231: bind() to [::]:80 failed (98: Address already in use)
+2024/12/18 04:41:20 [emerg] 13231#13231: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/12/18 04:41:20 [emerg] 13231#13231: bind() to [::]:80 failed (98: Address already in use)
+2024/12/18 04:41:20 [emerg] 13231#13231: still could not bind()
+2024/12/18 04:41:24 [error] 10963#10963: *14 upstream timed out (110: Connection timed out) while connecting to upstream, client: 192.168.16.2, server: learnsosmed.kortekslol.my.id, request: "GET / HTTP/1.1", upstream: "http://192.168.10.206:8000/", host: "learnsosmed.kortekslol.my.id"
+2024/12/18 04:41:39 [alert] 10963#10963: *21 open socket #26 left in connection 5
+2024/12/18 04:41:39 [alert] 10963#10963: *19 open socket #19 left in connection 7
+2024/12/18 04:41:39 [alert] 10963#10963: *20 open socket #20 left in connection 8
+2024/12/18 04:41:39 [alert] 10963#10963: *17 open socket #17 left in connection 9
+2024/12/18 04:41:39 [alert] 10963#10963: *18 open socket #18 left in connection 10
+2024/12/18 04:41:39 [alert] 10963#10963: *22 open socket #10 left in connection 11
+2024/12/18 04:41:39 [alert] 10963#10963: *16 open socket #16 left in connection 12
+2024/12/18 04:41:39 [alert] 10963#10963: *14 open socket #14 left in connection 14
+2024/12/18 04:41:39 [alert] 10963#10963: aborting
+2024/12/18 04:41:40 [alert] 13469#13469: prctl(PR_SET_DUMPABLE) failed (38: Function not implemented)
+2024/12/18 04:41:40 [alert] 13468#13468: prctl(PR_SET_DUMPABLE) failed (38: Function not implemented)
+2024/12/18 04:42:44 [error] 13468#13468: *1 upstream timed out (110: Connection timed out) while connecting to upstream, client: 192.168.16.2, server: learnsosmed.kortekslol.my.id, request: "GET / HTTP/1.1", upstream: "http://192.168.10.206:8000/", host: "learnsosmed.kortekslol.my.id"
+2024/12/18 04:43:50 [error] 13468#13468: *1 upstream timed out (110: Connection timed out) while connecting to upstream, client: 192.168.16.2, server: learnsosmed.kortekslol.my.id, request: "GET / HTTP/1.1", upstream: "http://192.168.10.206:8000/", host: "learnsosmed.kortekslol.my.id"

@@ -1,0 +1,776 @@
+2024-12-17T18:19:02Z INF Starting tunnel tunnelID=9f644726-b3fb-4a60-bcbc-8000a95dd0b1
+2024-12-17T18:19:02Z INF Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)
+2024-12-17T18:19:02Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-17T18:19:02Z INF Settings: map[autoupdate-freq:24h0m0s pidfile:/var/run/cloudflared.pid token:*****]
+2024-12-17T18:19:02Z INF Generated Connector ID: e5441410-9095-4900-b9b2-ad11c91b8fed
+2024-12-17T18:19:02Z INF cloudflared will not automatically update if installed by a package manager.
+2024-12-17T18:19:02Z INF Initial protocol quic
+2024-12-17T18:19:02Z INF ICMP proxy will use 172.17.0.2 as source for IPv4
+2024-12-17T18:19:02Z INF ICMP proxy will use ::1 in zone lo as source for IPv6
+2024-12-17T18:19:02Z WRN The user running cloudflared process has a GID (group ID) that is not within ping_group_range. You might need to add that user to a group within that range, or instead update the range to encompass a group the user is already in by modifying /proc/sys/net/ipv4/ping_group_range. Otherwise cloudflared will not be able to ping this network error="Group ID 0 is not between ping group 65534 to 65534"
+2024-12-17T18:19:02Z WRN ICMP proxy feature is disabled error="cannot create ICMPv4 proxy: Group ID 0 is not between ping group 65534 to 65534 nor ICMPv6 proxy: socket: permission denied"
+2024-12-17T18:19:02Z ERR Error opening metrics server listener error="failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host"
+Error opening metrics server listener: failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host
+2024-12-17T18:33:16Z INF Starting tunnel tunnelID=9f644726-b3fb-4a60-bcbc-8000a95dd0b1
+2024-12-17T18:33:16Z INF Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)
+2024-12-17T18:33:16Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-17T18:33:16Z INF Settings: map[autoupdate-freq:24h0m0s pidfile:/var/run/cloudflared.pid token:*****]
+2024-12-17T18:33:16Z INF Generated Connector ID: f3cc764a-f9d4-42d3-afa0-a8535bfbbf6d
+2024-12-17T18:33:16Z INF cloudflared will not automatically update if installed by a package manager.
+2024-12-17T18:33:16Z INF Initial protocol quic
+2024-12-17T18:33:16Z INF ICMP proxy will use 172.17.0.2 as source for IPv4
+2024-12-17T18:33:16Z INF ICMP proxy will use ::1 in zone lo as source for IPv6
+2024-12-17T18:33:16Z WRN The user running cloudflared process has a GID (group ID) that is not within ping_group_range. You might need to add that user to a group within that range, or instead update the range to encompass a group the user is already in by modifying /proc/sys/net/ipv4/ping_group_range. Otherwise cloudflared will not be able to ping this network error="Group ID 0 is not between ping group 65534 to 65534"
+2024-12-17T18:33:16Z WRN ICMP proxy feature is disabled error="cannot create ICMPv4 proxy: Group ID 0 is not between ping group 65534 to 65534 nor ICMPv6 proxy: socket: permission denied"
+2024-12-17T18:33:16Z ERR Error opening metrics server listener error="failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host"
+Error opening metrics server listener: failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host
+2024-12-17T19:12:08Z INF Starting tunnel tunnelID=9f644726-b3fb-4a60-bcbc-8000a95dd0b1
+2024-12-17T19:12:08Z INF Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)
+2024-12-17T19:12:08Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-17T19:12:08Z INF Settings: map[autoupdate-freq:24h0m0s pidfile:/var/run/cloudflared.pid token:*****]
+2024-12-17T19:12:08Z INF Generated Connector ID: 1fc0efff-8e6e-4ed9-9334-d42b88e0c4a7
+2024-12-17T19:12:08Z INF cloudflared will not automatically update if installed by a package manager.
+2024-12-17T19:12:08Z INF Initial protocol quic
+2024-12-17T19:12:08Z INF ICMP proxy will use 172.17.0.2 as source for IPv4
+2024-12-17T19:12:08Z INF ICMP proxy will use ::1 in zone lo as source for IPv6
+2024-12-17T19:12:08Z WRN The user running cloudflared process has a GID (group ID) that is not within ping_group_range. You might need to add that user to a group within that range, or instead update the range to encompass a group the user is already in by modifying /proc/sys/net/ipv4/ping_group_range. Otherwise cloudflared will not be able to ping this network error="Group ID 0 is not between ping group 65534 to 65534"
+2024-12-17T19:12:08Z WRN ICMP proxy feature is disabled error="cannot create ICMPv4 proxy: Group ID 0 is not between ping group 65534 to 65534 nor ICMPv6 proxy: socket: permission denied"
+2024-12-17T19:12:08Z ERR Error opening metrics server listener error="failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host"
+Error opening metrics server listener: failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host
+2024-12-17T19:13:33Z INF Starting tunnel tunnelID=9f644726-b3fb-4a60-bcbc-8000a95dd0b1
+2024-12-17T19:13:33Z INF Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)
+2024-12-17T19:13:33Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-17T19:13:33Z INF Settings: map[autoupdate-freq:24h0m0s pidfile:/var/run/cloudflared.pid token:*****]
+2024-12-17T19:13:33Z INF Generated Connector ID: 15e6953a-71a7-44e1-a0a0-48b721cbcb65
+2024-12-17T19:13:33Z INF cloudflared will not automatically update if installed by a package manager.
+2024-12-17T19:13:33Z INF Initial protocol quic
+2024-12-17T19:13:33Z INF ICMP proxy will use 172.17.0.2 as source for IPv4
+2024-12-17T19:13:33Z INF ICMP proxy will use ::1 in zone lo as source for IPv6
+2024-12-17T19:13:33Z WRN The user running cloudflared process has a GID (group ID) that is not within ping_group_range. You might need to add that user to a group within that range, or instead update the range to encompass a group the user is already in by modifying /proc/sys/net/ipv4/ping_group_range. Otherwise cloudflared will not be able to ping this network error="Group ID 0 is not between ping group 65534 to 65534"
+2024-12-17T19:13:33Z WRN ICMP proxy feature is disabled error="cannot create ICMPv4 proxy: Group ID 0 is not between ping group 65534 to 65534 nor ICMPv6 proxy: socket: permission denied"
+2024-12-17T19:13:33Z ERR Error opening metrics server listener error="failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host"
+Error opening metrics server listener: failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host
+2024-12-17T19:14:03Z INF Starting tunnel tunnelID=9f644726-b3fb-4a60-bcbc-8000a95dd0b1
+2024-12-17T19:14:03Z INF Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)
+2024-12-17T19:14:03Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-17T19:14:03Z INF Settings: map[autoupdate-freq:24h0m0s pidfile:/var/run/cloudflared.pid token:*****]
+2024-12-17T19:14:03Z INF Generated Connector ID: 7a3d55e0-bc6a-4388-9ebd-59e163c5f147
+2024-12-17T19:14:03Z INF cloudflared will not automatically update if installed by a package manager.
+2024-12-17T19:14:03Z INF Initial protocol quic
+2024-12-17T19:14:03Z INF ICMP proxy will use 172.17.0.2 as source for IPv4
+2024-12-17T19:14:03Z INF ICMP proxy will use ::1 in zone lo as source for IPv6
+2024-12-17T19:14:03Z WRN The user running cloudflared process has a GID (group ID) that is not within ping_group_range. You might need to add that user to a group within that range, or instead update the range to encompass a group the user is already in by modifying /proc/sys/net/ipv4/ping_group_range. Otherwise cloudflared will not be able to ping this network error="Group ID 0 is not between ping group 65534 to 65534"
+2024-12-17T19:14:03Z WRN ICMP proxy feature is disabled error="cannot create ICMPv4 proxy: Group ID 0 is not between ping group 65534 to 65534 nor ICMPv6 proxy: socket: permission denied"
+2024-12-17T19:14:03Z ERR Error opening metrics server listener error="failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host"
+Error opening metrics server listener: failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host
+2024-12-17T19:22:08Z INF Starting tunnel tunnelID=9f644726-b3fb-4a60-bcbc-8000a95dd0b1
+2024-12-17T19:22:08Z INF Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)
+2024-12-17T19:22:08Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-17T19:22:08Z INF Settings: map[autoupdate-freq:24h0m0s pidfile:/var/run/cloudflared.pid token:*****]
+2024-12-17T19:22:08Z INF cloudflared will not automatically update if installed by a package manager.
+2024-12-17T19:22:08Z INF Generated Connector ID: ffaac4f2-b16c-473e-be72-557ca296342d
+2024-12-17T19:22:08Z INF Initial protocol quic
+2024-12-17T19:22:08Z INF ICMP proxy will use 172.17.0.2 as source for IPv4
+2024-12-17T19:22:08Z INF ICMP proxy will use ::1 in zone lo as source for IPv6
+2024-12-17T19:22:08Z WRN The user running cloudflared process has a GID (group ID) that is not within ping_group_range. You might need to add that user to a group within that range, or instead update the range to encompass a group the user is already in by modifying /proc/sys/net/ipv4/ping_group_range. Otherwise cloudflared will not be able to ping this network error="Group ID 0 is not between ping group 65534 to 65534"
+2024-12-17T19:22:08Z WRN ICMP proxy feature is disabled error="cannot create ICMPv4 proxy: Group ID 0 is not between ping group 65534 to 65534 nor ICMPv6 proxy: socket: permission denied"
+2024-12-17T19:22:08Z ERR Error opening metrics server listener error="failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host"
+Error opening metrics server listener: failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host
+2024-12-17T19:22:17Z INF Starting tunnel tunnelID=9f644726-b3fb-4a60-bcbc-8000a95dd0b1
+2024-12-17T19:22:17Z INF Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)
+2024-12-17T19:22:17Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-17T19:22:17Z INF Settings: map[autoupdate-freq:24h0m0s pidfile:/var/run/cloudflared.pid token:*****]
+2024-12-17T19:22:17Z INF Generated Connector ID: 6f34e084-2f7c-4cc7-8359-b51a8c8da8c2
+2024-12-17T19:22:17Z INF cloudflared will not automatically update if installed by a package manager.
+2024-12-17T19:22:17Z INF Initial protocol quic
+2024-12-17T19:22:17Z INF ICMP proxy will use 172.17.0.2 as source for IPv4
+2024-12-17T19:22:17Z INF ICMP proxy will use ::1 in zone lo as source for IPv6
+2024-12-17T19:22:17Z WRN The user running cloudflared process has a GID (group ID) that is not within ping_group_range. You might need to add that user to a group within that range, or instead update the range to encompass a group the user is already in by modifying /proc/sys/net/ipv4/ping_group_range. Otherwise cloudflared will not be able to ping this network error="Group ID 0 is not between ping group 65534 to 65534"
+2024-12-17T19:22:17Z WRN ICMP proxy feature is disabled error="cannot create ICMPv4 proxy: Group ID 0 is not between ping group 65534 to 65534 nor ICMPv6 proxy: socket: permission denied"
+2024-12-17T19:22:17Z ERR Error opening metrics server listener error="failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host"
+Error opening metrics server listener: failed to listen to default metrics address: lookup localhost on 10.0.2.3:53: no such host
+2024-12-17T19:28:28Z INF Starting tunnel tunnelID=9f644726-b3fb-4a60-bcbc-8000a95dd0b1
+2024-12-17T19:28:28Z INF Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)
+2024-12-17T19:28:28Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-17T19:28:28Z INF Settings: map[autoupdate-freq:24h0m0s pidfile:/var/run/cloudflared.pid token:*****]
+2024-12-17T19:28:28Z INF Generated Connector ID: 2e3a20d4-99f6-4aa3-a298-bb7b81759da4
+2024-12-17T19:28:28Z INF cloudflared will not automatically update if installed by a package manager.
+2024-12-17T19:28:28Z INF Initial protocol quic
+2024-12-17T19:28:28Z INF ICMP proxy will use 172.17.0.2 as source for IPv4
+2024-12-17T19:28:28Z INF ICMP proxy will use ::1 in zone lo as source for IPv6
+2024-12-17T19:28:28Z WRN The user running cloudflared process has a GID (group ID) that is not within ping_group_range. You might need to add that user to a group within that range, or instead update the range to encompass a group the user is already in by modifying /proc/sys/net/ipv4/ping_group_range. Otherwise cloudflared will not be able to ping this network error="Group ID 0 is not between ping group 65534 to 65534"
+2024-12-17T19:28:28Z WRN ICMP proxy feature is disabled error="cannot create ICMPv4 proxy: Group ID 0 is not between ping group 65534 to 65534 nor ICMPv6 proxy: socket: permission denied"
+2024-12-17T19:28:28Z INF Starting metrics server on 127.0.0.1:20241/metrics
+2024/12/18 02:28:28 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 7168 kiB, got: 416 kiB). See https://github.com/quic-go/quic-go/wiki/UDP-Buffer-Sizes for details.
+2024-12-17T19:28:28Z INF Registered tunnel connection connIndex=0 connection=25716c8f-c274-4d6c-830f-3e547ad2419f event=0 ip=198.41.200.13 location=dfw06 protocol=quic
+2024-12-17T19:28:28Z INF Registered tunnel connection connIndex=1 connection=d22d0a32-5c5e-474b-b71e-76c8e14396ef event=0 ip=198.41.192.167 location=dfw05 protocol=quic
+2024-12-17T19:28:29Z INF Registered tunnel connection connIndex=2 connection=27b04ba4-c409-40cc-99cd-f42a5de073ad event=0 ip=198.41.192.77 location=dfw07 protocol=quic
+2024-12-17T19:28:30Z INF Registered tunnel connection connIndex=3 connection=bd2b2e28-c1bf-46b6-8b8b-0bb81e754bcd event=0 ip=198.41.200.73 location=dfw06 protocol=quic
+2024-12-17T19:28:33Z INF Updated to new configuration config="{\"ingress\":[{\"hostname\":\"learnsosmed.kortekslol.my.id\",\"originRequest\":{},\"service\":\"http://192.168.16.2:8000\"},{\"service\":\"http_status:404\"}],\"warp-routing\":{\"enabled\":false}}" version=4
+2024-12-17T19:32:51Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.13
+2024-12-17T19:32:51Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.13
+2024-12-17T19:32:51Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.13
+2024-12-17T19:32:51Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.167
+2024-12-17T19:32:51Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.167
+2024-12-17T19:32:51Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.167
+2024-12-17T19:32:52Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:32:52Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:32:52Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:32:52Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:32:52Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:32:52Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:32:52Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T19:32:53Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-17T19:32:53Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-17T19:32:53Z INF Registered tunnel connection connIndex=0 connection=9c775053-a6a8-403a-ad10-cc384ac8887c event=0 ip=198.41.200.33 location=dfw08 protocol=quic
+2024-12-17T19:33:02Z INF Registered tunnel connection connIndex=2 connection=2570c77c-ee97-4500-b1ef-9f8dd4d472d5 event=0 ip=198.41.192.77 location=dfw09 protocol=quic
+2024-12-17T19:33:02Z INF Registered tunnel connection connIndex=1 connection=5df71c99-278f-4475-aac8-cb4817e41d43 event=0 ip=198.41.192.167 location=dfw01 protocol=quic
+2024-12-17T19:33:02Z INF Registered tunnel connection connIndex=3 connection=073d910e-5817-41d8-94bf-2d8212850b98 event=0 ip=198.41.200.73 location=dfw08 protocol=quic
+2024-12-17T19:38:57Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.167
+2024-12-17T19:38:57Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.167
+2024-12-17T19:38:57Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.167
+2024-12-17T19:38:57Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.33
+2024-12-17T19:38:57Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.33
+2024-12-17T19:38:57Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.33
+2024-12-17T19:38:58Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:38:58Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:38:58Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:38:58Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:38:58Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:38:58Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:38:58Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T19:38:58Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-17T19:38:59Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-17T19:38:59Z INF Registered tunnel connection connIndex=0 connection=e7aee613-45a4-4dc1-8e35-0e415265e49a event=0 ip=198.41.200.53 location=dfw06 protocol=quic
+2024-12-17T19:39:07Z INF Registered tunnel connection connIndex=3 connection=1b7948a8-20eb-4ea2-ade6-7ed1bf45fa11 event=0 ip=198.41.200.73 location=dfw06 protocol=quic
+2024-12-17T19:39:07Z INF Registered tunnel connection connIndex=1 connection=49df54e4-9114-4eb5-8fc4-9eb792f573a2 event=0 ip=198.41.192.167 location=dfw05 protocol=quic
+2024-12-17T19:39:07Z INF Registered tunnel connection connIndex=2 connection=17b650c4-43da-4b43-a155-f054ecfbd8f1 event=0 ip=198.41.192.77 location=dfw07 protocol=quic
+2024-12-17T19:45:04Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.167
+2024-12-17T19:45:04Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.167
+2024-12-17T19:45:04Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.167
+2024-12-17T19:45:05Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:45:05Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:45:05Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:45:05Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:45:05Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:45:05Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:45:05Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-17T19:45:05Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-17T19:45:05Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.53
+2024-12-17T19:45:06Z ERR Connection terminated error="timeout: no recent network activity" connIndex=1
+2024-12-17T19:45:06Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-17T19:45:06Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0
+2024-12-17T19:45:06Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T19:45:09Z INF Registered tunnel connection connIndex=1 connection=872e0d9c-35dd-4703-84b0-20966d3e8558 event=0 ip=198.41.192.227 location=dfw05 protocol=quic
+2024-12-17T19:45:09Z INF Registered tunnel connection connIndex=0 connection=84de8630-9942-460f-91a3-a92e3f6d58a3 event=0 ip=198.41.200.53 location=dfw08 protocol=quic
+2024-12-17T19:45:09Z INF Registered tunnel connection connIndex=2 connection=19fa5e53-e608-47f3-8400-305bfe0e6d16 event=0 ip=198.41.192.77 location=dfw01 protocol=quic
+2024-12-17T19:45:09Z INF Registered tunnel connection connIndex=3 connection=05c7f9c7-7397-44ea-a236-aa861b085cd1 event=0 ip=198.41.200.73 location=dfw08 protocol=quic
+2024-12-17T19:51:10Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-17T19:51:10Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-17T19:51:10Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.53
+2024-12-17T19:51:10Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:51:10Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:51:10Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:51:10Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:51:10Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:51:10Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:51:10Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.227
+2024-12-17T19:51:10Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.227
+2024-12-17T19:51:10Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.227
+2024-12-17T19:51:10Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-17T19:51:10Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-17T19:51:11Z ERR Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-17T19:51:11Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T19:51:28Z INF Registered tunnel connection connIndex=2 connection=4f4feb46-a154-4425-9399-67c92e191e72 event=0 ip=198.41.192.77 location=dfw07 protocol=quic
+2024-12-17T19:51:28Z INF Registered tunnel connection connIndex=3 connection=a2844cb1-b46f-4189-a302-69f55693fc65 event=0 ip=198.41.200.73 location=dfw06 protocol=quic
+2024-12-17T19:51:28Z INF Registered tunnel connection connIndex=1 connection=3854b688-48eb-4360-bd98-a4138b760706 event=0 ip=198.41.192.227 location=dfw07 protocol=quic
+2024-12-17T19:51:28Z INF Registered tunnel connection connIndex=0 connection=e0259530-3d3e-4b59-8679-e6ca0aed44dd event=0 ip=198.41.200.193 location=dfw08 protocol=quic
+2024-12-17T19:55:34Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 192.168.16.2:8000: connect: connection refused" connIndex=1 event=1 ingressRule=0 originService=http://192.168.16.2:8000
+2024-12-17T19:55:34Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 192.168.16.2:8000: connect: connection refused" connIndex=1 dest=https://learnsosmed.kortekslol.my.id/ event=0 ip=198.41.192.227 type=http
+2024-12-17T19:55:37Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 192.168.16.2:8000: connect: connection refused" connIndex=1 event=1 ingressRule=0 originService=http://192.168.16.2:8000
+2024-12-17T19:55:37Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 192.168.16.2:8000: connect: connection refused" connIndex=1 dest=https://learnsosmed.kortekslol.my.id/ event=0 ip=198.41.192.227 type=http
+2024-12-17T19:57:16Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.193
+2024-12-17T19:57:16Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.193
+2024-12-17T19:57:16Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.193
+2024-12-17T19:57:16Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:57:16Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:57:16Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T19:57:17Z WRN Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-17T19:57:17Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.227
+2024-12-17T19:57:17Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.227
+2024-12-17T19:57:17Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.227
+2024-12-17T19:57:17Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:57:17Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:57:17Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T19:57:17Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-17T19:57:17Z ERR Connection terminated error="timeout: no recent network activity" connIndex=3
+2024-12-17T19:57:18Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-17T19:57:28Z INF Registered tunnel connection connIndex=3 connection=c23901bb-6bc5-4ae8-8df4-44926b606130 event=0 ip=198.41.200.113 location=dfw06 protocol=quic
+2024-12-17T19:57:28Z INF Registered tunnel connection connIndex=1 connection=7184aca1-683a-4a6c-8ee7-a809374fd595 event=0 ip=198.41.192.227 location=dfw09 protocol=quic
+2024-12-17T19:57:28Z INF Registered tunnel connection connIndex=2 connection=8ab2512d-a039-4b80-aa7b-a0baa64f651a event=0 ip=198.41.192.77 location=dfw05 protocol=quic
+2024-12-17T19:57:28Z INF Registered tunnel connection connIndex=0 connection=9b41cb59-3ba0-4824-aced-b0143cd14896 event=0 ip=198.41.200.63 location=dfw08 protocol=quic
+2024-12-17T20:03:24Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.63
+2024-12-17T20:03:24Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.63
+2024-12-17T20:03:24Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.63
+2024-12-17T20:03:25Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:03:25Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:03:25Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:03:25Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.227
+2024-12-17T20:03:25Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.227
+2024-12-17T20:03:25Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.227
+2024-12-17T20:03:25Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T20:03:25Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T20:03:25Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T20:03:25Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T20:03:25Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-17T20:03:25Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-17T20:03:26Z ERR Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-17T20:03:36Z INF Registered tunnel connection connIndex=3 connection=2f1b4f8b-0a01-4fd1-9667-084614e3f511 event=0 ip=198.41.200.113 location=dfw06 protocol=quic
+2024-12-17T20:03:37Z INF Registered tunnel connection connIndex=1 connection=626f5e43-5e48-4581-9f68-4f93c3499c2c event=0 ip=198.41.192.227 location=dfw07 protocol=quic
+2024-12-17T20:03:37Z INF Registered tunnel connection connIndex=2 connection=c5936e3d-1413-4e08-816b-3c49e4d1e1cc event=0 ip=198.41.192.77 location=dfw07 protocol=quic
+2024-12-17T20:03:37Z INF Registered tunnel connection connIndex=0 connection=7aa294b0-fa72-4b90-afdb-61f9a59a305e event=0 ip=198.41.200.73 location=dfw06 protocol=quic
+2024-12-17T20:14:37Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T20:14:37Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T20:14:37Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T20:14:37Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.73
+2024-12-17T20:14:37Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.73
+2024-12-17T20:14:37Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.73
+2024-12-17T20:14:37Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.227
+2024-12-17T20:14:37Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.227
+2024-12-17T20:14:37Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.227
+2024-12-17T20:14:37Z WRN Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-17T20:14:37Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:14:37Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:14:37Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:14:37Z ERR Connection terminated error="timeout: no recent network activity" connIndex=1
+2024-12-17T20:14:38Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T20:14:38Z ERR Connection terminated error="timeout: no recent network activity" connIndex=2
+2024-12-17T20:14:49Z INF Registered tunnel connection connIndex=2 connection=daa158f6-a0f9-4a0e-9082-9c333a04a360 event=0 ip=198.41.192.37 location=dfw01 protocol=quic
+2024-12-17T20:14:49Z INF Registered tunnel connection connIndex=0 connection=d4ec9d88-41f1-4a7f-b43e-474d5ec5f291 event=0 ip=198.41.200.193 location=dfw08 protocol=quic
+2024-12-17T20:14:49Z INF Registered tunnel connection connIndex=3 connection=d06b0814-b02f-4207-8803-733191d21bde event=0 ip=198.41.200.113 location=dfw06 protocol=quic
+2024-12-17T20:14:49Z INF Registered tunnel connection connIndex=1 connection=124b8b54-9af7-412d-ba14-d161f29104b7 event=0 ip=198.41.192.77 location=dfw11 protocol=quic
+2024-12-17T20:20:42Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.193
+2024-12-17T20:20:42Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.193
+2024-12-17T20:20:42Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.193
+2024-12-17T20:20:42Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:20:42Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:20:42Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:20:42Z WRN Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-17T20:20:42Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-17T20:20:42Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-17T20:20:42Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.77
+2024-12-17T20:20:43Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.37
+2024-12-17T20:20:43Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.37
+2024-12-17T20:20:43Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.37
+2024-12-17T20:20:43Z ERR Connection terminated error="timeout: no recent network activity" connIndex=1
+2024-12-17T20:20:43Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-17T20:20:44Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T20:21:01Z INF Registered tunnel connection connIndex=3 connection=44e3ad63-55cf-47c6-b2d9-4e08ac1af259 event=0 ip=198.41.200.113 location=dfw06 protocol=quic
+2024-12-17T20:21:01Z INF Registered tunnel connection connIndex=0 connection=cc532eb7-7dd3-4dac-a0f5-f8055b380fda event=0 ip=198.41.200.73 location=dfw08 protocol=quic
+2024-12-17T20:21:01Z INF Registered tunnel connection connIndex=1 connection=65d3209a-f8ed-44ef-bc96-917bc4476b3c event=0 ip=198.41.192.107 location=dfw05 protocol=quic
+2024-12-17T20:21:01Z INF Registered tunnel connection connIndex=2 connection=2a5ae138-612c-481b-9a6f-994163130f91 event=0 ip=198.41.192.37 location=dfw09 protocol=quic
+2024-12-17T20:26:49Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.107
+2024-12-17T20:26:49Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.107
+2024-12-17T20:26:49Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.107
+2024-12-17T20:26:49Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:26:49Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:26:49Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:26:49Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.37
+2024-12-17T20:26:49Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.37
+2024-12-17T20:26:49Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.37
+2024-12-17T20:26:49Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.73
+2024-12-17T20:26:49Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.73
+2024-12-17T20:26:49Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.73
+2024-12-17T20:26:50Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T20:26:50Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0
+2024-12-17T20:26:50Z ERR Connection terminated error="timeout: no recent network activity" connIndex=1
+2024-12-17T20:26:51Z ERR Connection terminated error="timeout: no recent network activity" connIndex=2
+2024-12-17T20:27:07Z INF Registered tunnel connection connIndex=3 connection=23e6db6a-42c0-4b6c-8fc1-286d475d7057 event=0 ip=198.41.200.113 location=dfw06 protocol=quic
+2024-12-17T20:27:07Z INF Registered tunnel connection connIndex=2 connection=994c035a-e01a-4422-8362-fe1f307311f6 event=0 ip=198.41.192.67 location=dfw01 protocol=quic
+2024-12-17T20:27:07Z INF Registered tunnel connection connIndex=1 connection=09b7664d-7f4a-4df6-bfb8-19ee6655b60f event=0 ip=198.41.192.77 location=dfw11 protocol=quic
+2024-12-17T20:27:07Z INF Registered tunnel connection connIndex=0 connection=ab01f4ca-e562-4636-8ed1-05a1221114d4 event=0 ip=198.41.200.73 location=dfw06 protocol=quic
+2024-12-17T20:32:56Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.73
+2024-12-17T20:32:56Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.73
+2024-12-17T20:32:56Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.73
+2024-12-17T20:32:56Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:32:56Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:32:56Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:32:56Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-17T20:32:56Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-17T20:32:56Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.77
+2024-12-17T20:32:56Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.67
+2024-12-17T20:32:56Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.67
+2024-12-17T20:32:56Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.67
+2024-12-17T20:32:57Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T20:32:57Z ERR Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-17T20:32:57Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-17T20:32:58Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-17T20:33:08Z INF Registered tunnel connection connIndex=0 connection=25651c49-3fad-4d21-8c9f-b61b0d0474f9 event=0 ip=198.41.200.53 location=dfw06 protocol=quic
+2024-12-17T20:33:08Z INF Registered tunnel connection connIndex=1 connection=3372ddb3-4b3d-4357-9b6f-10eccfed1d58 event=0 ip=198.41.192.77 location=dfw05 protocol=quic
+2024-12-17T20:33:08Z INF Registered tunnel connection connIndex=3 connection=f8b79284-e8ac-4cd2-9a33-c1c0ca4b6e1f event=0 ip=198.41.200.113 location=dfw08 protocol=quic
+2024-12-17T20:33:08Z INF Registered tunnel connection connIndex=2 connection=58b6913e-f522-48c6-83d6-fea2b67347cd event=0 ip=198.41.192.67 location=dfw05 protocol=quic
+2024-12-17T20:36:10Z INF Updated to new configuration config="{\"ingress\":[{\"hostname\":\"learnsosmed.kortekslol.my.id\",\"originRequest\":{},\"service\":\"http://192.168.16.2\"},{\"service\":\"http_status:404\"}],\"warp-routing\":{\"enabled\":false}}" version=5
+2024-12-17T20:39:03Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.67
+2024-12-17T20:39:03Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.67
+2024-12-17T20:39:03Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.67
+2024-12-17T20:39:03Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-17T20:39:03Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-17T20:39:03Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.77
+2024-12-17T20:39:04Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:39:04Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:39:04Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.113
+2024-12-17T20:39:04Z ERR Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-17T20:39:04Z ERR Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-17T20:39:04Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.53
+2024-12-17T20:39:04Z ERR Connection terminated error="timeout: no recent network activity" connIndex=3
+2024-12-17T20:39:04Z ERR Connection terminated error="timeout: no recent network activity" connIndex=2
+2024-12-17T20:39:04Z ERR Connection terminated error="timeout: no recent network activity" connIndex=1
+2024-12-17T20:39:05Z ERR Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-17T20:39:14Z INF Registered tunnel connection connIndex=3 connection=8acf8dec-ba02-4bbd-b564-6c0e6192f5b5 event=0 ip=198.41.200.73 location=dfw06 protocol=quic
+2024-12-17T20:39:15Z INF Registered tunnel connection connIndex=0 connection=3ec01450-3624-4628-b9d5-4f8e05843f7e event=0 ip=198.41.200.13 location=dfw06 protocol=quic
+2024-12-17T20:39:15Z INF Registered tunnel connection connIndex=2 connection=aec2106e-8058-4e74-b6ed-a1228dd7ecd6 event=0 ip=198.41.192.27 location=dfw07 protocol=quic
+2024-12-17T20:39:15Z INF Registered tunnel connection connIndex=1 connection=3eb871cc-8c79-48c3-b3d1-fb57cee5f70c event=0 ip=198.41.192.37 location=dfw09 protocol=quic
+2024-12-17T20:45:10Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T20:45:10Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T20:45:10Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T20:45:10Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.27
+2024-12-17T20:45:10Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.27
+2024-12-17T20:45:10Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.27
+2024-12-17T20:45:10Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.37
+2024-12-17T20:45:10Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.37
+2024-12-17T20:45:10Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.37
+2024-12-17T20:45:11Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.13
+2024-12-17T20:45:11Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.13
+2024-12-17T20:45:11Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.13
+2024-12-17T20:45:11Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T20:45:11Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0
+2024-12-17T20:45:12Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-17T20:45:12Z ERR Connection terminated error="timeout: no recent network activity" connIndex=2
+2024-12-17T20:45:12Z INF Registered tunnel connection connIndex=3 connection=60d6af0f-aba3-4229-a14f-a13bff9359c2 event=0 ip=198.41.200.73 location=dfw06 protocol=quic
+2024-12-17T20:45:12Z INF Registered tunnel connection connIndex=0 connection=d216d263-4112-46bd-9c67-5afea84f9808 event=0 ip=198.41.200.13 location=dfw06 protocol=quic
+2024-12-17T20:45:12Z INF Registered tunnel connection connIndex=2 connection=63f5d486-8673-4c63-8ee4-a47c777b0020 event=0 ip=198.41.192.107 location=dfw05 protocol=quic
+2024-12-17T20:45:12Z INF Registered tunnel connection connIndex=1 connection=7908cb3d-6a8f-43b9-85d5-99bc2f62ef94 event=0 ip=198.41.192.37 location=dfw11 protocol=quic
+2024-12-17T20:51:18Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.37
+2024-12-17T20:51:18Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.37
+2024-12-17T20:51:18Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.37
+2024-12-17T20:51:19Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.13
+2024-12-17T20:51:19Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.13
+2024-12-17T20:51:19Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.13
+2024-12-17T20:51:19Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.107
+2024-12-17T20:51:19Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.107
+2024-12-17T20:51:19Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.107
+2024-12-17T20:51:19Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T20:51:19Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T20:51:19Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T20:51:20Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-17T20:51:20Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-17T20:51:20Z ERR Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-17T20:51:21Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T20:51:35Z INF Registered tunnel connection connIndex=3 connection=5b5c2fa3-c837-4b0e-a14f-e09745d64044 event=0 ip=198.41.200.73 location=dfw06 protocol=quic
+2024-12-17T20:51:36Z INF Registered tunnel connection connIndex=2 connection=a4f738ee-dc85-442c-b1c0-246be874b6e7 event=0 ip=198.41.192.107 location=dfw11 protocol=quic
+2024-12-17T20:51:36Z INF Registered tunnel connection connIndex=0 connection=368c7b21-d1ee-45cf-947e-425e2e4bcdd8 event=0 ip=198.41.200.193 location=dfw08 protocol=quic
+2024-12-17T20:51:36Z INF Registered tunnel connection connIndex=1 connection=dc97def1-1ac8-4b35-a1b5-c7775da3d974 event=0 ip=198.41.192.37 location=dfw09 protocol=quic
+2024-12-17T20:57:26Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.37
+2024-12-17T20:57:26Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.37
+2024-12-17T20:57:26Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.37
+2024-12-17T20:57:26Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.193
+2024-12-17T20:57:26Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.193
+2024-12-17T20:57:26Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.193
+2024-12-17T20:57:26Z WRN Connection terminated error="timeout: no recent network activity" connIndex=1
+2024-12-17T20:57:26Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T20:57:26Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T20:57:26Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T20:57:26Z ERR Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.107
+2024-12-17T20:57:26Z ERR Serve tunnel error error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.107
+2024-12-17T20:57:26Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.107
+2024-12-17T20:57:27Z ERR Connection terminated error="timeout: no recent network activity" connIndex=2
+2024-12-17T20:57:28Z ERR Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-17T20:57:28Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T20:57:46Z INF Registered tunnel connection connIndex=2 connection=602eac12-238a-402c-91e0-630b36c4a85d event=0 ip=198.41.192.37 location=dfw09 protocol=quic
+2024-12-17T20:57:46Z INF Registered tunnel connection connIndex=1 connection=e5ffecba-36a9-47e5-a561-65c561e5913a event=0 ip=198.41.192.77 location=dfw01 protocol=quic
+2024-12-17T20:57:46Z INF Registered tunnel connection connIndex=0 connection=d482bb6d-c9da-4eed-b6cc-5b080c34e05d event=0 ip=198.41.200.233 location=dfw06 protocol=quic
+2024-12-17T20:57:46Z INF Registered tunnel connection connIndex=3 connection=d06022cb-4ac7-49f4-a03a-0b186a17c494 event=0 ip=198.41.200.73 location=dfw08 protocol=quic
+2024-12-17T20:57:52Z WRN Failed to serve tunnel connection error="Application error 0x0 (remote)" connIndex=2 event=0 ip=198.41.192.37
+2024-12-17T20:57:52Z WRN Serve tunnel error error="Application error 0x0 (remote)" connIndex=2 event=0 ip=198.41.192.37
+2024-12-17T20:57:52Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.37
+2024-12-17T20:57:53Z WRN Connection terminated error="Application error 0x0 (remote)" connIndex=2
+2024-12-17T20:57:59Z INF Registered tunnel connection connIndex=2 connection=161cf1f8-9db4-4732-af27-173691a99c77 event=0 ip=198.41.192.37 location=dfw09 protocol=quic
+2024-12-17T21:03:33Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.37
+2024-12-17T21:03:33Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.37
+2024-12-17T21:03:33Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.37
+2024-12-17T21:03:33Z WRN Connection terminated error="timeout: no recent network activity" connIndex=2
+2024-12-17T21:03:33Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-17T21:03:33Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-17T21:03:33Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.77
+2024-12-17T21:03:33Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T21:03:33Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T21:03:33Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.73
+2024-12-17T21:03:33Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.233
+2024-12-17T21:03:33Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.233
+2024-12-17T21:03:33Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.233
+2024-12-17T21:03:34Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T21:03:34Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-17T21:03:35Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0
+2024-12-17T21:03:44Z INF Registered tunnel connection connIndex=0 connection=4e56438e-c572-4bcf-a648-9a20aeb12ca2 event=0 ip=198.41.200.233 location=dfw06 protocol=quic
+2024-12-17T21:03:44Z INF Registered tunnel connection connIndex=3 connection=a5d98e87-839e-445a-9baa-35c098d477ee event=0 ip=198.41.200.73 location=dfw06 protocol=quic
+2024-12-17T21:03:44Z INF Registered tunnel connection connIndex=1 connection=3b06c581-4ac4-42d2-8a45-762ed52d482b event=0 ip=198.41.192.77 location=dfw11 protocol=quic
+2024-12-17T21:03:44Z INF Registered tunnel connection connIndex=2 connection=5a1bf7b9-6e88-4376-8044-31c1f9c7b190 event=0 ip=198.41.192.107 location=dfw11 protocol=quic
+2024-12-17T21:38:54Z INF Starting tunnel tunnelID=9f644726-b3fb-4a60-bcbc-8000a95dd0b1
+2024-12-17T21:38:54Z INF Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)
+2024-12-17T21:38:54Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-17T21:38:54Z INF Settings: map[autoupdate-freq:24h0m0s pidfile:/var/run/cloudflared.pid token:*****]
+2024-12-17T21:38:54Z INF Generated Connector ID: 4a9cb7d9-0374-4b0b-99e0-a8a8addc1943
+2024-12-17T21:38:54Z INF cloudflared will not automatically update if installed by a package manager.
+2024-12-17T21:38:54Z INF Initial protocol quic
+2024-12-17T21:38:54Z INF ICMP proxy will use 172.17.0.2 as source for IPv4
+2024-12-17T21:38:54Z INF ICMP proxy will use ::1 in zone lo as source for IPv6
+2024-12-17T21:38:54Z WRN The user running cloudflared process has a GID (group ID) that is not within ping_group_range. You might need to add that user to a group within that range, or instead update the range to encompass a group the user is already in by modifying /proc/sys/net/ipv4/ping_group_range. Otherwise cloudflared will not be able to ping this network error="Group ID 0 is not between ping group 65534 to 65534"
+2024-12-17T21:38:54Z WRN ICMP proxy feature is disabled error="cannot create ICMPv4 proxy: Group ID 0 is not between ping group 65534 to 65534 nor ICMPv6 proxy: socket: permission denied"
+2024-12-17T21:38:54Z INF Starting metrics server on 127.0.0.1:20241/metrics
+2024/12/18 04:38:54 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 7168 kiB, got: 416 kiB). See https://github.com/quic-go/quic-go/wiki/UDP-Buffer-Sizes for details.
+2024-12-17T21:38:54Z INF Registered tunnel connection connIndex=0 connection=19588893-8fb4-4345-bee9-5bcdd7ec6322 event=0 ip=198.41.200.113 location=dfw06 protocol=quic
+2024-12-17T21:38:54Z INF Registered tunnel connection connIndex=1 connection=c363d5b9-8d4a-4f4b-80f4-9b2953873a8b event=0 ip=198.41.192.47 location=dfw07 protocol=quic
+2024-12-17T21:38:55Z INF Registered tunnel connection connIndex=2 connection=16d0332c-294e-4937-818e-2077ec8b4972 event=0 ip=198.41.192.57 location=dfw05 protocol=quic
+2024-12-17T21:38:56Z INF Updated to new configuration config="{\"ingress\":[{\"hostname\":\"learnsosmed.kortekslol.my.id\",\"originRequest\":{},\"service\":\"http://192.168.16.2\"},{\"service\":\"http_status:404\"}],\"warp-routing\":{\"enabled\":false}}" version=5
+2024-12-17T21:38:56Z INF Registered tunnel connection connIndex=3 connection=e4292be5-c03e-42d5-a25d-dcac9b1c2e0e event=0 ip=198.41.200.53 location=dfw06 protocol=quic
+2024-12-17T21:40:15Z ERR  error="Incoming request ended abruptly: context canceled" connIndex=2 event=1 ingressRule=0 originService=http://192.168.16.2
+2024-12-17T21:40:15Z ERR Request failed error="Incoming request ended abruptly: context canceled" connIndex=2 dest=https://learnsosmed.kortekslol.my.id/ event=0 ip=198.41.192.57 type=http
+2024-12-17T21:40:15Z ERR  error="Incoming request ended abruptly: context canceled" connIndex=2 event=1 ingressRule=0 originService=http://192.168.16.2
+2024-12-17T21:40:15Z ERR Request failed error="Incoming request ended abruptly: context canceled" connIndex=2 dest=https://learnsosmed.kortekslol.my.id/postbyfollowing/ event=0 ip=198.41.192.57 type=http
+2024-12-17T21:40:15Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.57
+2024-12-17T21:40:15Z ERR  error="Incoming request ended abruptly: context canceled" connIndex=2 event=1 ingressRule=0 originService=http://192.168.16.2
+2024-12-17T21:40:15Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.57
+2024-12-17T21:40:15Z ERR Request failed error="Incoming request ended abruptly: context canceled" connIndex=2 dest=https://learnsosmed.kortekslol.my.id/postbyfollowing/ event=0 ip=198.41.192.57 type=http
+2024-12-17T21:40:15Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.57
+2024-12-17T21:40:15Z ERR  error="Incoming request ended abruptly: context canceled" connIndex=0 event=1 ingressRule=0 originService=http://192.168.16.2
+2024-12-17T21:40:15Z ERR Request failed error="Incoming request ended abruptly: context canceled" connIndex=0 dest=https://learnsosmed.kortekslol.my.id/postbyfollowing/ event=0 ip=198.41.200.113 type=http
+2024-12-17T21:40:15Z ERR  error="Incoming request ended abruptly: context canceled" connIndex=0 event=1 ingressRule=0 originService=http://192.168.16.2
+2024-12-17T21:40:15Z ERR Request failed error="Incoming request ended abruptly: context canceled" connIndex=0 dest=https://learnsosmed.kortekslol.my.id/postbyfollowing/ event=0 ip=198.41.200.113 type=http
+2024-12-17T21:40:15Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.113
+2024-12-17T21:40:15Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.113
+2024-12-17T21:40:15Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.113
+2024-12-17T21:40:16Z WRN Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-17T21:40:16Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.47
+2024-12-17T21:40:16Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.47
+2024-12-17T21:40:16Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.47
+2024-12-17T21:40:16Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.53
+2024-12-17T21:40:16Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.53
+2024-12-17T21:40:16Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.53
+2024-12-17T21:40:16Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-17T21:40:17Z INF Registered tunnel connection connIndex=0 connection=80eeae56-2987-4625-bbeb-133e554e1000 event=0 ip=198.41.200.73 location=dfw06 protocol=quic
+2024-12-17T21:40:17Z WRN Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-17T21:40:21Z INF Registered tunnel connection connIndex=1 connection=39902313-9ded-4599-af9e-1995a568ba8b event=0 ip=198.41.192.47 location=dfw07 protocol=quic
+2024-12-17T21:40:21Z INF Registered tunnel connection connIndex=2 connection=cab50cd5-7969-44fc-94c4-d127548f35f4 event=0 ip=198.41.192.57 location=dfw05 protocol=quic
+2024-12-17T21:40:21Z INF Registered tunnel connection connIndex=3 connection=781ca604-1071-4b94-a0af-0afba7f90578 event=0 ip=198.41.200.53 location=dfw08 protocol=quic
+2024-12-17T21:41:38Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 192.168.16.2:80: connect: connection refused" connIndex=2 event=1 ingressRule=0 originService=http://192.168.16.2
+2024-12-17T21:41:38Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 192.168.16.2:80: connect: connection refused" connIndex=2 dest=https://learnsosmed.kortekslol.my.id/ event=0 ip=198.41.192.57 type=http
+2024-12-17T21:41:39Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: EOF" connIndex=0 event=1 ingressRule=0 originService=http://192.168.16.2
+2024-12-17T21:41:39Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: EOF" connIndex=0 dest=https://learnsosmed.kortekslol.my.id/ event=0 ip=198.41.200.73 type=http
+2024-12-17T21:41:39Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: EOF" connIndex=2 event=1 ingressRule=0 originService=http://192.168.16.2
+2024-12-17T21:41:39Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: EOF" connIndex=2 dest=https://learnsosmed.kortekslol.my.id/ event=0 ip=198.41.192.57 type=http
+2024-12-17T21:41:39Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: EOF" connIndex=2 event=1 ingressRule=0 originService=http://192.168.16.2
+2024-12-17T21:41:39Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: EOF" connIndex=2 dest=https://learnsosmed.kortekslol.my.id/ event=0 ip=198.41.192.57 type=http
+2024-12-17T21:41:39Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 192.168.16.2:80: connect: connection refused" connIndex=3 event=1 ingressRule=0 originService=http://192.168.16.2
+2024-12-17T21:41:39Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 192.168.16.2:80: connect: connection refused" connIndex=3 dest=https://learnsosmed.kortekslol.my.id/ event=0 ip=198.41.200.53 type=http
+2024-12-17T21:41:40Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 192.168.16.2:80: connect: connection refused" connIndex=2 event=1 ingressRule=0 originService=http://192.168.16.2
+2024-12-17T21:41:40Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 192.168.16.2:80: connect: connection refused" connIndex=2 dest=https://learnsosmed.kortekslol.my.id/ event=0 ip=198.41.192.57 type=http
+2024-12-17T21:43:37Z INF Updated to new configuration config="{\"ingress\":[{\"hostname\":\"learnsosmed.kortekslol.my.id\",\"originRequest\":{},\"service\":\"http://192.168.16.2:8000\"},{\"service\":\"http_status:404\"}],\"warp-routing\":{\"enabled\":false}}" version=6
+2024-12-17T21:45:35Z INF Starting tunnel tunnelID=9f644726-b3fb-4a60-bcbc-8000a95dd0b1
+2024-12-17T21:45:35Z INF Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)
+2024-12-17T21:45:35Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-17T21:45:35Z INF Settings: map[autoupdate-freq:24h0m0s pidfile:/var/run/cloudflared.pid token:*****]
+2024-12-17T21:45:35Z INF Generated Connector ID: 19ed71be-7952-4ed2-8c9b-eabf17f5c8ef
+2024-12-17T21:45:35Z INF cloudflared will not automatically update if installed by a package manager.
+2024-12-17T21:45:35Z INF Initial protocol quic
+2024-12-17T21:45:35Z INF ICMP proxy will use 172.17.0.2 as source for IPv4
+2024-12-17T21:45:35Z INF ICMP proxy will use ::1 in zone lo as source for IPv6
+2024-12-17T21:45:35Z WRN The user running cloudflared process has a GID (group ID) that is not within ping_group_range. You might need to add that user to a group within that range, or instead update the range to encompass a group the user is already in by modifying /proc/sys/net/ipv4/ping_group_range. Otherwise cloudflared will not be able to ping this network error="Group ID 0 is not between ping group 65534 to 65534"
+2024-12-17T21:45:35Z WRN ICMP proxy feature is disabled error="cannot create ICMPv4 proxy: Group ID 0 is not between ping group 65534 to 65534 nor ICMPv6 proxy: socket: permission denied"
+2024-12-17T21:45:35Z INF Starting metrics server on 127.0.0.1:20241/metrics
+2024/12/18 04:45:35 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 7168 kiB, got: 416 kiB). See https://github.com/quic-go/quic-go/wiki/UDP-Buffer-Sizes for details.
+2024-12-17T21:45:35Z INF Registered tunnel connection connIndex=0 connection=ae596eb0-b357-46e3-bac3-c723af5f21ea event=0 ip=198.41.192.7 location=dfw01 protocol=quic
+2024-12-17T21:45:35Z INF Registered tunnel connection connIndex=1 connection=28c0e8a9-63dc-46dd-a80c-40c488d77e91 event=0 ip=198.41.200.13 location=dfw08 protocol=quic
+2024-12-17T21:45:36Z INF Registered tunnel connection connIndex=2 connection=68e40c2c-83f7-4ec4-a5f0-f7532768dd9b event=0 ip=198.41.192.77 location=dfw07 protocol=quic
+2024-12-17T21:45:37Z WRN No ingress rules were defined in provided config (if any) nor from the cli, cloudflared will return 503 for all incoming HTTP requests
+2024-12-17T21:45:37Z INF Registered tunnel connection connIndex=3 connection=194518cb-c4ee-4cad-a85c-2d0cdd375868 event=0 ip=198.41.200.63 location=dfw08 protocol=quic
+2024-12-17T21:45:38Z INF Updated to new configuration config="{\"ingress\":[{\"hostname\":\"learnsosmed.kortekslol.my.id\",\"originRequest\":{},\"service\":\"http://192.168.16.2:8000\"},{\"service\":\"http_status:404\"}],\"warp-routing\":{\"enabled\":false}}" version=6
+2024-12-17T21:46:22Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.192.7
+2024-12-17T21:46:22Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.192.7
+2024-12-17T21:46:22Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.192.7
+2024-12-17T21:46:23Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.200.13
+2024-12-17T21:46:23Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.200.13
+2024-12-17T21:46:23Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.200.13
+2024-12-17T21:46:23Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.63
+2024-12-17T21:46:23Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.200.63
+2024-12-17T21:46:23Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.200.63
+2024-12-17T21:46:23Z ERR Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T21:46:23Z ERR Serve tunnel error error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T21:46:23Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.192.77
+2024-12-17T21:46:23Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0
+2024-12-17T21:46:24Z ERR Connection terminated error="timeout: no recent network activity" connIndex=1
+2024-12-17T21:46:24Z ERR Connection terminated error="timeout: no recent network activity" connIndex=2
+2024-12-17T21:46:25Z ERR Connection terminated error="timeout: no recent network activity" connIndex=3
+2024-12-17T21:46:28Z INF Registered tunnel connection connIndex=0 connection=39be26b5-1775-4668-af87-d2984aef1e35 event=0 ip=198.41.192.7 location=dfw05 protocol=quic
+2024-12-17T21:46:28Z INF Registered tunnel connection connIndex=1 connection=ae654b71-2fd3-4b4b-9fd7-659a649bc362 event=0 ip=198.41.200.233 location=dfw08 protocol=quic
+2024-12-17T21:46:28Z INF Registered tunnel connection connIndex=3 connection=bed26241-be5e-47ce-bf0c-da72b47808cc event=0 ip=198.41.200.113 location=dfw06 protocol=quic
+2024-12-17T21:46:28Z INF Registered tunnel connection connIndex=2 connection=fd2a7f62-ff0a-473f-a883-81b51fd4cd60 event=0 ip=198.41.192.167 location=dfw09 protocol=quic
+2024-12-17T22:30:12Z INF Starting tunnel tunnelID=9f644726-b3fb-4a60-bcbc-8000a95dd0b1
+2024-12-17T22:30:12Z INF Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)
+2024-12-17T22:30:12Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-17T22:30:12Z INF Settings: map[autoupdate-freq:24h0m0s pidfile:/var/run/cloudflared.pid token:*****]
+2024-12-17T22:30:12Z INF Generated Connector ID: 454c5b85-6671-41a7-912f-242425dffa52
+2024-12-17T22:30:12Z INF cloudflared will not automatically update if installed by a package manager.
+2024-12-17T22:30:12Z INF Initial protocol quic
+2024-12-17T22:30:12Z INF ICMP proxy will use 172.17.0.2 as source for IPv4
+2024-12-17T22:30:12Z INF ICMP proxy will use ::1 in zone lo as source for IPv6
+2024-12-17T22:30:12Z WRN The user running cloudflared process has a GID (group ID) that is not within ping_group_range. You might need to add that user to a group within that range, or instead update the range to encompass a group the user is already in by modifying /proc/sys/net/ipv4/ping_group_range. Otherwise cloudflared will not be able to ping this network error="Group ID 0 is not between ping group 65534 to 65534"
+2024-12-17T22:30:12Z WRN ICMP proxy feature is disabled error="cannot create ICMPv4 proxy: Group ID 0 is not between ping group 65534 to 65534 nor ICMPv6 proxy: socket: permission denied"
+2024-12-17T22:30:12Z INF Starting metrics server on 127.0.0.1:20241/metrics
+2024/12/18 05:30:12 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 7168 kiB, got: 416 kiB). See https://github.com/quic-go/quic-go/wiki/UDP-Buffer-Sizes for details.
+2024-12-17T22:30:12Z INF Registered tunnel connection connIndex=0 connection=7b5e74e7-38c5-46ce-8da7-5c358b8f2aa1 event=0 ip=198.41.200.43 location=dfw06 protocol=quic
+2024-12-17T22:30:13Z INF Registered tunnel connection connIndex=1 connection=24e7e099-6c37-406e-b30a-b6c1b7bec7da event=0 ip=198.41.192.67 location=dfw07 protocol=quic
+2024-12-17T22:30:13Z INF Updated to new configuration config="{\"ingress\":[{\"hostname\":\"learnsosmed.kortekslol.my.id\",\"originRequest\":{},\"service\":\"http://192.168.16.2:8000\"},{\"service\":\"http_status:404\"}],\"warp-routing\":{\"enabled\":false}}" version=6
+2024-12-17T22:30:14Z INF Registered tunnel connection connIndex=2 connection=eb7e0f07-bdd7-40e0-9a92-568c2c242ce9 event=0 ip=198.41.192.47 location=dfw07 protocol=quic
+2024-12-17T22:30:15Z INF Registered tunnel connection connIndex=3 connection=6d212c0b-f504-49de-bcdc-c53c9bf711e4 event=0 ip=198.41.200.23 location=dfw08 protocol=quic
+2024-12-18T06:06:59Z INF Starting tunnel tunnelID=9f644726-b3fb-4a60-bcbc-8000a95dd0b1
+2024-12-18T06:06:59Z INF Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)
+2024-12-18T06:06:59Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-18T06:06:59Z INF Settings: map[autoupdate-freq:24h0m0s pidfile:/var/run/cloudflared.pid token:*****]
+2024-12-18T06:06:59Z INF Generated Connector ID: 210fa886-28f4-40f0-9ce7-e59aab92f7bb
+2024-12-18T06:06:59Z INF cloudflared will not automatically update if installed by a package manager.
+2024-12-18T06:06:59Z INF Initial protocol quic
+2024-12-18T06:06:59Z INF ICMP proxy will use 172.17.0.2 as source for IPv4
+2024-12-18T06:06:59Z INF ICMP proxy will use ::1 in zone lo as source for IPv6
+2024-12-18T06:06:59Z WRN The user running cloudflared process has a GID (group ID) that is not within ping_group_range. You might need to add that user to a group within that range, or instead update the range to encompass a group the user is already in by modifying /proc/sys/net/ipv4/ping_group_range. Otherwise cloudflared will not be able to ping this network error="Group ID 0 is not between ping group 65534 to 65534"
+2024-12-18T06:06:59Z WRN ICMP proxy feature is disabled error="cannot create ICMPv4 proxy: Group ID 0 is not between ping group 65534 to 65534 nor ICMPv6 proxy: socket: permission denied"
+2024-12-18T06:06:59Z INF Starting metrics server on 127.0.0.1:20241/metrics
+2024/12/18 13:06:59 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 7168 kiB, got: 416 kiB). See https://github.com/quic-go/quic-go/wiki/UDP-Buffer-Sizes for details.
+2024-12-18T06:07:00Z INF Registered tunnel connection connIndex=0 connection=d3d394ae-12f1-4f1c-b10c-4bbfd89e15e6 event=0 ip=198.41.200.233 location=dfw06 protocol=quic
+2024-12-18T06:07:00Z INF Registered tunnel connection connIndex=1 connection=798c3032-6765-4bfb-b106-6cecb667c4c9 event=0 ip=198.41.192.47 location=dfw07 protocol=quic
+2024-12-18T06:07:01Z INF Registered tunnel connection connIndex=2 connection=609bd823-93e8-4935-8e3e-c20397c5bcf1 event=0 ip=198.41.200.33 location=dfw06 protocol=quic
+2024-12-18T06:07:02Z INF Registered tunnel connection connIndex=3 connection=6b6e2aef-0583-4ec1-aaa2-0340c794a419 event=0 ip=198.41.192.7 location=dfw05 protocol=quic
+2024-12-18T06:07:03Z INF Updated to new configuration config="{\"ingress\":[{\"hostname\":\"learnsosmed.kortekslol.my.id\",\"originRequest\":{},\"service\":\"http://192.168.16.2:8000\"},{\"service\":\"http_status:404\"}],\"warp-routing\":{\"enabled\":false}}" version=6
+2024-12-18T06:11:17Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.47
+2024-12-18T06:11:17Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.47
+2024-12-18T06:11:17Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.47
+2024-12-18T06:11:18Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.33
+2024-12-18T06:11:18Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.33
+2024-12-18T06:11:18Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.200.33
+2024-12-18T06:11:18Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.7
+2024-12-18T06:11:18Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.7
+2024-12-18T06:11:18Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.192.7
+2024-12-18T06:11:18Z ERR Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.233
+2024-12-18T06:11:18Z ERR Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.233
+2024-12-18T06:11:18Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.233
+2024-12-18T06:11:19Z ERR Connection terminated error="timeout: no recent network activity" connIndex=3
+2024-12-18T06:11:19Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-18T06:11:19Z INF Registered tunnel connection connIndex=0 connection=e2ee6fd8-2aee-4498-9164-2ef3eb64f1ba event=0 ip=198.41.200.33 location=dfw06 protocol=quic
+2024-12-18T06:11:19Z WRN Connection terminated error="timeout: no recent network activity" connIndex=2
+2024-12-18T06:11:32Z INF Registered tunnel connection connIndex=1 connection=e374fd49-8b4a-45fd-91d1-e7aed682096c event=0 ip=198.41.192.47 location=dfw09 protocol=quic
+2024-12-18T06:11:32Z INF Registered tunnel connection connIndex=3 connection=507a9dc2-1af9-4ec8-8879-8b649956b988 event=0 ip=198.41.192.167 location=dfw01 protocol=quic
+2024-12-18T06:11:32Z INF Registered tunnel connection connIndex=2 connection=1414ffd2-d06f-4b3e-b008-920b92ecf4a0 event=0 ip=198.41.200.43 location=dfw08 protocol=quic
+2024-12-18T06:12:02Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: Application error 0x0 (remote)" connIndex=0 event=0 ip=198.41.200.33
+2024-12-18T06:12:02Z WRN Serve tunnel error error="failed to accept QUIC stream: Application error 0x0 (remote)" connIndex=0 event=0 ip=198.41.200.33
+2024-12-18T06:12:02Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.33
+2024-12-18T06:12:03Z WRN Connection terminated error="failed to accept QUIC stream: Application error 0x0 (remote)" connIndex=0
+2024-12-18T06:12:22Z INF Registered tunnel connection connIndex=0 connection=b0abb1f3-7b4c-40ab-9029-d59267ed2420 event=0 ip=198.41.200.33 location=dfw06 protocol=quic
+2024-12-18T06:18:11Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.167
+2024-12-18T06:18:11Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.167
+2024-12-18T06:18:11Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.192.167
+2024-12-18T06:18:11Z WRN Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-18T06:18:12Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.43
+2024-12-18T06:18:12Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.43
+2024-12-18T06:18:12Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.200.43
+2024-12-18T06:18:12Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.47
+2024-12-18T06:18:12Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.47
+2024-12-18T06:18:12Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.47
+2024-12-18T06:18:12Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.33
+2024-12-18T06:18:12Z ERR Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.33
+2024-12-18T06:18:12Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.33
+2024-12-18T06:18:12Z ERR Connection terminated error="timeout: no recent network activity" connIndex=2
+2024-12-18T06:18:13Z ERR Connection terminated error="timeout: no recent network activity" connIndex=1
+2024-12-18T06:18:14Z ERR Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-18T06:18:31Z INF Registered tunnel connection connIndex=0 connection=adbee947-8460-4b0c-ad6b-47ead844091d event=0 ip=198.41.200.53 location=dfw06 protocol=quic
+2024-12-18T06:18:31Z INF Registered tunnel connection connIndex=2 connection=520fbfe3-a179-4120-bb78-723fed1d911e event=0 ip=198.41.200.23 location=dfw08 protocol=quic
+2024-12-18T06:18:31Z INF Registered tunnel connection connIndex=3 connection=a9a96afb-27f3-436e-a4b7-59a497f5afc6 event=0 ip=198.41.192.167 location=dfw01 protocol=quic
+2024-12-18T06:18:31Z INF Registered tunnel connection connIndex=1 connection=972649d1-c382-4f40-b447-e6adad0d2c0e event=0 ip=198.41.192.7 location=dfw09 protocol=quic
+2024-12-18T06:24:18Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.167
+2024-12-18T06:24:18Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.167
+2024-12-18T06:24:18Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.192.167
+2024-12-18T06:24:18Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.23
+2024-12-18T06:24:18Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.23
+2024-12-18T06:24:18Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.200.23
+2024-12-18T06:24:18Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.7
+2024-12-18T06:24:18Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.7
+2024-12-18T06:24:18Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.7
+2024-12-18T06:24:18Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-18T06:24:18Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-18T06:24:18Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.53
+2024-12-18T06:24:18Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-18T06:24:18Z ERR Connection terminated error="timeout: no recent network activity" connIndex=3
+2024-12-18T06:24:19Z ERR Connection terminated error="timeout: no recent network activity" connIndex=2
+2024-12-18T06:24:19Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0
+2024-12-18T06:24:20Z INF Registered tunnel connection connIndex=0 connection=23dca973-ef67-4f53-9fd9-05460d010835 event=0 ip=198.41.200.53 location=dfw08 protocol=quic
+2024-12-18T06:24:20Z INF Registered tunnel connection connIndex=2 connection=0c1dec27-5ad9-4127-89fd-927154e8f3e7 event=0 ip=198.41.200.63 location=dfw08 protocol=quic
+2024-12-18T06:24:20Z INF Registered tunnel connection connIndex=3 connection=96cb0ee8-265a-4375-8984-de9ec9d8d2e4 event=0 ip=198.41.192.37 location=dfw07 protocol=quic
+2024-12-18T06:24:20Z INF Registered tunnel connection connIndex=1 connection=c03a3acc-2af0-4880-9c02-495cf9f6a402 event=0 ip=198.41.192.7 location=dfw11 protocol=quic
+2024-12-18T06:30:24Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-18T06:30:24Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-18T06:30:24Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.53
+2024-12-18T06:30:24Z WRN Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0
+2024-12-18T06:30:25Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.37
+2024-12-18T06:30:25Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.37
+2024-12-18T06:30:25Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.192.37
+2024-12-18T06:30:25Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.7
+2024-12-18T06:30:25Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.7
+2024-12-18T06:30:25Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.7
+2024-12-18T06:30:25Z ERR Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.63
+2024-12-18T06:30:25Z ERR Serve tunnel error error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.63
+2024-12-18T06:30:25Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.200.63
+2024-12-18T06:30:26Z ERR Connection terminated error="timeout: no recent network activity" connIndex=3
+2024-12-18T06:30:27Z ERR Connection terminated error="timeout: no recent network activity" connIndex=1
+2024-12-18T06:30:27Z ERR Connection terminated error="timeout: no recent network activity" connIndex=2
+2024-12-18T06:30:29Z INF Registered tunnel connection connIndex=0 connection=243b04fe-1885-45b4-967d-f1401302e1ad event=0 ip=198.41.200.53 location=dfw06 protocol=quic
+2024-12-18T06:30:29Z INF Registered tunnel connection connIndex=2 connection=6657d1b8-a3ca-44cb-9683-4ca336df9c68 event=0 ip=198.41.200.233 location=dfw08 protocol=quic
+2024-12-18T06:30:29Z INF Registered tunnel connection connIndex=3 connection=f764811f-a671-40f0-a02b-2434d4e9cd27 event=0 ip=198.41.192.47 location=dfw05 protocol=quic
+2024-12-18T06:30:29Z INF Registered tunnel connection connIndex=1 connection=94478131-fa8e-4b26-81d1-2a60a076ab1d event=0 ip=198.41.192.77 location=dfw11 protocol=quic
+2024-12-18T06:38:28Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T06:38:28Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T06:38:28Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T06:38:28Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T06:38:28Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T06:38:28Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T06:38:28Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-18T06:38:28Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-18T06:38:28Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.53
+2024-12-18T06:38:28Z WRN Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-18T06:38:28Z ERR Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.47
+2024-12-18T06:38:28Z ERR Serve tunnel error error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.47
+2024-12-18T06:38:28Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.192.47
+2024-12-18T06:38:29Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0
+2024-12-18T06:38:29Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-18T06:38:30Z ERR Connection terminated error="timeout: no recent network activity" connIndex=3
+2024-12-18T06:38:35Z INF Registered tunnel connection connIndex=0 connection=b3faa202-46d8-4390-b7d8-c12c6b4c0bf6 event=0 ip=198.41.200.53 location=dfw06 protocol=quic
+2024-12-18T06:38:35Z INF Registered tunnel connection connIndex=2 connection=46ce3887-054f-497e-a2e3-83835569485c event=0 ip=198.41.200.233 location=dfw06 protocol=quic
+2024-12-18T06:38:35Z INF Registered tunnel connection connIndex=1 connection=39340514-b4ee-4da0-a714-c885a817ad7b event=0 ip=198.41.192.77 location=dfw11 protocol=quic
+2024-12-18T06:38:35Z INF Registered tunnel connection connIndex=3 connection=f5673c70-03cf-47da-bd9b-5d448868da15 event=0 ip=198.41.192.7 location=dfw05 protocol=quic
+2024-12-18T06:44:33Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-18T06:44:33Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.53
+2024-12-18T06:44:33Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.53
+2024-12-18T06:44:34Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.7
+2024-12-18T06:44:34Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.7
+2024-12-18T06:44:34Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.192.7
+2024-12-18T06:44:34Z WRN Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-18T06:44:34Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T06:44:34Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T06:44:34Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T06:44:34Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T06:44:34Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T06:44:34Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T06:44:34Z ERR Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-18T06:44:35Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-18T06:44:36Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-18T06:44:53Z INF Registered tunnel connection connIndex=1 connection=f4e3de44-ae70-4e2e-ae6e-bcf38a4f7e1b event=0 ip=198.41.192.77 location=dfw11 protocol=quic
+2024-12-18T06:44:53Z INF Registered tunnel connection connIndex=3 connection=1d8a2d64-01b9-455e-bd9c-fec663b45b88 event=0 ip=198.41.192.7 location=dfw05 protocol=quic
+2024-12-18T06:44:53Z INF Registered tunnel connection connIndex=2 connection=0e246307-8377-46bb-9d6b-d8ad8f40c552 event=0 ip=198.41.200.233 location=dfw08 protocol=quic
+2024-12-18T06:44:53Z INF Registered tunnel connection connIndex=0 connection=1ea0dcdc-6c5f-4833-a747-766fbf887eea event=0 ip=198.41.200.113 location=dfw06 protocol=quic
+2024-12-18T06:50:52Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T06:50:52Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T06:50:52Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T06:50:52Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.7
+2024-12-18T06:50:52Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.7
+2024-12-18T06:50:52Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.192.7
+2024-12-18T06:50:52Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T06:50:52Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T06:50:52Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T06:50:52Z ERR Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.113
+2024-12-18T06:50:52Z ERR Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.113
+2024-12-18T06:50:52Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.113
+2024-12-18T06:50:52Z ERR Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-18T06:50:53Z ERR Connection terminated error="timeout: no recent network activity" connIndex=3
+2024-12-18T06:50:53Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-18T06:50:53Z INF Registered tunnel connection connIndex=2 connection=eddf864a-a29f-48a5-af1f-01a0dcfd23c1 event=0 ip=198.41.200.233 location=dfw08 protocol=quic
+2024-12-18T06:50:53Z INF Registered tunnel connection connIndex=0 connection=f01243bb-b1a5-4435-a123-c51ba597d8b6 event=0 ip=198.41.200.13 location=dfw06 protocol=quic
+2024-12-18T06:50:53Z INF Registered tunnel connection connIndex=3 connection=b2981104-baba-404e-9e06-e8ddc90cbc3b event=0 ip=198.41.192.37 location=dfw07 protocol=quic
+2024-12-18T06:50:54Z WRN Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-18T06:51:19Z INF Registered tunnel connection connIndex=1 connection=dcf6d317-3a00-40c9-811d-1ad14ed8d6bd event=0 ip=198.41.192.77 location=dfw05 protocol=quic
+2024-12-18T06:57:06Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.37
+2024-12-18T06:57:06Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.37
+2024-12-18T06:57:06Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.192.37
+2024-12-18T06:57:06Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.13
+2024-12-18T06:57:06Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.13
+2024-12-18T06:57:06Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.13
+2024-12-18T06:57:06Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T06:57:06Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T06:57:06Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T06:57:06Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T06:57:06Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T06:57:06Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T06:57:07Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-18T06:57:07Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-18T06:57:07Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-18T06:57:08Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0
+2024-12-18T06:57:12Z INF Registered tunnel connection connIndex=2 connection=d3c1f13b-6646-4ab3-90cd-c820072623c7 event=0 ip=198.41.200.233 location=dfw08 protocol=quic
+2024-12-18T06:57:12Z INF Registered tunnel connection connIndex=0 connection=1b6a0175-a6d2-4ce3-8c7f-75969b66cbd2 event=0 ip=198.41.200.13 location=dfw08 protocol=quic
+2024-12-18T06:57:12Z INF Registered tunnel connection connIndex=3 connection=1de6150b-f152-4dfe-affe-6fc21d4c7021 event=0 ip=198.41.192.37 location=dfw11 protocol=quic
+2024-12-18T06:57:12Z INF Registered tunnel connection connIndex=1 connection=12a954c5-87a1-4737-9097-05b199894113 event=0 ip=198.41.192.77 location=dfw11 protocol=quic
+2024-12-18T07:03:15Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.13
+2024-12-18T07:03:15Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.13
+2024-12-18T07:03:15Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.13
+2024-12-18T07:03:15Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T07:03:15Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T07:03:15Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T07:03:15Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T07:03:15Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T07:03:15Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T07:03:15Z ERR Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.37
+2024-12-18T07:03:15Z ERR Serve tunnel error error="timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.37
+2024-12-18T07:03:15Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.192.37
+2024-12-18T07:03:15Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-18T07:03:16Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-18T07:03:17Z ERR Connection terminated error="timeout: no recent network activity" connIndex=0
+2024-12-18T07:03:17Z ERR Connection terminated error="timeout: no recent network activity" connIndex=3
+2024-12-18T07:03:24Z INF Registered tunnel connection connIndex=2 connection=c4599456-2985-4462-8c59-44b251ef88a1 event=0 ip=198.41.200.233 location=dfw08 protocol=quic
+2024-12-18T07:03:24Z INF Registered tunnel connection connIndex=0 connection=44671539-ee38-426f-8b51-9a9e99922bf5 event=0 ip=198.41.200.63 location=dfw06 protocol=quic
+2024-12-18T07:03:24Z INF Registered tunnel connection connIndex=1 connection=eafceffb-30ae-42ba-b6d9-2d2d62e14e79 event=0 ip=198.41.192.77 location=dfw05 protocol=quic
+2024-12-18T07:03:24Z INF Registered tunnel connection connIndex=3 connection=0844662e-5049-430f-8546-c42898103071 event=0 ip=198.41.192.57 location=dfw05 protocol=quic
+2024-12-18T07:09:22Z WRN Failed to serve tunnel connection error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T07:09:22Z WRN Serve tunnel error error="timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T07:09:22Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.200.233
+2024-12-18T07:09:23Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T07:09:23Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T07:09:23Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T07:09:23Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.57
+2024-12-18T07:09:23Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.57
+2024-12-18T07:09:23Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.192.57
+2024-12-18T07:09:23Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.63
+2024-12-18T07:09:23Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.63
+2024-12-18T07:09:23Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.63
+2024-12-18T07:09:23Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0
+2024-12-18T07:09:23Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-18T07:09:24Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-18T07:09:24Z ERR Connection terminated error="timeout: no recent network activity" connIndex=2
+2024-12-18T07:09:32Z INF Registered tunnel connection connIndex=3 connection=85579754-05aa-4220-bd90-d6c55176df8c event=0 ip=198.41.192.57 location=dfw05 protocol=quic
+2024-12-18T07:09:32Z INF Registered tunnel connection connIndex=2 connection=ecd02ec8-2a6c-49f4-89e0-e068bdfab103 event=0 ip=198.41.200.23 location=dfw08 protocol=quic
+2024-12-18T07:09:32Z INF Registered tunnel connection connIndex=1 connection=247b44bc-5e39-47b9-a7de-606fe55dcaeb event=0 ip=198.41.192.77 location=dfw11 protocol=quic
+2024-12-18T07:09:32Z INF Registered tunnel connection connIndex=0 connection=75678a16-5db1-45ff-a5de-6cb0ec6ce7af event=0 ip=198.41.200.63 location=dfw08 protocol=quic
+2024-12-18T07:15:29Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T07:15:29Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T07:15:29Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=198.41.192.77
+2024-12-18T07:15:29Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.63
+2024-12-18T07:15:29Z WRN Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.57
+2024-12-18T07:15:29Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0 event=0 ip=198.41.200.63
+2024-12-18T07:15:29Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.63
+2024-12-18T07:15:29Z WRN Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3 event=0 ip=198.41.192.57
+2024-12-18T07:15:29Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=198.41.192.57
+2024-12-18T07:15:29Z ERR Failed to serve tunnel connection error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.23
+2024-12-18T07:15:29Z ERR Serve tunnel error error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2 event=0 ip=198.41.200.23
+2024-12-18T07:15:29Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=198.41.200.23
+2024-12-18T07:15:29Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=0
+2024-12-18T07:15:29Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=1
+2024-12-18T07:15:30Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=2
+2024-12-18T07:15:30Z ERR Connection terminated error="failed to accept QUIC stream: timeout: no recent network activity" connIndex=3
+2024-12-18T07:15:37Z INF Registered tunnel connection connIndex=2 connection=9a781f70-ff86-4584-9b6d-81390ffb3851 event=0 ip=198.41.200.23 location=dfw08 protocol=quic
+2024-12-18T07:15:37Z INF Registered tunnel connection connIndex=3 connection=c4e2b833-cef0-4c31-a6cd-d4c08187a1ee event=0 ip=198.41.192.57 location=dfw01 protocol=quic
+2024-12-18T07:15:37Z INF Registered tunnel connection connIndex=1 connection=9af96436-7f41-42b2-b9b0-9df8df68ca70 event=0 ip=198.41.192.77 location=dfw05 protocol=quic
+2024-12-18T07:15:37Z INF Registered tunnel connection connIndex=0 connection=3efda6cc-1cd1-4510-a90f-4b5536e0b487 event=0 ip=198.41.200.63 location=dfw06 protocol=quic

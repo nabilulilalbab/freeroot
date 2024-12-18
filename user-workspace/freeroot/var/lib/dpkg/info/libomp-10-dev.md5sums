@@ -1,0 +1,6 @@
+9d2bde305c1f6112024647f61402faf3  usr/lib/llvm-10/include/openmp/omp-tools.h
+85cbc24b9d287f1c191cfff6a76727aa  usr/lib/llvm-10/include/openmp/omp.h
+233838323ab67e4af6de1fc1d105f71b  usr/lib/llvm-10/lib/libarcher.so
+8ce3d49e789cee9d18646d7614d305ae  usr/lib/llvm-10/lib/libarcher_static.a
+06250c2bde0ea84a4cc7734ba71f3438  usr/lib/llvm-10/lib/libomptarget.so
+58e9c022801e118e225247276f1341bc  usr/share/doc/libomp-10-dev/copyright

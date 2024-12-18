@@ -1,0 +1,2 @@
+/etc/systemd/system/multi-user.target.wants/redis-server.service
+/etc/systemd/system/redis.service

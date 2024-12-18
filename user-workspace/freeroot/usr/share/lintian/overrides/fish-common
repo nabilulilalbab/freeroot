@@ -1,0 +1,12 @@
+# There is an upstream changelog, but it does not have useful content.
+fish-common: no-upstream-changelog
+# These directories are intentionally empty, until we start shipping Debian-specific files in them.
+fish-common: package-contains-empty-directory usr/share/fish/vendor_completions.d/
+fish-common: package-contains-empty-directory usr/share/fish/vendor_conf.d/
+fish-common: package-contains-empty-directory usr/share/fish/vendor_functions.d/
+# These shebangs are not used, so their incorrectness is irrelevant
+fish-common: python-script-but-no-python-dep usr/share/fish/tools/create_manpage_completions.py #!/usr/bin/python
+fish-common: python-script-but-no-python-dep usr/share/fish/tools/deroff.py #!/usr/bin/python
+fish-common: python-script-but-no-python-dep usr/share/fish/tools/web_config/webconfig.py #!/usr/bin/python
+#
+script-not-executable

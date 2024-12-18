@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/llvm-10
+/usr/lib/llvm-10/lib
+/usr/lib/llvm-10/lib/libclang-cpp.so.10
+/usr/lib/x86_64-linux-gnu
+/usr/share
+/usr/share/doc
+/usr/share/doc/libclang-cpp10
+/usr/share/doc/libclang-cpp10/copyright
+/usr/lib/x86_64-linux-gnu/libclang-cpp.so.10
+/usr/share/doc/libclang-cpp10/NEWS.Debian.gz
+/usr/share/doc/libclang-cpp10/changelog.Debian.gz

@@ -1,0 +1,6 @@
+6d20ac1a59d6069cf13022dc1f0b266d  usr/lib/python3.11/ensurepip/__init__.py
+11d1e26338335392d8a629f28ef1c9ff  usr/lib/python3.11/ensurepip/__main__.py
+74e3c5e4082113b1239ca0e9abfd1e82  usr/lib/python3.11/ensurepip/_bundled/pip-24.0-py3-none-any.whl
+78d2c81cfe3692a8e9e1cad76eb84cc4  usr/lib/python3.11/ensurepip/_bundled/setuptools-65.5.0-py3-none-any.whl
+118c49f8898fdc689e18f886008e0281  usr/lib/python3.11/ensurepip/_uninstall.py
+8d755a202058b26d6ed28bc945fdb5a4  usr/share/lintian/overrides/python3.11-venv

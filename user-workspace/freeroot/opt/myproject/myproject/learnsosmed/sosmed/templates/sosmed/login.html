@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% load static %}
+{% block title %}Login{% endblock %}
+
+{% block content %}
+    {% include "navbar.html" %}
+    {% include "navbarmobile.html" %}
+    {% include "category.html" %}
+    <div class="bg-yellow-200 border-4 border-black p-8 mx-auto mt-12 max-w-md">
+        {% if messages %}
+            {% for message in messages %}
+                <div class="p-4 mb-4 text-black border-2 border-black bg-red-100 font-bold">
+                    {{ message }}
+                </div>
+            {% endfor %}
+        {% endif %}
+        <h2 class="text-3xl font-black mb-6 text-center text-black">Login</h2>
+        <form method="post" class="space-y-4">
+            {% csrf_token %}
+            <div>
+                <label for="username" class="block text-sm font-bold text-black">email</label>
+                <input type="text" name="username" id="username" required class="mt-1 block w-full border-2 border-black bg-white p-2 outline-none focus:border-red-500">
+            </div>
+            <div>
+                <label for="password" class="block text-sm font-bold text-black">Password</label>
+                <input type="password" name="password" id="password" required class="mt-1 block w-full border-2 border-black bg-white p-2 outline-none focus:border-red-500">
+            </div>
+            <button type="submit" class="w-full bg-black text-yellow-200 py-2 border-2 border-black font-bold transition-colors hover:bg-red-500 hover:border-red-500">
+                Login
+            </button>
+        </form>
+        {% if form.non_field_errors %}
+            <div class="mt-4 text-red-700 font-bold">{{ form.non_field_errors }}</div>
+        {% endif %}
+        <p class="mt-4 text-center text-sm text-black">
+    Belum punya akun? <a href="{% url 'sosmed:register' %}" class="text-blue-600 hover:text-red-500 underline">Daftar di sini</a>
+</p>
+    </div>
+    <h3 class="mt-6 text-center">Guys, lu sekarang login sebagai: <span class="font-bold text-black">{{ user }}</span></h3>
+{% endblock %}

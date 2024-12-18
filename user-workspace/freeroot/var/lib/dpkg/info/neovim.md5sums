@@ -1,0 +1,12 @@
+6efbcfbd5f3965ae5d7842e824bcc9cd  usr/bin/nvim
+259f457cfd65e2f0ca4a1ba47f26d4ef  usr/lib/x86_64-linux-gnu/nvim/parser/bash.so
+76db32252d69c06f3ed6630cb3fa9b8d  usr/lib/x86_64-linux-gnu/nvim/parser/c.so
+3e29fb1738d2cbcd61afd058775bbf1a  usr/lib/x86_64-linux-gnu/nvim/parser/lua.so
+cda6e2737082b37b4da9138b97e1da58  usr/lib/x86_64-linux-gnu/nvim/parser/markdown.so
+faa408758350c9876f91d29a40048d90  usr/lib/x86_64-linux-gnu/nvim/parser/markdown_inline.so
+f40239082a7c924948b7067da32c95ec  usr/lib/x86_64-linux-gnu/nvim/parser/python.so
+80975f98afbd61ece077f464f2010f4b  usr/lib/x86_64-linux-gnu/nvim/parser/query.so
+86bd627f30766163b2908d8cef93b114  usr/lib/x86_64-linux-gnu/nvim/parser/vim.so
+029298a4e3f2190b5e59b8648408da0a  usr/lib/x86_64-linux-gnu/nvim/parser/vimdoc.so
+10562f3ff419c58e0b30c7ab7383c0de  usr/share/doc/neovim/changelog.Debian.gz
+fe4c8ed30c2feccaa4287954c8152d7b  usr/share/doc/neovim/copyright

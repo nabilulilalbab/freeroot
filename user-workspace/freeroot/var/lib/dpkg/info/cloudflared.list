@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/bin
+/usr/bin/cloudflared
+/usr/share
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/cloudflared.1
+/usr/share/doc
+/usr/share/doc/cloudflared
+/usr/share/doc/cloudflared/changelog.gz
